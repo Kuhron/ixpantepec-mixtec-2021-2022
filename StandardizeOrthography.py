@@ -1,3 +1,5 @@
+import random
+import re
 
 
 class Word:
@@ -15,6 +17,9 @@ class Word:
 
     def tuple(self):
         return (self.form, self.glosses)
+
+    def __repr__(self):
+        return f"<[{self.form}] = {self.glosses}>"
 
 
 def get_wordforms_raw():
@@ -57,7 +62,10 @@ def standardize_forms(words):
         ["\u027e", "r"],  # fishhook
         ["\u02b7", "w"],  # labialization diacritic > w
         ["\u03b2", "v"],  # beta
+        ["x", "h"],  # h/x
         ["\u0300", "L"], ["\u0301", "H"], ["\u0304", "M"], ["\u1dc4", "MH"], ["\u1dc5", "LM"],  # tone diacritics
+        ["\u025f", "d\u02b2"], ["c", "t\u02b2"],  # palatal stops
+        ["y", "\u02b2"],  # only 5 words with <y>, always after a coronal or k, so can use palatalization diacritic for this
     ]
 
     res = []
@@ -73,12 +81,36 @@ def standardize_forms(words):
 ç b'\\xe7'  # some could be h, some could be curly c
 ð b'\\xf0'
 ŋ b'\\u014b'
-ɟ b'\\u025f'  # could be dj, dz, or gj
 ɣ b'\\u0263'
 ɲ b'\\u0272'
 ʔ b'\\u0294'
 ʲ b'\\u02b2'
 """
+
+def get_words_without_suprasegmentals(words):
+    supras = "LMHN"
+    res = []
+    for w in words:
+        f = w.form
+        for c in supras:
+            f = f.replace(c, "")
+        w2 = Word(f, w.glosses)
+        res.append(w2)
+    return res
+
+
+def get_words_with_regex(words, pattern, ignore_suprasegmentals=False):
+    res = []
+    if ignore_suprasegmentals:
+        words2 = get_words_without_suprasegmentals(words)
+    else:
+        words2 = words
+
+    for w, w2 in zip(words, words2):
+        if re.search(pattern, w2.form):
+            res.append(w)  # search the edited form but add the original
+    return res
+
 
 if __name__ == "__main__":
     words = get_wordforms_raw()
@@ -89,3 +121,20 @@ if __name__ == "__main__":
     print("all characters:")
     for c in sorted(chars):
         print(c, c.encode("unicode_escape"))
+        words_with_char = [w for w, g in tups if c in w]
+        sample_words_with_char = random.sample(words_with_char, min(5, len(words_with_char)))
+        print(f"found in {len(words_with_char)} words; sample:", sample_words_with_char)
+        print()
+
+    vowels = "aeiou"
+    words_without_supras = get_words_without_suprasegmentals(words)
+    for v1 in vowels:
+        for v2 in vowels:
+            if v1 == v2:
+                continue
+            seq = v1 + v2
+            words_with_seq = get_words_with_regex(words, seq, ignore_suprasegmentals=True)
+            print(seq, words_with_seq)
+            print()
+
+    print(get_words_with_regex(words, "HN?.M"))
