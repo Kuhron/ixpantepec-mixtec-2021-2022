@@ -1,0 +1,179 @@
+26.728897	27.721254	meNiN - 1sg
+28.914957	29.770685	meNiN - 1sg
+30.719895	31.532477	whistle - meNiN - 1sg
+32.898764	33.704155	meNiN - 1sg
+43.591720	44.476940	zuqu - 1sg
+45.447036	46.460965	zuqu - 1sg
+47.568377	48.567924	zuqu - 1sg
+48.920282	49.833538	whistle - zuqu - 1sg
+57.348119	58.189464	meNuN - 2sg
+59.117101	59.965638	meNuN - 2sg
+61.360689	62.180462	whistle - meNuN - 2sg
+64.186747	65.143148	meNuN - 2sg
+65.358878	66.236178	zoqo - 2sg
+67.739095	68.522912	zoqo - 2sg
+69.414594	70.198412	zoqo - 2sg
+70.529197	71.284251	whistle - zoqo - 2sg
+79.072090	80.028491	meNndo - 2pl
+80.884218	81.905338	meNndo - 2pl
+83.099042	84.098589	meNndo - 2pl
+84.566003	85.565550	whistle - meNndo - 2pl
+86.277458	87.262623	whistle - meNndo - 2pl
+95.438775	97.006410	ndziqeeve meNndo - you two
+97.775846	99.307526	ndziqeeve meNndo - you two
+100.184826	101.709316	ndziqeeve meNndo - you two
+103.888185	104.988405	eeve meNndo - you two
+106.052672	107.289521	eeve meNndo - you two/too
+108.087721	109.331761	eeve meNndo - you two/too
+109.605019	110.863442	whistle - eeve meNndo - you two/too
+111.611304	112.891300	whistle - eeve meNndo - you two/too
+124.864293	125.777548	meNra - he
+127.373947	128.222483	meNra - he
+129.099784	130.113713	meNra - he
+131.278653	132.278200	whistle - meNra - he
+133.097972	134.097520	meNra - he
+137.211217	137.858406	tyikaa - he
+139.785590	140.727609	tyikaa - he
+141.777493	142.676367	tyikaa - he
+143.769397	144.661079	tyikaa - he
+145.193212	146.113658	whistle - tyikaa - he
+146.667364	147.645338	whistle - tyikaa - he
+152.650265	153.577902	meNnya - she
+154.699696	155.756771	meNnya - she
+156.346432	157.281261	meNnya - she
+158.194516	159.301928	nyakaa - she
+160.323048	161.351359	nyakaa - she
+162.207086	163.156297	whistle - nyakaa - she
+163.947305	164.989998	whistle - nyakaa - she
+172.979185	174.913560	mee tyika niseNaN - he bought this
+175.798051	177.574225	mee tyika niseNaN - he bought this
+184.448808	186.347229	meeNo tyika niseNaN - he bought this
+186.505430	188.073066	meeNo tyika niseNaN - he bought this
+188.641154	190.582720	whistle - meeNo tyika niseNaN - he bought this
+191.330583	193.164284	whistle - meeNo tyika niseNaN - he bought this
+193.775518	195.479782	meeNo tyika niseNaN - he bought this
+201.649648	202.498185	meeN - we
+203.655934	204.633908	meeN - we
+205.604691	206.532328	meeN - we
+207.704459	208.502659	meeN - we
+209.466251	210.250068	meeN - we
+213.370957	214.456796	eeve meeN - we two
+215.319714	216.441508	eeve meeN - we two
+216.944877	218.088244	eeve meeN - we two
+218.375883	219.548014	whistle - eeve meeN - we two
+221.029358	222.647330	ndziqeeve meeN - we two
+223.035643	224.603278	ndziqeeve meeN - we two
+224.905299	226.559226	whistle - ndziqeeve meeN - we two
+226.997876	228.464838	whistle - ndziqeeve meeN - we two
+232.563700	234.152908	ndzi uuni meeN - we three
+234.634704	236.094475	ndzi uuni meeN - we three
+236.590653	238.086378	whistle - ndzi uuni meeN - we three
+238.460309	239.984798	whistle - ndzi uuni meeN - we three
+240.890863	242.077376	uuni meeN - we three
+242.818047	244.069279	uuni meeN - we three
+244.637367	245.831071	whistle - uuni meeN - we three
+246.255339	247.405897	whistle - uuni meeN - we three
+250.979817	252.094420	meNna - they
+252.720036	253.726774	meNna - they
+254.625647	255.582049	meNna - they
+256.042272	257.200021	whistle - meNna - they
+257.617098	258.638218	whistle - meNna - they
+259.328553	260.414392	nakaa - they
+263.362696	264.448535	nakaa - they
+264.887185	265.937069	nakaa - they
+266.426056	267.389649	whistle - nakaa - they
+268.108747	269.158631	whistle - nakaa - they
+273.142438	274.005356	zoqo - here
+274.947376	275.709620	zoqo - here
+276.759504	277.442648	zoqo - here
+277.938826	278.665116	whistle - zoqo - here
+279.341068	280.153650	whistle - zoqo - here
+283.504650	284.396332	ndyaaka - there
+285.510935	286.416999	ndyaaka - there
+287.200817	288.200364	ndyaaka - there
+288.854744	289.717662	whistle - ndyaaka - there
+290.271368	291.098332	whistle - ndyaaka - there
+291.601701	292.428664	ndyaaka - there
+297.462355	298.569767	ndzindyaaka - over there
+299.411112	300.834928	ndzindyaaka - over there
+301.999868	303.358964	ndzindyaaka - over there
+303.711322	304.962554	whistle - ndzindyaaka - over there
+305.818281	307.040749	whistle - ndzindyaaka - over there
+308.119397	309.607931	whistle - ndzindyaaka - over there
+325.356192	326.909445	nuuN meesa - on top of the table
+327.484724	329.002022	nuuN meesa - on top of the table
+329.685166	331.144937	nuuN meesa - on top of the table
+331.238419	332.525606	whistle - nuuN meesa - on top of the table
+333.287851	334.668520	nuuN meesa - on top of the table
+335.739977	337.170983	nuuN ziito - on top of the table
+337.645588	338.925584	nuuN ziito - on top of the table
+339.421762	340.795241	nuuN ziito - on top of the table
+341.672541	342.938155	whistle - nuuN ziito - on top of the table
+343.606916	345.210506	whistle - nuuN ziito - on top of the table
+347.885553	348.741281	nuuN - face
+350.467118	351.409137	nuuN - face
+352.710706	353.846881	nuuN - face
+354.709800	355.515190	whistle - nuuN - face
+356.550692	357.478330	whistle - nuuN - face
+365.323696	366.675602	tyiisi meesa - under the table
+367.308409	368.876044	tyiisi meesa - under the table
+369.501659	370.939857	tyiisi meesa - under the table
+371.507945	372.809513	whistle - tyiisi meesa - under the table
+373.442320	374.808608	whistle - tyiisi meesa - under the table
+379.072863	380.726790	tyiisi siiya - under the chair
+381.115103	382.675547	tyiisi siiya - under the chair
+383.020714	384.516440	tyiisi siiya - under the chair
+385.825199	387.076431	whistle - tyiisi siiya - under the chair
+387.479126	388.730358	whistle - tyiisi siiya - under the chair
+391.110574	392.045403	kuuni - yesterday
+392.908321	393.943823	kuuni - yesterday
+394.713259	395.698424	kuuni - yesterday
+396.216175	397.129430	whistle - kuuni - yesterday
+397.848529	398.768975	whistle - kuuni - yesterday
+402.191885	403.392780	ityaaN - tomorrow
+404.090305	405.284009	ityaaN - tomorrow
+406.046254	407.268721	ityaaN - tomorrow
+408.002202	409.037704	whistle - ityaaN - tomorrow
+409.792758	410.928934	whistle - ityaaN - tomorrow
+413.647127	414.495663	viityi - today
+415.523974	416.480375	viityi - today
+417.393631	418.335650	viityi - today
+419.234523	420.061487	whistle - viityi - today
+420.845304	421.765751	whistle - viityi - today
+435.709074	436.981878	iiN - one
+437.744123	438.837153	iiN - one
+441.260516	442.166580	iiN - one
+442.166580	443.000734	eeve - two
+443.000734	443.913990	uuni - three
+443.913990	444.769717	koomi - four
+444.769717	445.690163	uNquN - five
+445.690163	446.732856	iinyo - six
+446.732856	447.811504	uusa - seven
+447.811504	448.897343	uuna - eight
+448.897343	449.968800	iiN - nine
+449.968800	450.903629	uusi - ten
+451.723401	452.773285	iiN - one
+453.319800	454.333729	iiN - one
+454.988109	456.002038	eeve - two
+456.915294	457.878886	eeve - two
+458.612366	459.662250	uuni - three
+460.237529	461.308986	uuni - three
+461.913029	463.027632	koomi - four
+463.509428	464.573694	koomi - four
+465.091445	466.105374	uNquN - five
+466.587171	467.766492	uNquN - five
+468.169188	469.384464	iinyo - six
+470.074799	471.254121	iinyo - six
+471.829400	472.929621	iinyo - six
+473.497709	474.540402	uusa - seven
+475.050962	476.208711	uuna - eight
+476.575451	477.697245	uuna - eight
+478.028030	479.142633	iiN - nine
+479.581284	480.588022	iiN - nine
+481.084200	482.105320	uusi - ten
+482.810037	483.910257	uusi - ten
+502.542104	509.258486	untranscribed - how do you say blank in Mixtec
+512.142071	515.119140	untranscribed - how do you say cup in Mixtec
+516.622056	517.556884	tuNquN havi - Mixtec
+520.418897	521.360916	tuNquN havi - Mixtec
+532.586046	537.555018	untranscribed - how do you say cup in Mixtec

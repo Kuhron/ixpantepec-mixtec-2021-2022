@@ -1,0 +1,371 @@
+213.532855	214.757268	ndasi - wet
+215.472520	216.236263	ndasi - wet
+217.084866	217.872855	ndasi - wet
+255.963023	257.223806	viisha - wet
+258.072409	258.860398	viisha - wet
+264.643024	265.491627	ndasi - wet
+267.710119	268.776934	viisha - wet
+282.766767	283.530510	viisha - wet
+284.015426	285.385315	viisha haqmiiN - my clothes are wet
+299.872187	300.817773	viisha - wet
+340.011126	341.647718	nindaasiiN - I got wet
+345.175484	346.787830	nindaasiiN - I got wet
+352.037048	353.685763	nindaasi haqmiiN - my clothes got wet
+358.595540	360.135149	viisha haqmiiN - my clothes are wet
+363.347719	364.887328	X ndaasi haqmiiN - my clothes are wet (ungrammatical)
+367.651350	368.984870	viisha haqmaiN - my clothes are wet
+387.763250	388.866435	viisha - wet
+429.235710	430.241911	ndzaaka - there
+431.126883	432.048224	ndzaaka - there
+432.872581	433.903028	whistle - ndzaaka - there
+436.085151	437.309564	whistle - viisha - wet
+479.679119	480.745934	kyaqa - brother
+481.885487	482.891689	kyaqa - brother
+484.261577	485.485990	whistle - kyaqa - brother
+486.395208	487.340795	whistle - kyaqa - brother
+488.904650	489.947220	whistle - viisha - wet
+505.100851	506.155544	kyaqa - brother
+506.555600	507.489064	whistle - kyaqa - brother
+508.943812	509.816661	whistle - kyaqa - brother
+511.150181	512.095768	whistle - viisha - wet
+512.095768	512.544315	uhuh
+512.883756	513.695991	whistle - viisha - wet
+571.279791	571.910183	kwiya - year
+572.298116	573.170965	kwiya - year
+573.655881	574.649959	kwiya - year
+574.843926	575.644037	whistle - kwiya - year
+576.395658	577.244261	kwiya - year
+577.353367	578.201970	whistle - kwiya - year
+582.505602	583.245099	kwiya - year
+588.082138	588.906496	kwiya - year
+601.077893	601.914373	shoo - (unknown)
+633.664262	634.549234	whistle - kwiya - year
+643.920240	644.877950	kwiya - year
+748.092366	749.219796	kompaali - compadre
+749.438008	750.456332	kompaali - compadre
+752.880914	753.693148	mbaa - compadre
+754.275048	754.941807	mbaa - compadre
+808.282591	809.797954	kyaqi kiqviiN - friend
+811.204211	812.816558	amigaiN amigoiN - my friend
+817.253541	818.368848	tamaani - father in law
+823.084658	824.151474	tamaani - father in law
+826.418457	827.606502	namaani - mother in law
+833.667955	834.734770	mbaa - compadre
+845.984827	847.330469	mbaa - compadre
+848.166950	849.451978	mbaa - compadre
+862.096168	862.944771	mbaa - compadre
+886.742034	887.639129	landzi - belly button
+938.034047	939.100863	nasaqno - elders
+1048.400977	1049.358687	zaakwa - dirt clod
+1085.545559	1087.351872	leeka tcilaala - bladder
+1088.891481	1089.630978	leeka - bag
+1090.431090	1091.558520	tcilaala - pee
+1093.740643	1095.207515	leeka tcilaala - bladder
+1126.193661	1127.563549	laambauN - your tummy
+1130.739750	1132.303605	laamba loquN - your little tummy
+1140.062264	1141.201818	laamba - stomach
+1145.917628	1146.863214	laamba - stomach
+1161.253103	1163.774667	leeka tcilaala - bladder
+1166.199248	1167.326679	laamba - stomach
+1167.326679	1168.296511	laamba - stomach
+1168.296511	1169.484556	whistle - laamba - stomach
+1175.630869	1176.673439	iilo - rabbit
+1180.419416	1184.104780	tone - laamba vs iilo - stomach vs rabbit
+1268.286234	1269.171206	tyaqzi - rotten
+1276.481318	1277.996681	nityaqzi - rotten
+1277.996681	1278.724056	tyaqzi - rotten
+1283.536849	1284.627911	tyaqzi - rotten
+1284.918860	1285.815955	tyaqzi - rotten
+1286.058413	1286.773665	tyiina - dog
+1286.991877	1287.755620	tyaqzi - rotten
+1290.107464	1291.040928	whistle - tyaqzi - rotten
+1291.744056	1292.689643	whistle - tyaqzi - rotten
+1296.241654	1297.114503	tyaqzi - rotten
+1315.662548	1317.165789	tunimaani - spoiled like child
+1317.250649	1318.244727	maani - spoiled like child
+1320.245007	1321.045118	maani - spoiled like child
+1321.808861	1323.057521	whistle - maani - spoiled like child
+1324.827465	1325.724560	maani - spoiled like child
+1345.460650	1347.521544	tunimaaniuN - spoiled like child
+1348.467130	1350.358303	tunimaani zoqo - spoiled like child
+1353.316292	1354.249756	whistle - maani - spoiled like child
+1364.202661	1365.087633	maani - godmother
+1367.500092	1368.760874	namaani - godmother
+1372.555343	1373.331209	shoNquN - money
+1385.235902	1385.987522	shoNquN - money
+1392.461154	1393.212774	shoNquN - money
+1508.259146	1509.495682	ndziiba - guaje
+1510.901939	1511.847526	ndziiba - guaje
+1594.295405	1595.240991	ndziiba - guaje
+1596.889707	1597.980768	whistle - ndziiba - guaje
+1601.472165	1603.593673	shoNquN - money
+1605.654567	1606.660768	whistle - shoNquN - money
+1609.218701	1610.358254	whistle - laamba - stomach
+1611.861495	1612.916187	whistle - ndziiba - guaje
+1618.274512	1619.608031	nyasheeN - weapon
+1619.801998	1621.026411	whistle - nyasheeN - weapon
+1622.105350	1623.560098	nyasheeN - weapon
+1692.636413	1693.921441	nundziiba - Oaxaca
+1694.563955	1695.739877	nyakoqzo - Mexico
+1703.159095	1704.601721	nyandziiba - Oaxaca
+1706.214067	1707.971888	nyandziiba - Oaxaca
+1713.160492	1715.051665	nundziiba - Oaxaca
+1719.670492	1720.713062	nyandziiba - Oaxaca
+1722.301162	1723.598313	nundziiba - Oaxaca
+1732.241945	1733.623956	nundziiba - Oaxaca
+1744.777029	1746.207532	whistle - nundziiba - Oaxaca
+1747.395576	1748.923062	whistle - nundziiba - Oaxaca
+1834.741109	1835.553344	tyizaqa - eagle
+1838.050663	1839.032618	tyizaqa - eagle
+1848.136920	1849.130998	tyizaqa - eagle
+1856.865412	1857.823121	tyizaqa - eagle
+1859.059658	1860.453792	whistle - tyizaqa - eagle
+1860.381054	1861.181166	uhuhuh
+1861.314518	1862.648037	whistle - tyizaqa - eagle
+1883.729770	1884.590496	tyizaqa - eagle
+1884.590496	1885.984630	whistle - tyizaqa - eagle
+1886.990831	1888.130385	whistle - tyizaqa - eagle
+1916.279771	1917.564799	siiniiN - I know
+1926.766084	1927.663179	tceqi - I know how
+1928.439045	1929.324017	tceqi - I know how
+1930.790888	1931.627369	tceqi - I know how
+1941.859101	1943.047146	tceqi - I know how
+1960.928431	1961.874018	tceqi - I know how
+1963.025694	1964.080387	tceqi - I know how
+1964.698655	1965.947314	whistle - tceqi - I know how
+1966.565582	1967.789996	whistle - tceqi - I know how
+2008.923013	2010.098935	tceqi - I know how
+2013.372120	2014.426812	tceqi - I know how
+2014.584410	2016.063405	whistle - tceqi - I know how
+2016.633181	2017.736366	whistle - tceqi - I know how
+2049.571115	2050.589439	tyikiiva - butterfly
+2051.559271	2052.553350	tyikiiva - butterfly
+2054.783964	2055.620445	tyikiiva - butterfly
+2055.620445	2056.820612	whistle - tyikiiva - butterfly
+2058.081395	2059.511897	whistle - tyikiiva - butterfly
+2060.772680	2062.397149	whistle - tyikiiva - butterfly
+2063.003294	2064.761115	tyikiiva - butterfly
+2065.391506	2067.464523	whistle - tyikiiva - butterfly
+2086.800557	2088.097708	tyikatyi - unknown animal
+2090.534412	2091.370893	tyikatyi - unknown animal
+2117.156312	2118.441340	nyakoqzo - Mexico City
+2126.406089	2127.848715	nukoqzo - Mexico City
+2128.212402	2129.715642	nyakoqzo - Mexico City
+2133.679832	2136.140782	nukoqzo vs nyakoqzo - Mexico City
+2145.754246	2147.657542	nukoqzo - Mexico City
+2150.082123	2151.330782	nyakoqzo - Mexico City
+2173.927878	2175.031062	koqo - plate
+2181.686537	2183.456482	nyakoqzo - Mexico City
+2198.828326	2199.883018	viiti - today
+2199.883018	2201.046817	ityaaN - tomorrow
+2201.155923	2202.343968	kuuni - yesterday
+2203.507767	2205.059499	kunyuuN - day before yesterday
+2206.599108	2207.253745	viiti - today
+2207.253745	2208.078102	ityaaN - tomorrow
+2208.078102	2209.096426	kuuni - yesterday
+2210.151119	2211.011845	kuuni - yesterday
+2216.721734	2218.188605	viiti - today
+2219.085700	2220.710170	ityaaN - tomorrow
+2221.655756	2223.668159	kunyuuN - day before yesterday
+2229.778103	2230.917656	kunyuuN - day before yesterday
+2232.093578	2233.548327	kuuni kunyuuN - three days ago
+2237.524639	2238.930896	kuuni kunyuuN - three days ago
+2259.636819	2262.025031	kuuni kunyuuN - three days ago
+2301.206261	2302.770116	kuuni kunyuuN - three days ago
+2317.378217	2318.772351	kuuni kunyuuN - three days ago
+2341.284586	2342.108944	ityaaN - tomorrow
+2366.366877	2367.312464	ityaaN - tomorrow
+2367.857995	2368.827827	ityaaN - tomorrow
+2371.664587	2372.937492	whistle - ityaaN - tomorrow
+2374.283135	2375.483302	whistle - ityaaN - tomorrow
+2376.525872	2377.726040	ityaaN - tomorrow
+2382.175146	2383.581403	ityaaN - tomorrow
+2391.582521	2392.770565	ityaaN - tomorrow
+2392.770565	2394.128331	whistle - ityaaN - tomorrow
+2405.984532	2407.051348	iixa - day after tomorrow
+2411.573192	2412.361180	iixa - day after tomorrow
+2414.616041	2415.707102	iixa - day after tomorrow
+2418.374141	2419.525817	whistle - iixa - day after tomorrow
+2422.738387	2423.853695	whistle - iixa - day after tomorrow
+2424.532577	2425.538778	whistle - iixa - day after tomorrow
+2425.538778	2426.278276	iixa - day after tomorrow
+2431.842689	2432.897382	iixa - day after tomorrow
+2432.897382	2433.697494	whistle - iixa - day after tomorrow
+2435.746265	2436.679728	whistle - iixa - day after tomorrow
+2442.389617	2443.589785	iixa ityaaN - three days from now
+2443.589785	2444.086824	achoo
+2445.941628	2446.996321	iixa ityaaN - three days from now
+2458.052411	2459.240455	kuuni kunyuuN - three days ago
+2472.830232	2473.448500	taata - father
+2474.478947	2475.412411	taata - father
+2492.239004	2493.390680	tyiziiki - seed
+2504.010345	2505.283250	tyiziiki - seed
+2508.144255	2509.041350	tyiziiki - seed
+2511.465932	2512.738837	tyiziiki - seed
+2513.066155	2513.926881	tyiziiki - seed
+2514.011742	2514.908837	ziiki - squash
+2516.327217	2517.369786	tyiziiki - seed
+2577.511520	2579.184481	zuuku taata - medicine
+2579.184481	2580.457386	nyataata - medicine
+2581.063531	2582.154593	nyataata - medicine
+2584.627665	2585.682358	whistle - nyataata - medicine
+2588.652470	2589.646548	taata - father
+2589.925375	2590.689118	whistle - taata - father
+2636.683421	2637.701745	nyataata - medicine
+2637.701745	2638.441242	taata - medicine
+2639.289846	2640.017220	taata - medicine
+2645.678617	2646.345376	taata - medicine
+2656.710460	2657.365097	taata - medicine
+2660.323086	2663.232584	unknown
+2663.232584	2664.905544	keNqeN taata nuuna - unknown
+2667.475600	2668.287835	taata - father
+2668.603031	2669.294036	taata - father
+2716.791579	2717.700797	tcaa - man
+2718.500909	2719.313144	tcaa - man
+2730.842027	2731.702753	tcaa - man
+2742.528507	2743.631692	whistle - tcaa - man
+2743.789290	2744.940966	whistle - tcaa - man
+2745.086440	2745.971413	tcaa - man
+2746.383591	2747.353424	whistle - tcaa - man
+2756.760798	2757.985212	tcaa - man
+2758.264039	2759.185379	whistle - tcaa - man
+2787.128676	2788.268229	nyaqa - woman
+2802.742978	2803.967392	nyaqa - woman
+2804.343202	2805.446386	whistle - nyaqa - woman
+2809.240856	2810.137951	nyaqa - woman
+2810.368286	2811.362364	whistle - nyaqa - woman
+2823.218565	2824.564208	tamaani - father in law
+2826.709962	2827.813147	tamaani - father in law
+2838.020633	2838.954097	whistle - tamaani - father in law
+2840.796778	2841.899963	whistle - tamaani - father in law
+2843.548678	2844.688231	whistle - tamaani - father in law
+2848.337225	2849.452533	tamaani - father in law
+2854.847225	2855.962533	namaani - mother in law
+2856.386834	2857.623371	namaani - mother in law
+2881.457003	2882.535941	namaani - mother in law
+2914.285830	2915.534490	haqzi - son daughter
+2916.177004	2917.183205	haqzi - son daughter
+2920.577618	2921.341361	haqzi - son daughter
+2923.814434	2925.075216	haqzi - son daughter
+2925.778345	2926.723931	haqzi - son daughter
+2933.161194	2934.312870	seqe - son daughter (other dialect)
+2935.270579	2936.167674	haqzi - son daughter
+2943.514155	2944.520356	haqzi - son daughter
+2948.775496	2949.575608	seqe - son daughter (other dialect)
+2952.000189	2953.030636	whistle - seqe - son daughter (other dialect)
+2953.030636	2953.964100	whistle - seqe - son daughter (other dialect)
+2954.521753	2955.503709	seqe - son daughter (other dialect)
+2972.354547	2973.954770	haqi khaa - son in law
+2984.622927	2985.810972	haqi khaa - son in law
+2989.581195	2991.023821	haqzi - son daughter
+3012.190414	3013.511811	haqzi - son daughter
+3022.603990	3024.058738	haqzi zii iN - my son
+3025.016448	3026.204492	haqzi zii iN - my son
+3027.841085	3029.538291	haqi hiqi - my daughter
+3030.265666	3031.490079	haqi hiqi - my daughter
+3032.872090	3033.914660	hiqi - female
+3034.193487	3034.945107	hiqi - female
+3035.430023	3036.230135	tcaa - man
+3036.230135	3037.272705	hiqi - female
+3040.194325	3041.018683	zii - male
+3041.721811	3042.352202	hiqi - female
+3046.195163	3047.152873	tcaa - man
+3058.196840	3059.081812	navali - girls
+3060.803264	3061.906449	tyivali - boys
+3064.246169	3065.276616	navali - girls
+3066.670751	3067.543600	navali - girls
+3067.555723	3068.489186	tyivali - boys
+3071.010751	3071.980583	tyivali - boys
+3071.980583	3072.998907	whistle - tyivali - boys
+3082.030472	3082.879075	tyivali - boys
+3082.939689	3083.897399	uhuhuh
+3084.115611	3085.170304	tyivali - boys
+3089.789131	3090.710472	tyivali - boys
+3092.589522	3093.498740	whistle - tyivali - boys
+3094.092762	3095.111086	whistle - tyivali - boys
+3095.996059	3096.978014	tyivali - boys
+3105.076115	3106.045947	tyiloqo - boy
+3107.985612	3108.919076	tyiloqo - boy
+3112.386227	3113.283322	tyivali - boys
+3116.532260	3117.974886	navali - girls
+3123.502931	3124.606115	navali - children boys or girls
+3137.347289	3138.547456	navali - children boys or girls
+3138.547456	3139.638518	whistle - navali - children boys or girls
+3140.171926	3141.202373	whistle - navali - children boys or girls
+3143.966395	3144.778630	tyivali - boys
+3144.863490	3145.869691	whistle - tyivali - boys
+3147.469915	3148.536730	navali - girls
+3148.961032	3149.736898	navali - girls
+3152.319077	3153.701088	tyiloqo - boy
+3157.047010	3158.550250	nyaloqo - girl
+3196.361592	3197.234441	loqo - small sg
+3197.561760	3198.398240	loqo - small sg
+3205.562877	3206.544832	tyiloqo - boy
+3210.666620	3211.672821	tyiloqo - boy
+3212.109246	3213.103324	whistle - tyiloqo - boy
+3216.606844	3217.746397	whistle - tyiloqo - boy
+3220.474051	3221.601481	tyiloqo - boy
+3244.683493	3246.041258	nyaloqo - girl
+3249.532655	3250.696454	whistle - nyaloqo - girl
+3251.435951	3252.563381	whistle - nyaloqo - girl
+3275.318074	3276.603102	nyaloqo - girl
+3276.603102	3277.633549	nya loqo - one girl
+3278.506399	3279.779304	nya loqo - one girl
+3282.179639	3283.610142	nya loqo - one girl
+3285.780142	3286.871203	nyaloqo - girl
+3286.871203	3287.962265	nya loqo - one girl
+3293.187237	3294.472265	nya loqo - one girl
+3294.932935	3296.181595	nya loqo - one girl
+3297.066567	3298.824388	iiN nya loqo he - unknown
+3305.491986	3307.164947	meN nyaloqo ka - unknown
+3328.889193	3329.762042	zoxo - plain
+3330.077238	3330.804612	zoxo - plain
+3334.526344	3335.484054	zoxo - plain
+3353.874501	3354.650367	zoxo - plain
+3385.078859	3386.121429	zoxo - plain
+3387.151876	3387.939865	zoxo - plain
+3389.200647	3390.085619	whistle - zoxo - plain
+3390.667519	3391.661597	whistle - zoxo - plain
+3413.725285	3414.682994	zuqu - 1sg
+3415.107296	3416.113497	zuqu - 1sg
+3416.477184	3417.459140	meNiiN - 1sg
+3420.635341	3421.714279	zoqo - 2sg
+3423.084168	3424.078246	meNuN - 2sg
+3436.286012	3437.170984	meNiiN - 1sg
+3437.170984	3437.898358	zuqu - 1sg
+3437.898358	3438.722716	zoqo - 2sg
+3439.510704	3440.577520	tyikaa - he
+3440.832101	3441.874671	tyikaa - he
+3448.833219	3449.887911	tyikaa - he
+3456.507018	3457.610202	meNra - he
+3457.986012	3458.798247	meNra - he
+3464.750593	3465.975007	whistle - tyikaa - he
+3466.508415	3467.829811	whistle - tyikaa - he
+3489.105510	3490.196572	nyakaa - she
+3491.202773	3492.439309	meNnya - she
+3498.197689	3499.216013	nyakaa - she
+3502.610427	3503.556013	meNeN - we incl
+3521.122103	3521.934338	ndzuqu - we excl
+3522.976908	3523.764897	ndzuqu - we excl
+3523.764897	3524.965064	meNeN - we incl
+3526.431936	3527.474506	meNeN - we incl
+3530.190036	3531.062886	ndzuqu - we excl
+3538.663947	3539.936852	meNeN - we incl
+3556.896797	3557.915121	ndoqo - 2pl
+3559.951769	3560.945847	ndoqo - 2pl
+3560.945847	3562.109646	whistle - ndoqo - 2pl
+3562.570317	3563.782607	meNndo - 2pl
+3563.782607	3564.667579	ndoqo - 2pl
+3631.501156	3632.652832	ndzuqu - we excl
+3633.562050	3634.459145	ndzuqu - we excl
+3639.393168	3640.290263	ndoqo - 2pl
+3649.806743	3651.043280	nakaa - they
+3658.911045	3660.293057	meNna - they
+3660.693112	3661.978140	meN nakaa - they
+3674.743560	3676.028588	kiityi kaa - that animal
+3676.974174	3677.774286	kiityi kaa - that animal
+3678.647135	3679.507862	kiityi kaa - that animal
+3680.998979	3682.126409	tyikaa - he
+3687.242275	3688.418197	kiityi kaa - that animal
+3690.600320	3691.594398	nyakaa - it
+3691.885348	3692.927918	nyakaa - it

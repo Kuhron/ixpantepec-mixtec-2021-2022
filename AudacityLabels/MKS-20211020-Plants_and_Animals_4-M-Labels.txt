@@ -1,0 +1,126 @@
+44.081043	45.228438	tjiin - mouse
+49.115532	50.204386	tjiin - mouse
+62.614985	63.809213	zaaka - armadillo
+64.757570	65.705927	zaaka - armadillo
+73.620611	74.229433	zooko - beehive
+83.244680	83.993999	zaaka - armadillo
+84.052539	84.649653	zaaka - armadillo
+94.718630	95.596738	tozoo - carrizo
+103.640211	104.904688	iita ndzii - marigold
+114.505340	115.395156	iita ndzii - marigold
+120.570142	121.764370	iita ndzii - marigold
+221.997520	223.062958	sebooja - onion
+224.104980	225.182127	aaxo - garlic
+236.866823	238.154715	sebooja - onion
+238.552791	239.665062	aaxo - garlic
+245.109334	247.977822	keN?eN nuN?uN iiN nuN?uN aaxo - give me a clove of garlic
+256.501328	258.608788	undi iin nuN?uN aaxo
+258.819534	259.721059	nuN?uN - tooth
+260.446962	261.348486	aaxo - garlic
+266.663969	269.146089	nuN?uN aaxo nuNiN - give me a clove of garlic
+269.801743	270.551063	nuNiN - give me
+276.896860	278.067671	nuNiN - give me
+347.157242	348.328054	tozuusi - pine sp
+348.491967	350.072562	iita si?iini - afternoon flower
+351.138001	352.496142	iita ndziiba
+354.943137	356.547149	iita kiitji
+360.855734	362.799281	iita tondziiba
+386.882868	388.030263	tjiniiN - venenillo
+404.503577	406.833492	iita ziiba tozoo
+418.061571	420.297821	iita ziiba tozoo
+420.414902	421.398383	ziiba
+424.887401	427.369521	iita ziiba tozoo
+436.103773	437.543870	ziiba tozoo
+460.725933	461.428420	ziiba
+475.770858	477.128999	letsuuga - lettuce
+481.203422	482.819141	repoozo - cabbage
+520.730009	521.947653	tcindza?zi - capulines
+523.305794	524.862973	tcindza?zi - capulines
+531.290727	532.707409	tcindza?zi - capulines
+535.224653	536.524253	tcindza?za - duraznos
+545.937576	547.120095	tcindza?za - duraznos
+552.974151	553.992757	tcindza?za - duraznos
+566.087237	566.918513	iinjo - thorn
+567.621000	568.440568	iinjo - thorn
+574.037045	575.512268	ziito iinjo - tree with thorns
+610.250237	611.713751	nda?aa ziito - leaf of a tree
+620.600209	622.180804	nda?aa ziito - leaf of a tree
+625.658113	627.426038	nda?a baali ziito - leaf of a tree
+632.413694	633.596214	nda?aa ziito - leaf of a tree
+643.231990	644.121807	nda?aa ziito - leaf of a tree
+648.968965	650.221733	nda?a baali - small leaf
+657.597844	658.792072	nda?aa ziito - leaf of a tree
+694.454982	696.140950	kiitji sikwaa - bat
+697.089307	698.599654	kiitji sikwaa - bat
+725.610269	726.675708	tjizaaka - fish
+730.059352	731.358953	tjizaaka - fish
+821.581667	822.401235	looso - fox
+824.824814	825.527301	loobo - wolf
+839.506787	840.256106	uuxu - deer
+844.037827	845.091557	ndjuusi - chicken
+847.948336	848.955234	kootsi - pig
+854.317550	855.183950	kootsi - pig
+862.372731	863.321088	kootsi - pig
+876.387341	877.031288	iilo - rabbit
+877.323990	878.003061	iilo - rabbit
+901.524659	902.496432	ardiiza - squirrel
+908.350488	909.521300	ardiiza - squirrel
+921.463574	922.798299	tjimii - bumblebee
+923.863737	925.432625	tjimii - bumblebee
+926.591728	928.172323	tjimii - bumblebee
+934.600077	935.852845	njuutsi - honeybee
+936.707537	937.972013	njuutsi - honeybee
+956.892323	957.992885	njuutsi - honeybee
+958.613415	960.006681	njuutsi - honeybee
+982.181846	983.247284	tozoo - beehive
+984.593717	985.577198	tjimii - bumblebee
+985.893317	986.642636	tozoo - beehive
+992.965017	993.948499	tcindooko - chicatana
+1004.509216	1005.609779	tcindooko - chicatana
+1011.932159	1013.161511	tcindooko - chicatana
+1036.612860	1037.479261	tjuutja - atole
+1045.265156	1046.365718	tjuutja - atole
+1059.361723	1060.181291	ziiki - squash
+1072.205522	1073.130463	tjuutja - atole
+1082.660867	1083.457018	buurro - donkey
+1085.763516	1086.910912	tciito - cat
+1093.924071	1095.305628	ardiiza - squirrel
+1102.974442	1103.770593	laa - bird
+1107.002032	1108.477255	kuuku - gray.bird
+1109.776855	1111.134996	laa ndzaa - bluebird
+1111.322326	1112.586802	laa ndzaa - bluebird
+1124.084169	1124.927153	kuuku - gray.bird
+1125.442310	1126.179921	kuuku - gray.bird
+1152.523174	1154.209142	laa sikwaa - owl
+1171.701062	1172.883581	zuuli - edible.bird
+1203.851539	1205.619464	phonological transfer tu > tju
+1208.125000	1209.178730	zuuli - edible.bird
+1214.318591	1215.887478	kaldo zuuli - bird.soup
+1220.278020	1221.472248	kaldo - soup
+1248.026247	1248.775566	phonological transfer yes > zes
+1257.427861	1258.376218	tjiiN - mouse
+1258.376218	1259.090413	iilo - rabbit
+1339.653935	1341.878476	unknown
+1350.694685	1352.966059	unknown
+1353.820751	1355.096935	unknown
+1418.180245	1418.999813	puuma - puma
+1422.360041	1423.273274	puuma - puma
+1437.194220	1438.060620	looso - fox
+1527.534016	1528.330167	iilo - rabbit
+1552.577668	1555.996437	unknown
+1678.334504	1679.598980	tjiibi - bite
+1680.512213	1681.273240	tjiibi - bite
+1681.952311	1683.169954	tjiibi - bite
+1683.169954	1684.188560	phonological transfer tu > tju
+1685.183750	1686.096983	tjiibi - bite
+1686.096983	1686.986799	tjiibi - bite
+1690.698271	1692.068120	tjindoo - spider sp.
+1692.068120	1693.320888	tjindoo - spider sp.
+1698.296836	1699.502771	tjindoo - spider sp.
+1728.468642	1729.440415	tjindoo - spider sp.
+1739.017651	1740.141630	koo kaaN - rattlesnake
+1746.288389	1747.330411	koo kaaN - rattlesnake
+1757.399387	1758.242371	koo kaaN - rattlesnake
+1759.986880	1760.911821	kaaN - metal
+1762.609497	1763.511022	kaaN - metal
+1769.212873	1770.547598	koo kaaN - rattlesnake
