@@ -1,19 +1,25 @@
 import re
 import sys
+import os
 
 from GetWavDuration import get_duration
 
 
 if len(sys.argv) <= 1:
-    print("usage: python ...py {filename-Labels.txt}")
+    print("usage: python ...py {filename}")
+    print("filename should exclude AudacityLabels/ and -Labels.txt. e.g. MKS-20211020-Things-M")
     sys.exit()
 
 filename = sys.argv[1]
 
 input_wav_fp = f"/media/wesley/easystore/FieldMethodsBackup/{filename}.wav"
+input_wav_fp2 = f"/mnt/e/FieldMethodsBackup/{filename}.wav"
 input_fp = f"AudacityLabels/{filename}-Labels.txt"
 output_fp = f"AudacityLabels/{filename}.TextGrid"
 print(f"converting:\n    {input_fp}\ninto:\n    {output_fp}")
+
+if not os.path.exists(input_wav_fp):
+    input_wav_fp = input_wav_fp2
 
 duration = get_duration(input_wav_fp)
 print(f"input wav:\n    {input_wav_fp}\nof duration:\n    {duration} seconds")

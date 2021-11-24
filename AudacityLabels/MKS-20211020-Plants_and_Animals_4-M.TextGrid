@@ -1,0 +1,1010 @@
+File type = "ooTextFile
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 1792.3715192743764
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 1792.3715192743764
+		intervals: size = 249
+		intervals [1]:
+			xmin = 0
+			xmax = 44.081043
+			text = ""
+		intervals [2]:
+			xmin = 44.081043
+			xmax = 45.228438
+			text = "tjiin - mouse"
+		intervals [3]:
+			xmin = 45.228438
+			xmax = 49.115532
+			text = ""
+		intervals [4]:
+			xmin = 49.115532
+			xmax = 50.204386
+			text = "tjiin - mouse"
+		intervals [5]:
+			xmin = 50.204386
+			xmax = 62.614985
+			text = ""
+		intervals [6]:
+			xmin = 62.614985
+			xmax = 63.809213
+			text = "zaaka - armadillo"
+		intervals [7]:
+			xmin = 63.809213
+			xmax = 64.757570
+			text = ""
+		intervals [8]:
+			xmin = 64.757570
+			xmax = 65.705927
+			text = "zaaka - armadillo"
+		intervals [9]:
+			xmin = 65.705927
+			xmax = 73.620611
+			text = ""
+		intervals [10]:
+			xmin = 73.620611
+			xmax = 74.229433
+			text = "zooko - beehive"
+		intervals [11]:
+			xmin = 74.229433
+			xmax = 83.244680
+			text = ""
+		intervals [12]:
+			xmin = 83.244680
+			xmax = 83.993999
+			text = "zaaka - armadillo"
+		intervals [13]:
+			xmin = 83.993999
+			xmax = 84.052539
+			text = ""
+		intervals [14]:
+			xmin = 84.052539
+			xmax = 84.649653
+			text = "zaaka - armadillo"
+		intervals [15]:
+			xmin = 84.649653
+			xmax = 94.718630
+			text = ""
+		intervals [16]:
+			xmin = 94.718630
+			xmax = 95.596738
+			text = "tozoo - carrizo"
+		intervals [17]:
+			xmin = 95.596738
+			xmax = 103.640211
+			text = ""
+		intervals [18]:
+			xmin = 103.640211
+			xmax = 104.904688
+			text = "iita ndzii - marigold"
+		intervals [19]:
+			xmin = 104.904688
+			xmax = 114.505340
+			text = ""
+		intervals [20]:
+			xmin = 114.505340
+			xmax = 115.395156
+			text = "iita ndzii - marigold"
+		intervals [21]:
+			xmin = 115.395156
+			xmax = 120.570142
+			text = ""
+		intervals [22]:
+			xmin = 120.570142
+			xmax = 121.764370
+			text = "iita ndzii - marigold"
+		intervals [23]:
+			xmin = 121.764370
+			xmax = 221.997520
+			text = ""
+		intervals [24]:
+			xmin = 221.997520
+			xmax = 223.062958
+			text = "sebooja - onion"
+		intervals [25]:
+			xmin = 223.062958
+			xmax = 224.104980
+			text = ""
+		intervals [26]:
+			xmin = 224.104980
+			xmax = 225.182127
+			text = "aaxo - garlic"
+		intervals [27]:
+			xmin = 225.182127
+			xmax = 236.866823
+			text = ""
+		intervals [28]:
+			xmin = 236.866823
+			xmax = 238.154715
+			text = "sebooja - onion"
+		intervals [29]:
+			xmin = 238.154715
+			xmax = 238.552791
+			text = ""
+		intervals [30]:
+			xmin = 238.552791
+			xmax = 239.665062
+			text = "aaxo - garlic"
+		intervals [31]:
+			xmin = 239.665062
+			xmax = 245.109334
+			text = ""
+		intervals [32]:
+			xmin = 245.109334
+			xmax = 247.977822
+			text = "keN?eN nuN?uN iiN nuN?uN aaxo - give me a clove of garlic"
+		intervals [33]:
+			xmin = 247.977822
+			xmax = 256.501328
+			text = ""
+		intervals [34]:
+			xmin = 256.501328
+			xmax = 258.608788
+			text = "undi iin nuN?uN aaxo"
+		intervals [35]:
+			xmin = 258.608788
+			xmax = 258.819534
+			text = ""
+		intervals [36]:
+			xmin = 258.819534
+			xmax = 259.721059
+			text = "nuN?uN - tooth"
+		intervals [37]:
+			xmin = 259.721059
+			xmax = 260.446962
+			text = ""
+		intervals [38]:
+			xmin = 260.446962
+			xmax = 261.348486
+			text = "aaxo - garlic"
+		intervals [39]:
+			xmin = 261.348486
+			xmax = 266.663969
+			text = ""
+		intervals [40]:
+			xmin = 266.663969
+			xmax = 269.146089
+			text = "nuN?uN aaxo nuNiN - give me a clove of garlic"
+		intervals [41]:
+			xmin = 269.146089
+			xmax = 269.801743
+			text = ""
+		intervals [42]:
+			xmin = 269.801743
+			xmax = 270.551063
+			text = "nuNiN - give me"
+		intervals [43]:
+			xmin = 270.551063
+			xmax = 276.896860
+			text = ""
+		intervals [44]:
+			xmin = 276.896860
+			xmax = 278.067671
+			text = "nuNiN - give me"
+		intervals [45]:
+			xmin = 278.067671
+			xmax = 347.157242
+			text = ""
+		intervals [46]:
+			xmin = 347.157242
+			xmax = 348.328054
+			text = "tozuusi - pine sp"
+		intervals [47]:
+			xmin = 348.328054
+			xmax = 348.491967
+			text = ""
+		intervals [48]:
+			xmin = 348.491967
+			xmax = 350.072562
+			text = "iita si?iini - afternoon flower"
+		intervals [49]:
+			xmin = 350.072562
+			xmax = 351.138001
+			text = ""
+		intervals [50]:
+			xmin = 351.138001
+			xmax = 352.496142
+			text = "iita ndziiba"
+		intervals [51]:
+			xmin = 352.496142
+			xmax = 354.943137
+			text = ""
+		intervals [52]:
+			xmin = 354.943137
+			xmax = 356.547149
+			text = "iita kiitji"
+		intervals [53]:
+			xmin = 356.547149
+			xmax = 360.855734
+			text = ""
+		intervals [54]:
+			xmin = 360.855734
+			xmax = 362.799281
+			text = "iita tondziiba"
+		intervals [55]:
+			xmin = 362.799281
+			xmax = 386.882868
+			text = ""
+		intervals [56]:
+			xmin = 386.882868
+			xmax = 388.030263
+			text = "tjiniiN - venenillo"
+		intervals [57]:
+			xmin = 388.030263
+			xmax = 404.503577
+			text = ""
+		intervals [58]:
+			xmin = 404.503577
+			xmax = 406.833492
+			text = "iita ziiba tozoo"
+		intervals [59]:
+			xmin = 406.833492
+			xmax = 418.061571
+			text = ""
+		intervals [60]:
+			xmin = 418.061571
+			xmax = 420.297821
+			text = "iita ziiba tozoo"
+		intervals [61]:
+			xmin = 420.297821
+			xmax = 420.414902
+			text = ""
+		intervals [62]:
+			xmin = 420.414902
+			xmax = 421.398383
+			text = "ziiba"
+		intervals [63]:
+			xmin = 421.398383
+			xmax = 424.887401
+			text = ""
+		intervals [64]:
+			xmin = 424.887401
+			xmax = 427.369521
+			text = "iita ziiba tozoo"
+		intervals [65]:
+			xmin = 427.369521
+			xmax = 436.103773
+			text = ""
+		intervals [66]:
+			xmin = 436.103773
+			xmax = 437.543870
+			text = "ziiba tozoo"
+		intervals [67]:
+			xmin = 437.543870
+			xmax = 460.725933
+			text = ""
+		intervals [68]:
+			xmin = 460.725933
+			xmax = 461.428420
+			text = "ziiba"
+		intervals [69]:
+			xmin = 461.428420
+			xmax = 475.770858
+			text = ""
+		intervals [70]:
+			xmin = 475.770858
+			xmax = 477.128999
+			text = "letsuuga - lettuce"
+		intervals [71]:
+			xmin = 477.128999
+			xmax = 481.203422
+			text = ""
+		intervals [72]:
+			xmin = 481.203422
+			xmax = 482.819141
+			text = "repoozo - cabbage"
+		intervals [73]:
+			xmin = 482.819141
+			xmax = 520.730009
+			text = ""
+		intervals [74]:
+			xmin = 520.730009
+			xmax = 521.947653
+			text = "tcindza?zi - capulines"
+		intervals [75]:
+			xmin = 521.947653
+			xmax = 523.305794
+			text = ""
+		intervals [76]:
+			xmin = 523.305794
+			xmax = 524.862973
+			text = "tcindza?zi - capulines"
+		intervals [77]:
+			xmin = 524.862973
+			xmax = 531.290727
+			text = ""
+		intervals [78]:
+			xmin = 531.290727
+			xmax = 532.707409
+			text = "tcindza?zi - capulines"
+		intervals [79]:
+			xmin = 532.707409
+			xmax = 535.224653
+			text = ""
+		intervals [80]:
+			xmin = 535.224653
+			xmax = 536.524253
+			text = "tcindza?za - duraznos"
+		intervals [81]:
+			xmin = 536.524253
+			xmax = 545.937576
+			text = ""
+		intervals [82]:
+			xmin = 545.937576
+			xmax = 547.120095
+			text = "tcindza?za - duraznos"
+		intervals [83]:
+			xmin = 547.120095
+			xmax = 552.974151
+			text = ""
+		intervals [84]:
+			xmin = 552.974151
+			xmax = 553.992757
+			text = "tcindza?za - duraznos"
+		intervals [85]:
+			xmin = 553.992757
+			xmax = 566.087237
+			text = ""
+		intervals [86]:
+			xmin = 566.087237
+			xmax = 566.918513
+			text = "iinjo - thorn"
+		intervals [87]:
+			xmin = 566.918513
+			xmax = 567.621000
+			text = ""
+		intervals [88]:
+			xmin = 567.621000
+			xmax = 568.440568
+			text = "iinjo - thorn"
+		intervals [89]:
+			xmin = 568.440568
+			xmax = 574.037045
+			text = ""
+		intervals [90]:
+			xmin = 574.037045
+			xmax = 575.512268
+			text = "ziito iinjo - tree with thorns"
+		intervals [91]:
+			xmin = 575.512268
+			xmax = 610.250237
+			text = ""
+		intervals [92]:
+			xmin = 610.250237
+			xmax = 611.713751
+			text = "nda?aa ziito - leaf of a tree"
+		intervals [93]:
+			xmin = 611.713751
+			xmax = 620.600209
+			text = ""
+		intervals [94]:
+			xmin = 620.600209
+			xmax = 622.180804
+			text = "nda?aa ziito - leaf of a tree"
+		intervals [95]:
+			xmin = 622.180804
+			xmax = 625.658113
+			text = ""
+		intervals [96]:
+			xmin = 625.658113
+			xmax = 627.426038
+			text = "nda?a baali ziito - leaf of a tree"
+		intervals [97]:
+			xmin = 627.426038
+			xmax = 632.413694
+			text = ""
+		intervals [98]:
+			xmin = 632.413694
+			xmax = 633.596214
+			text = "nda?aa ziito - leaf of a tree"
+		intervals [99]:
+			xmin = 633.596214
+			xmax = 643.231990
+			text = ""
+		intervals [100]:
+			xmin = 643.231990
+			xmax = 644.121807
+			text = "nda?aa ziito - leaf of a tree"
+		intervals [101]:
+			xmin = 644.121807
+			xmax = 648.968965
+			text = ""
+		intervals [102]:
+			xmin = 648.968965
+			xmax = 650.221733
+			text = "nda?a baali - small leaf"
+		intervals [103]:
+			xmin = 650.221733
+			xmax = 657.597844
+			text = ""
+		intervals [104]:
+			xmin = 657.597844
+			xmax = 658.792072
+			text = "nda?aa ziito - leaf of a tree"
+		intervals [105]:
+			xmin = 658.792072
+			xmax = 694.454982
+			text = ""
+		intervals [106]:
+			xmin = 694.454982
+			xmax = 696.140950
+			text = "kiitji sikwaa - bat"
+		intervals [107]:
+			xmin = 696.140950
+			xmax = 697.089307
+			text = ""
+		intervals [108]:
+			xmin = 697.089307
+			xmax = 698.599654
+			text = "kiitji sikwaa - bat"
+		intervals [109]:
+			xmin = 698.599654
+			xmax = 725.610269
+			text = ""
+		intervals [110]:
+			xmin = 725.610269
+			xmax = 726.675708
+			text = "tjizaaka - fish"
+		intervals [111]:
+			xmin = 726.675708
+			xmax = 730.059352
+			text = ""
+		intervals [112]:
+			xmin = 730.059352
+			xmax = 731.358953
+			text = "tjizaaka - fish"
+		intervals [113]:
+			xmin = 731.358953
+			xmax = 821.581667
+			text = ""
+		intervals [114]:
+			xmin = 821.581667
+			xmax = 822.401235
+			text = "looso - fox"
+		intervals [115]:
+			xmin = 822.401235
+			xmax = 824.824814
+			text = ""
+		intervals [116]:
+			xmin = 824.824814
+			xmax = 825.527301
+			text = "loobo - wolf"
+		intervals [117]:
+			xmin = 825.527301
+			xmax = 839.506787
+			text = ""
+		intervals [118]:
+			xmin = 839.506787
+			xmax = 840.256106
+			text = "uuxu - deer"
+		intervals [119]:
+			xmin = 840.256106
+			xmax = 844.037827
+			text = ""
+		intervals [120]:
+			xmin = 844.037827
+			xmax = 845.091557
+			text = "ndjuusi - chicken"
+		intervals [121]:
+			xmin = 845.091557
+			xmax = 847.948336
+			text = ""
+		intervals [122]:
+			xmin = 847.948336
+			xmax = 848.955234
+			text = "kootsi - pig"
+		intervals [123]:
+			xmin = 848.955234
+			xmax = 854.317550
+			text = ""
+		intervals [124]:
+			xmin = 854.317550
+			xmax = 855.183950
+			text = "kootsi - pig"
+		intervals [125]:
+			xmin = 855.183950
+			xmax = 862.372731
+			text = ""
+		intervals [126]:
+			xmin = 862.372731
+			xmax = 863.321088
+			text = "kootsi - pig"
+		intervals [127]:
+			xmin = 863.321088
+			xmax = 876.387341
+			text = ""
+		intervals [128]:
+			xmin = 876.387341
+			xmax = 877.031288
+			text = "iilo - rabbit"
+		intervals [129]:
+			xmin = 877.031288
+			xmax = 877.323990
+			text = ""
+		intervals [130]:
+			xmin = 877.323990
+			xmax = 878.003061
+			text = "iilo - rabbit"
+		intervals [131]:
+			xmin = 878.003061
+			xmax = 901.524659
+			text = ""
+		intervals [132]:
+			xmin = 901.524659
+			xmax = 902.496432
+			text = "ardiiza - squirrel"
+		intervals [133]:
+			xmin = 902.496432
+			xmax = 908.350488
+			text = ""
+		intervals [134]:
+			xmin = 908.350488
+			xmax = 909.521300
+			text = "ardiiza - squirrel"
+		intervals [135]:
+			xmin = 909.521300
+			xmax = 921.463574
+			text = ""
+		intervals [136]:
+			xmin = 921.463574
+			xmax = 922.798299
+			text = "tjimii - bumblebee"
+		intervals [137]:
+			xmin = 922.798299
+			xmax = 923.863737
+			text = ""
+		intervals [138]:
+			xmin = 923.863737
+			xmax = 925.432625
+			text = "tjimii - bumblebee"
+		intervals [139]:
+			xmin = 925.432625
+			xmax = 926.591728
+			text = ""
+		intervals [140]:
+			xmin = 926.591728
+			xmax = 928.172323
+			text = "tjimii - bumblebee"
+		intervals [141]:
+			xmin = 928.172323
+			xmax = 934.600077
+			text = ""
+		intervals [142]:
+			xmin = 934.600077
+			xmax = 935.852845
+			text = "njuutsi - honeybee"
+		intervals [143]:
+			xmin = 935.852845
+			xmax = 936.707537
+			text = ""
+		intervals [144]:
+			xmin = 936.707537
+			xmax = 937.972013
+			text = "njuutsi - honeybee"
+		intervals [145]:
+			xmin = 937.972013
+			xmax = 956.892323
+			text = ""
+		intervals [146]:
+			xmin = 956.892323
+			xmax = 957.992885
+			text = "njuutsi - honeybee"
+		intervals [147]:
+			xmin = 957.992885
+			xmax = 958.613415
+			text = ""
+		intervals [148]:
+			xmin = 958.613415
+			xmax = 960.006681
+			text = "njuutsi - honeybee"
+		intervals [149]:
+			xmin = 960.006681
+			xmax = 982.181846
+			text = ""
+		intervals [150]:
+			xmin = 982.181846
+			xmax = 983.247284
+			text = "tozoo - beehive"
+		intervals [151]:
+			xmin = 983.247284
+			xmax = 984.593717
+			text = ""
+		intervals [152]:
+			xmin = 984.593717
+			xmax = 985.577198
+			text = "tjimii - bumblebee"
+		intervals [153]:
+			xmin = 985.577198
+			xmax = 985.893317
+			text = ""
+		intervals [154]:
+			xmin = 985.893317
+			xmax = 986.642636
+			text = "tozoo - beehive"
+		intervals [155]:
+			xmin = 986.642636
+			xmax = 992.965017
+			text = ""
+		intervals [156]:
+			xmin = 992.965017
+			xmax = 993.948499
+			text = "tcindooko - chicatana"
+		intervals [157]:
+			xmin = 993.948499
+			xmax = 1004.509216
+			text = ""
+		intervals [158]:
+			xmin = 1004.509216
+			xmax = 1005.609779
+			text = "tcindooko - chicatana"
+		intervals [159]:
+			xmin = 1005.609779
+			xmax = 1011.932159
+			text = ""
+		intervals [160]:
+			xmin = 1011.932159
+			xmax = 1013.161511
+			text = "tcindooko - chicatana"
+		intervals [161]:
+			xmin = 1013.161511
+			xmax = 1036.612860
+			text = ""
+		intervals [162]:
+			xmin = 1036.612860
+			xmax = 1037.479261
+			text = "tjuutja - atole"
+		intervals [163]:
+			xmin = 1037.479261
+			xmax = 1045.265156
+			text = ""
+		intervals [164]:
+			xmin = 1045.265156
+			xmax = 1046.365718
+			text = "tjuutja - atole"
+		intervals [165]:
+			xmin = 1046.365718
+			xmax = 1059.361723
+			text = ""
+		intervals [166]:
+			xmin = 1059.361723
+			xmax = 1060.181291
+			text = "ziiki - squash"
+		intervals [167]:
+			xmin = 1060.181291
+			xmax = 1072.205522
+			text = ""
+		intervals [168]:
+			xmin = 1072.205522
+			xmax = 1073.130463
+			text = "tjuutja - atole"
+		intervals [169]:
+			xmin = 1073.130463
+			xmax = 1082.660867
+			text = ""
+		intervals [170]:
+			xmin = 1082.660867
+			xmax = 1083.457018
+			text = "buurro - donkey"
+		intervals [171]:
+			xmin = 1083.457018
+			xmax = 1085.763516
+			text = ""
+		intervals [172]:
+			xmin = 1085.763516
+			xmax = 1086.910912
+			text = "tciito - cat"
+		intervals [173]:
+			xmin = 1086.910912
+			xmax = 1093.924071
+			text = ""
+		intervals [174]:
+			xmin = 1093.924071
+			xmax = 1095.305628
+			text = "ardiiza - squirrel"
+		intervals [175]:
+			xmin = 1095.305628
+			xmax = 1102.974442
+			text = ""
+		intervals [176]:
+			xmin = 1102.974442
+			xmax = 1103.770593
+			text = "laa - bird"
+		intervals [177]:
+			xmin = 1103.770593
+			xmax = 1107.002032
+			text = ""
+		intervals [178]:
+			xmin = 1107.002032
+			xmax = 1108.477255
+			text = "kuuku - gray.bird"
+		intervals [179]:
+			xmin = 1108.477255
+			xmax = 1109.776855
+			text = ""
+		intervals [180]:
+			xmin = 1109.776855
+			xmax = 1111.134996
+			text = "laa ndzaa - bluebird"
+		intervals [181]:
+			xmin = 1111.134996
+			xmax = 1111.322326
+			text = ""
+		intervals [182]:
+			xmin = 1111.322326
+			xmax = 1112.586802
+			text = "laa ndzaa - bluebird"
+		intervals [183]:
+			xmin = 1112.586802
+			xmax = 1124.084169
+			text = ""
+		intervals [184]:
+			xmin = 1124.084169
+			xmax = 1124.927153
+			text = "kuuku - gray.bird"
+		intervals [185]:
+			xmin = 1124.927153
+			xmax = 1125.442310
+			text = ""
+		intervals [186]:
+			xmin = 1125.442310
+			xmax = 1126.179921
+			text = "kuuku - gray.bird"
+		intervals [187]:
+			xmin = 1126.179921
+			xmax = 1152.523174
+			text = ""
+		intervals [188]:
+			xmin = 1152.523174
+			xmax = 1154.209142
+			text = "laa sikwaa - owl"
+		intervals [189]:
+			xmin = 1154.209142
+			xmax = 1171.701062
+			text = ""
+		intervals [190]:
+			xmin = 1171.701062
+			xmax = 1172.883581
+			text = "zuuli - edible.bird"
+		intervals [191]:
+			xmin = 1172.883581
+			xmax = 1203.851539
+			text = ""
+		intervals [192]:
+			xmin = 1203.851539
+			xmax = 1205.619464
+			text = "phonological transfer tu > tju"
+		intervals [193]:
+			xmin = 1205.619464
+			xmax = 1208.125000
+			text = ""
+		intervals [194]:
+			xmin = 1208.125000
+			xmax = 1209.178730
+			text = "zuuli - edible.bird"
+		intervals [195]:
+			xmin = 1209.178730
+			xmax = 1214.318591
+			text = ""
+		intervals [196]:
+			xmin = 1214.318591
+			xmax = 1215.887478
+			text = "kaldo zuuli - bird.soup"
+		intervals [197]:
+			xmin = 1215.887478
+			xmax = 1220.278020
+			text = ""
+		intervals [198]:
+			xmin = 1220.278020
+			xmax = 1221.472248
+			text = "kaldo - soup"
+		intervals [199]:
+			xmin = 1221.472248
+			xmax = 1248.026247
+			text = ""
+		intervals [200]:
+			xmin = 1248.026247
+			xmax = 1248.775566
+			text = "phonological transfer yes > zes"
+		intervals [201]:
+			xmin = 1248.775566
+			xmax = 1257.427861
+			text = ""
+		intervals [202]:
+			xmin = 1257.427861
+			xmax = 1258.376218
+			text = "tjiiN - mouse"
+		intervals [203]:
+			xmin = 1258.376218
+			xmax = 1259.090413
+			text = "iilo - rabbit"
+		intervals [204]:
+			xmin = 1259.090413
+			xmax = 1339.653935
+			text = ""
+		intervals [205]:
+			xmin = 1339.653935
+			xmax = 1341.878476
+			text = "unknown"
+		intervals [206]:
+			xmin = 1341.878476
+			xmax = 1350.694685
+			text = ""
+		intervals [207]:
+			xmin = 1350.694685
+			xmax = 1352.966059
+			text = "unknown"
+		intervals [208]:
+			xmin = 1352.966059
+			xmax = 1353.820751
+			text = ""
+		intervals [209]:
+			xmin = 1353.820751
+			xmax = 1355.096935
+			text = "unknown"
+		intervals [210]:
+			xmin = 1355.096935
+			xmax = 1418.180245
+			text = ""
+		intervals [211]:
+			xmin = 1418.180245
+			xmax = 1418.999813
+			text = "puuma - puma"
+		intervals [212]:
+			xmin = 1418.999813
+			xmax = 1422.360041
+			text = ""
+		intervals [213]:
+			xmin = 1422.360041
+			xmax = 1423.273274
+			text = "puuma - puma"
+		intervals [214]:
+			xmin = 1423.273274
+			xmax = 1437.194220
+			text = ""
+		intervals [215]:
+			xmin = 1437.194220
+			xmax = 1438.060620
+			text = "looso - fox"
+		intervals [216]:
+			xmin = 1438.060620
+			xmax = 1527.534016
+			text = ""
+		intervals [217]:
+			xmin = 1527.534016
+			xmax = 1528.330167
+			text = "iilo - rabbit"
+		intervals [218]:
+			xmin = 1528.330167
+			xmax = 1552.577668
+			text = ""
+		intervals [219]:
+			xmin = 1552.577668
+			xmax = 1555.996437
+			text = "unknown"
+		intervals [220]:
+			xmin = 1555.996437
+			xmax = 1678.334504
+			text = ""
+		intervals [221]:
+			xmin = 1678.334504
+			xmax = 1679.598980
+			text = "tjiibi - bite"
+		intervals [222]:
+			xmin = 1679.598980
+			xmax = 1680.512213
+			text = ""
+		intervals [223]:
+			xmin = 1680.512213
+			xmax = 1681.273240
+			text = "tjiibi - bite"
+		intervals [224]:
+			xmin = 1681.273240
+			xmax = 1681.952311
+			text = ""
+		intervals [225]:
+			xmin = 1681.952311
+			xmax = 1683.169954
+			text = "tjiibi - bite"
+		intervals [226]:
+			xmin = 1683.169954
+			xmax = 1684.188560
+			text = "phonological transfer tu > tju"
+		intervals [227]:
+			xmin = 1684.188560
+			xmax = 1685.183750
+			text = ""
+		intervals [228]:
+			xmin = 1685.183750
+			xmax = 1686.096983
+			text = "tjiibi - bite"
+		intervals [229]:
+			xmin = 1686.096983
+			xmax = 1686.986799
+			text = "tjiibi - bite"
+		intervals [230]:
+			xmin = 1686.986799
+			xmax = 1690.698271
+			text = ""
+		intervals [231]:
+			xmin = 1690.698271
+			xmax = 1692.068120
+			text = "tjindoo - spider sp."
+		intervals [232]:
+			xmin = 1692.068120
+			xmax = 1693.320888
+			text = "tjindoo - spider sp."
+		intervals [233]:
+			xmin = 1693.320888
+			xmax = 1698.296836
+			text = ""
+		intervals [234]:
+			xmin = 1698.296836
+			xmax = 1699.502771
+			text = "tjindoo - spider sp."
+		intervals [235]:
+			xmin = 1699.502771
+			xmax = 1728.468642
+			text = ""
+		intervals [236]:
+			xmin = 1728.468642
+			xmax = 1729.440415
+			text = "tjindoo - spider sp."
+		intervals [237]:
+			xmin = 1729.440415
+			xmax = 1739.017651
+			text = ""
+		intervals [238]:
+			xmin = 1739.017651
+			xmax = 1740.141630
+			text = "koo kaaN - rattlesnake"
+		intervals [239]:
+			xmin = 1740.141630
+			xmax = 1746.288389
+			text = ""
+		intervals [240]:
+			xmin = 1746.288389
+			xmax = 1747.330411
+			text = "koo kaaN - rattlesnake"
+		intervals [241]:
+			xmin = 1747.330411
+			xmax = 1757.399387
+			text = ""
+		intervals [242]:
+			xmin = 1757.399387
+			xmax = 1758.242371
+			text = "koo kaaN - rattlesnake"
+		intervals [243]:
+			xmin = 1758.242371
+			xmax = 1759.986880
+			text = ""
+		intervals [244]:
+			xmin = 1759.986880
+			xmax = 1760.911821
+			text = "kaaN - metal"
+		intervals [245]:
+			xmin = 1760.911821
+			xmax = 1762.609497
+			text = ""
+		intervals [246]:
+			xmin = 1762.609497
+			xmax = 1763.511022
+			text = "kaaN - metal"
+		intervals [247]:
+			xmin = 1763.511022
+			xmax = 1769.212873
+			text = ""
+		intervals [248]:
+			xmin = 1769.212873
+			xmax = 1770.547598
+			text = "koo kaaN - rattlesnake"
+		intervals [249]:
+			xmin = 1770.547598
+			xmax = 1792.3715192743764
+			text = ""
