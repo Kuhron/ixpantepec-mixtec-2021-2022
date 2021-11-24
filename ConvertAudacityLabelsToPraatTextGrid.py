@@ -1,9 +1,14 @@
 import re
+import sys
 
 from GetWavDuration import get_duration
 
 
-filename = "MKS-20211004-Space_Time_Pronouns_1-M"
+if len(sys.argv) <= 1:
+    print("usage: python ...py {filename-Labels.txt}")
+    sys.exit()
+
+filename = sys.argv[1]
 
 input_wav_fp = f"/media/wesley/easystore/FieldMethodsBackup/{filename}.wav"
 input_fp = f"AudacityLabels/{filename}-Labels.txt"
