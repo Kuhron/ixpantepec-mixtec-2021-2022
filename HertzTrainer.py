@@ -1,5 +1,6 @@
 import random
 import math
+import pandas as pd
 
 
 NOTES = "CKDHEFXGJARB"
@@ -58,19 +59,26 @@ def show_all_interval_factors():
 
 
 def show_all_notes_hz():
-    for octave in range(2, 7):
-        for note in NOTES:
+    octaves = list(range(2, 7))
+    arr = [[-1 for octave in octaves] for note in NOTES]
+    for ci, octave in enumerate(octaves):
+        for ri, note in enumerate(NOTES):
             note_str = f"{note}{octave}"
             hz = get_hz_from_note(note_str)
             hz = round(hz)
-            print(f"{note_str}\t{hz}")
+            # print(f"{note_str}\t{hz}")
+            arr[ri][ci] = hz
+    df = pd.DataFrame(arr, index=list(NOTES), columns=octaves)
+    print(df)
     print()
 
 
-while True:
+if __name__ == "__main__":
     show_all_notes_hz()
     show_all_interval_factors()
     print("----")
-    show_random_interval_ratio()
-    quiz_random_note()
-    input("press enter to continue")
+ 
+    while True:
+        show_random_interval_ratio()
+        quiz_random_note()
+        input("press enter to continue")
