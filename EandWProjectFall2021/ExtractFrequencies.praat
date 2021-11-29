@@ -95,7 +95,7 @@ for intervalNumber from 1 to nIntervals
         end = intervalNumberToEnd [intervalNumber]
         appendFileLine: outputFp$, "interval #", intervalNumber, tab$, "label: ", intervalName$, tab$, "start: ", start, tab$, "end: ", end
         duration = end - start
-        timeStep = 0.01
+        timeStep = 0.05
         nTimeSteps = floor(duration / timeStep)
         for step from 1 to nTimeSteps
             tmin = start + (step - 1) * timeStep
