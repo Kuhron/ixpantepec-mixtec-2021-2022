@@ -2,7 +2,7 @@
 
 # large files that we can get from Sharepoint or my EHD
 # AudioFiles/  # never mind, I'm just gonna use the EHD directly
-
+*.Pitch
 
 # .gitignore template for Python:
 

@@ -37,7 +37,7 @@ def get_tonemes_from_str(s):
         "\u0300": "L",
         "\u0302": "HL",
     }
-    alpha = string.ascii_uppercase + string.ascii_lowercase
+    alpha = string.ascii_uppercase + string.ascii_lowercase + "'"
     s = [x for x in s if x not in alpha]  # try to isolate the tones
     tonemes = []
     for x in s:
@@ -100,7 +100,7 @@ def get_intervals_from_file(fp):
 
 
 if __name__ == "__main__":
-    f0_fp = "MKS-20211004-Space_Time_Pronouns_1-M-F0.txt"
+    f0_fp = "PitchStats/MKS-20211004-Space_Time_Pronouns_1-M-F0-10ms.txt"
     intervals = get_intervals_from_file(f0_fp)
 
     intervals_by_toneme = {}

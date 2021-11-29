@@ -9,7 +9,7 @@
 # https://www.fon.hum.uva.nl/praat/manual/Script_for_listing_F0_statistics.html
 
 # select the Sound and TextGrid objects
-selectObject: 1, 2
+selectObject: 4,5
 
 # selected$ uses the string name of the object, just sound uses a unique identifier which is better
 soundId = selected ("Sound")
@@ -17,9 +17,11 @@ soundName$ = selected$ ("Sound")
 tgId = selected ("TextGrid")
 tgName$ = selected$ ("TextGrid")
 
-writeInfoLine: "start"
-appendInfoLine: soundId, " = ", soundName$
-appendInfoLine: tgId , " = ", tgName$
+outputFp$ = "PraatOutput_" + soundName$ + ".txt"
+
+writeFileLine: outputFp$, "start"
+appendFileLine: outputFp$, soundId, " = ", soundName$
+appendFileLine: outputFp$, tgId , " = ", tgName$
 
 # create a Pitch object for F0 analysis
 # first check if it already exists
@@ -27,10 +29,10 @@ appendInfoLine: tgId , " = ", tgName$
 # if you just do selectObject without nocheck, it will error when no such object exists
 nocheck selectObject: "Pitch " + soundName$
 if numberOfSelected ("Pitch") > 0
-    appendInfoLine: "Pitch object already exists"
+    appendFileLine: outputFp$, "Pitch object already exists"
     pitchId = selected ("Pitch")
 else
-    appendInfoLine: "Pitch object not found, creating a new one"
+    appendFileLine: outputFp$, "Pitch object not found, creating a new one"
     select soundId
     
     # create a Pitch object; note there are various algorithms for this, need to see what works
@@ -49,24 +51,24 @@ else
     selectObject: "Pitch"
     pitchId = selected ("Pitch")
 endif
-appendInfoLine: "Pitch object ID is ", pitchId
+appendFileLine: outputFp$, "Pitch object ID is ", pitchId
 
 
 select tgId
 nTiers = Get number of tiers
-appendInfoLine: nTiers, " tiers"
+appendFileLine: outputFp$, nTiers, " tiers"
 
 # which tier has the vowel segments?
 desiredTierName$ = "vowel"
 for tierNumber from 1 to nTiers
     tierName$ = Get tier name: tierNumber
-    appendInfoLine: "Tier number ", tierNumber, " is named ", tierName$
+    appendFileLine: outputFp$, "Tier number ", tierNumber, " is named ", tierName$
     if tierName$ = desiredTierName$
         vowelTierNumber = tierNumber
         # don't know how to break in Praat
     endif
 endfor
-appendInfoLine: "The vowel tier has number ", vowelTierNumber
+appendFileLine: outputFp$, "The vowel tier has number ", vowelTierNumber
 
 # get the labeled intervals
 nIntervals = Get number of intervals: vowelTierNumber
@@ -91,9 +93,9 @@ for intervalNumber from 1 to nIntervals
     if intervalName$ <> ""
         start = intervalNumberToStart [intervalNumber]
         end = intervalNumberToEnd [intervalNumber]
-        appendInfoLine: "interval #", intervalNumber, tab$, "label: ", intervalName$, tab$, "start: ", start, tab$, "end: ", end
+        appendFileLine: outputFp$, "interval #", intervalNumber, tab$, "label: ", intervalName$, tab$, "start: ", start, tab$, "end: ", end
         duration = end - start
-        timeStep = 0.025
+        timeStep = 0.01
         nTimeSteps = floor(duration / timeStep)
         for step from 1 to nTimeSteps
             tmin = start + (step - 1) * timeStep
@@ -102,9 +104,9 @@ for intervalNumber from 1 to nIntervals
             fMin = Get minimum: tmin, tmax, "Hertz", "Parabolic"
             fMax = Get maximum: tmin, tmax, "Hertz", "Parabolic"
             stdev = Get standard deviation: tmin, tmax, "Hertz"
-            appendInfoLine: "step #", step, "/", nTimeSteps, tab$, "fMin: ", fMin, tab$, "fMax: ", fMax, tab$, "fMean: ", fMean, tab$, "stdev: ", stdev
+            appendFileLine: outputFp$, "step #", step, "/", nTimeSteps, tab$, "fMin: ", fMin, tab$, "fMax: ", fMax, tab$, "fMean: ", fMean, tab$, "stdev: ", stdev
         endfor
     endif
 endfor
 
-appendInfoLine: "done"
+appendFileLine: outputFp$, "done"
