@@ -137,6 +137,13 @@ def get_intervals_from_file(fp):
     return intervals
 
 
+def get_intervals_from_files(fps):
+    res = []
+    for fp in fps:
+        res += get_intervals_from_file(fp)
+    return res
+
+
 def get_intervals_by_toneme_dict(intervals):
     intervals_by_toneme = {}
     for interval in intervals:
@@ -231,10 +238,34 @@ def transform_axis_to_logarithmic_with_notes(ax):
 
 
 if __name__ == "__main__":
-    f0_fp = "PitchStats/MKS-20211004-Space_Time_Pronouns_1-M-F0-10ms.txt"
-    # f0_fp = "PitchStats/MKS-20211020-Plants_and_Animals_4-M-F0-10ms.txt"
-    intervals = get_intervals_from_file(f0_fp)
+    f0_fps = [
+        "PitchStats/MKS-20211004-Space_Time_Pronouns_1-M-F0-10ms.txt",
+        "PitchStats/MKS-20211020-Plants_and_Animals_4-M-F0-10ms.txt",
+    ]
+    intervals = get_intervals_from_files(f0_fps)
 
-    intervals_by_toneme = get_intervals_by_toneme_dict(intervals)
+    # intervals_by_toneme = get_intervals_by_toneme_dict(intervals)
     # plot_hist_fmeans(intervals_by_toneme)
-    plot_fmeans_color_coded(intervals)
+    # plot_fmeans_color_coded(intervals)
+
+    intervals_high_nasal = [x for x in intervals if x.nasalized and x.toneme == "H"]
+    fmeans = [f0.fmean for interval in intervals_high_nasal for f0 in interval.f0_statistics if f0.fmean is not None]
+    print(fmeans)
+    # plt.hist(fmeans, bins=100)
+    # plt.show()
+
+    intervals_high_preceded_by_low = [interval for previous_interval, interval in zip(intervals[:-1], intervals[1:]) if previous_interval.toneme == "L" and interval.toneme == "H"]
+    fmeans = [f0.fmean for interval in intervals_high_preceded_by_low for f0 in interval.f0_statistics if f0.fmean is not None]
+    print(fmeans)
+    weights = np.ones_like(fmeans)/float(len(fmeans))
+    plt.hist(fmeans, bins=100, color="r", label="H / L_", alpha=0.5, weights=weights)
+
+    intervals_high_not_preceded_by_low = [interval for previous_interval, interval in zip(intervals[:-1], intervals[1:]) if previous_interval.toneme != "L" and interval.toneme == "H"]
+    fmeans = [f0.fmean for interval in intervals_high_not_preceded_by_low for f0 in interval.f0_statistics if f0.fmean is not None]
+    print(fmeans)
+    weights = np.ones_like(fmeans)/float(len(fmeans))
+    plt.hist(fmeans, bins=100, color="b", label="H / [MH]_", alpha=0.5, weights=weights)
+    plt.legend()
+    plt.show()
+
+
