@@ -6,6 +6,8 @@ import pandas as pd
 NOTES = "CKDHEFXGJARB"
 assert len(NOTES) == 12
 # A4 is 440 Hz
+# octave number starts at C and ends at B
+
 
 def get_hz_from_note(s):
     s = s.upper()
