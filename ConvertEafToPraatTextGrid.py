@@ -1,12 +1,14 @@
 import re
 import xml.etree.ElementTree as ET
 
+from WriteTextGrid import write_text_grid
+
 
 filename = "MKS-20211006-Memories_of_Tortilla_Making-M"
 input_fp = "/home/kuhron/ixpantepec-mixtec-2021-2022/SayMore/Sessions/Memories of Tortilla Making/MKS-20211006-Memories_of_Tortilla_Making-M_Amplified.wav.annotations.eaf"
 output_fp = f"AudioLabels/{filename}.TextGrid"
 
-tier_name = "sentence"
+output_tier_name = "sentence"
 
 tree = ET.parse(input_fp)
 root = tree.getroot()
@@ -51,10 +53,28 @@ for tsc_a_el, tsl_a_el in zip(transcription_els, translation_els):
     assert tsc_a_id == tsl_ref_id, (tsc_a_id, tsl_ref_id)
     av_el, = ra_el.findall("ANNOTATION_VALUE")
     tsl_text = av_el.text
+    if tsl_text is None:
+        tsl_text = ""
+
+    assert (tsc_text == "" and tsl_text == "") or (tsc_text != "" and tsl_text != ""), f"inconsistent labeling of transcription and translation, both must be empty or nonempty\ntranscription: {repr(tsc_text)}\ntranslation: {repr(tsl_text)}"
+
+    if tsc_text == "" and tsl_text == "":
+        text = ""
+    else:
+        text = f"{tsc_text} = {tsl_text}"
 
     key = (ts1, ts2)
-    text = f"{tsc_text} = {tsl_text}"
     assert key not in annotation_dict
     annotation_dict[key] = text
 
 print(annotation_dict)
+
+boundaries = set(time_slot_dict.values())
+start_end_label_by_start = {}
+for (ts1, ts2), text in annotation_dict.items():
+    start = time_slot_dict[ts1]
+    end = time_slot_dict[ts2]
+    tup = (start, end, text)
+    start_end_label_by_start[start] = tup
+
+write_text_grid(output_fp, duration, boundaries, output_tier_name, start_end_label_by_start)
