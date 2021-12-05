@@ -1,4 +1,4 @@
-def write_text_grid(output_fp, duration, boundaries, ):
+def write_text_grid(output_fp, duration, boundaries, output_tier_name, start_end_label_by_start):
     output_lines = []
 
     textgrid_template_lines = [
@@ -48,5 +48,6 @@ def write_text_grid(output_fp, duration, boundaries, ):
     with open(output_fp, "w") as f:
         for l in output_lines:
             f.write(l + "\n")
-    print(f"written to {output_fp}")
+            print(f"wrote: {l}")
+    print(f"\nwritten to {output_fp}")
 

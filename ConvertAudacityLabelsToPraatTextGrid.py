@@ -8,15 +8,15 @@ from WriteTextGrid import write_text_grid
 
 if len(sys.argv) <= 1:
     print("usage: python ...py {filename}")
-    print("filename should exclude AudacityLabels/ and -Labels.txt. e.g. MKS-20211020-Things-M")
+    print("filename should exclude AudioLabels/ and -Labels.txt. e.g. MKS-20211020-Things-M")
     sys.exit()
 
 filename = sys.argv[1]
 
 input_wav_fp = f"/media/wesley/easystore/FieldMethodsBackup/{filename}.wav"
 input_wav_fp2 = f"/mnt/e/FieldMethodsBackup/{filename}.wav"
-input_fp = f"AudacityLabels/{filename}-Labels.txt"
-output_fp = f"AudacityLabels/{filename}.TextGrid"
+input_fp = f"AudioLabels/{filename}-Labels.txt"
+output_fp = f"AudioLabels/{filename}.TextGrid"
 print(f"converting:\n    {input_fp}\ninto:\n    {output_fp}")
 
 if not os.path.exists(input_wav_fp):
@@ -49,4 +49,4 @@ for line in lines:
         raise Exception(f"invalid line: {line}")
 
 
-write_text_grid(output_fp)
+write_text_grid(output_fp, duration, boundaries, output_tier_name, start_end_label_by_start)
