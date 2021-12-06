@@ -1,0 +1,2766 @@
+File type = "ooTextFile
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 2707.22
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 2707.22
+		intervals: size = 688
+		intervals [1]:
+			xmin = 0
+			xmax = 254.946555
+			text = ""
+		intervals [2]:
+			xmin = 254.946555
+			xmax = 255.809467
+			text = "javi - rain"
+		intervals [3]:
+			xmin = 255.809467
+			xmax = 257.046601
+			text = ""
+		intervals [4]:
+			xmin = 257.046601
+			xmax = 257.896306
+			text = "javi - rain"
+		intervals [5]:
+			xmin = 257.896306
+			xmax = 258.878089
+			text = ""
+		intervals [6]:
+			xmin = 258.878089
+			xmax = 259.468039
+			text = "javi - rain"
+		intervals [7]:
+			xmin = 259.468039
+			xmax = 261.303929
+			text = ""
+		intervals [8]:
+			xmin = 261.303929
+			xmax = 262.074386
+			text = "javi - rain"
+		intervals [9]:
+			xmin = 262.074386
+			xmax = 286.984375
+			text = ""
+		intervals [10]:
+			xmin = 286.984375
+			xmax = 288.313964
+			text = "tiempo iichi - dry season"
+		intervals [11]:
+			xmin = 288.313964
+			xmax = 289.630345
+			text = ""
+		intervals [12]:
+			xmin = 289.630345
+			xmax = 290.647349
+			text = "tiempo javi - rainy season"
+		intervals [13]:
+			xmin = 290.647349
+			xmax = 291.756808
+			text = "tiempo iichi - dry season"
+		intervals [14]:
+			xmin = 291.756808
+			xmax = 294.618507
+			text = ""
+		intervals [15]:
+			xmin = 294.618507
+			xmax = 295.710355
+			text = "tiempo - season"
+		intervals [16]:
+			xmin = 295.710355
+			xmax = 296.991515
+			text = ""
+		intervals [17]:
+			xmin = 296.991515
+			xmax = 298.241858
+			text = "tiempo javi - rainy season"
+		intervals [18]:
+			xmin = 298.241858
+			xmax = 298.655703
+			text = ""
+		intervals [19]:
+			xmin = 298.655703
+			xmax = 300.117371
+			text = "tiempo iichi - dry season"
+		intervals [20]:
+			xmin = 300.117371
+			xmax = 310.172941
+			text = ""
+		intervals [21]:
+			xmin = 310.172941
+			xmax = 311.722661
+			text = "tiempo iichi - dry season"
+		intervals [22]:
+			xmin = 311.722661
+			xmax = 313.259173
+			text = ""
+		intervals [23]:
+			xmin = 313.259173
+			xmax = 314.148501
+			text = "tiempo iichi - dry season"
+		intervals [24]:
+			xmin = 314.148501
+			xmax = 319.017792
+			text = ""
+		intervals [25]:
+			xmin = 319.017792
+			xmax = 320.149264
+			text = "tiempo iichi - dry season"
+		intervals [26]:
+			xmin = 320.149264
+			xmax = 322.482649
+			text = ""
+		intervals [27]:
+			xmin = 322.482649
+			xmax = 323.336756
+			text = "iichi - dry"
+		intervals [28]:
+			xmin = 323.336756
+			xmax = 324.252500
+			text = ""
+		intervals [29]:
+			xmin = 324.252500
+			xmax = 325.097801
+			text = "iichi - dry"
+		intervals [30]:
+			xmin = 325.097801
+			xmax = 327.554460
+			text = ""
+		intervals [31]:
+			xmin = 327.554460
+			xmax = 328.531840
+			text = "whistle - iichi - dry"
+		intervals [32]:
+			xmin = 328.531840
+			xmax = 329.201037
+			text = ""
+		intervals [33]:
+			xmin = 329.201037
+			xmax = 329.984703
+			text = "whistle - iichi - dry"
+		intervals [34]:
+			xmin = 329.984703
+			xmax = 330.741952
+			text = "iichi - dry"
+		intervals [35]:
+			xmin = 330.741952
+			xmax = 330.997304
+			text = ""
+		intervals [36]:
+			xmin = 330.997304
+			xmax = 332.458971
+			text = "tiempo iichi - dry season"
+		intervals [37]:
+			xmin = 332.458971
+			xmax = 333.079740
+			text = ""
+		intervals [38]:
+			xmin = 333.079740
+			xmax = 334.484174
+			text = "tiempo javi - rainy season"
+		intervals [39]:
+			xmin = 334.484174
+			xmax = 336.386103
+			text = ""
+		intervals [40]:
+			xmin = 336.386103
+			xmax = 337.742108
+			text = "tiempo viisi - cold season"
+		intervals [41]:
+			xmin = 337.742108
+			xmax = 342.893166
+			text = ""
+		intervals [42]:
+			xmin = 342.893166
+			xmax = 344.090677
+			text = "tiempo viisi - cold season"
+		intervals [43]:
+			xmin = 344.090677
+			xmax = 350.791455
+			text = ""
+		intervals [44]:
+			xmin = 350.791455
+			xmax = 351.610341
+			text = "viisi - cold"
+		intervals [45]:
+			xmin = 351.610341
+			xmax = 351.944940
+			text = ""
+		intervals [46]:
+			xmin = 351.944940
+			xmax = 352.939930
+			text = "whistle - viisi - cold"
+		intervals [47]:
+			xmin = 352.939930
+			xmax = 353.538686
+			text = ""
+		intervals [48]:
+			xmin = 353.538686
+			xmax = 354.586508
+			text = "whistle - viisi - cold"
+		intervals [49]:
+			xmin = 354.586508
+			xmax = 437.919180
+			text = ""
+		intervals [50]:
+			xmin = 437.919180
+			xmax = 439.292796
+			text = "tiempo viisi - cold season"
+		intervals [51]:
+			xmin = 439.292796
+			xmax = 448.040789
+			text = ""
+		intervals [52]:
+			xmin = 448.040789
+			xmax = 449.291131
+			text = "uuni tiempo - three season"
+		intervals [53]:
+			xmin = 449.291131
+			xmax = 452.170441
+			text = ""
+		intervals [54]:
+			xmin = 452.170441
+			xmax = 452.901275
+			text = "ki'un - untranslated"
+		intervals [55]:
+			xmin = 452.901275
+			xmax = 453.566069
+			text = ""
+		intervals [56]:
+			xmin = 453.566069
+			xmax = 455.917065
+			text = "ki uuni tiempo - three seasons"
+		intervals [57]:
+			xmin = 455.917065
+			xmax = 460.302068
+			text = ""
+		intervals [58]:
+			xmin = 460.302068
+			xmax = 461.697697
+			text = "uuni tiempo - three seasons"
+		intervals [59]:
+			xmin = 461.697697
+			xmax = 467.231782
+			text = ""
+		intervals [60]:
+			xmin = 467.231782
+			xmax = 468.248786
+			text = "i kii - we have"
+		intervals [61]:
+			xmin = 468.248786
+			xmax = 468.627411
+			text = ""
+		intervals [62]:
+			xmin = 468.627411
+			xmax = 471.612383
+			text = "i kii uuni tiempo - we have three seasons"
+		intervals [63]:
+			xmin = 471.612383
+			xmax = 472.109878
+			text = ""
+		intervals [64]:
+			xmin = 472.109878
+			xmax = 475.297371
+			text = "i kii uuni tiempo i kii i kaa - we have three seasons - Mari trying to figure out how to say it"
+		intervals [65]:
+			xmin = 475.297371
+			xmax = 475.786061
+			text = ""
+		intervals [66]:
+			xmin = 475.786061
+			xmax = 477.062819
+			text = "uuni tiempo - three seasons"
+		intervals [67]:
+			xmin = 477.062819
+			xmax = 479.021982
+			text = ""
+		intervals [68]:
+			xmin = 479.021982
+			xmax = 480.135843
+			text = "i kaa - there are"
+		intervals [69]:
+			xmin = 480.135843
+			xmax = 481.998149
+			text = ""
+		intervals [70]:
+			xmin = 481.998149
+			xmax = 482.922698
+			text = "ya'a - unknown"
+		intervals [71]:
+			xmin = 482.922698
+			xmax = 483.851649
+			text = "i kaa - there are"
+		intervals [72]:
+			xmin = 483.851649
+			xmax = 485.176836
+			text = "uuni tiempo - three seasons"
+		intervals [73]:
+			xmin = 485.176836
+			xmax = 493.462555
+			text = ""
+		intervals [74]:
+			xmin = 493.462555
+			xmax = 495.386497
+			text = "i kaa uuni tiempo - there are three seasons"
+		intervals [75]:
+			xmin = 495.386497
+			xmax = 506.467876
+			text = ""
+		intervals [76]:
+			xmin = 506.467876
+			xmax = 508.039609
+			text = "i kaa uuni tiempo - there are three seasons"
+		intervals [77]:
+			xmin = 508.039609
+			xmax = 510.417020
+			text = ""
+		intervals [78]:
+			xmin = 510.417020
+			xmax = 512.420209
+			text = "whistle - i kaa uuni tiempo - there are three seasons"
+		intervals [79]:
+			xmin = 512.420209
+			xmax = 513.142238
+			text = ""
+		intervals [80]:
+			xmin = 513.142238
+			xmax = 515.114609
+			text = "whistle - i kaa uuni tiempo - there are three seasons"
+		intervals [81]:
+			xmin = 515.114609
+			xmax = 519.107780
+			text = ""
+		intervals [82]:
+			xmin = 519.107780
+			xmax = 520.921656
+			text = "whistle - i kaa uuni tiempo - there are three seasons"
+		intervals [83]:
+			xmin = 520.921656
+			xmax = 538.681800
+			text = ""
+		intervals [84]:
+			xmin = 538.681800
+			xmax = 539.579933
+			text = "i'ni - hot"
+		intervals [85]:
+			xmin = 539.579933
+			xmax = 543.115232
+			text = ""
+		intervals [86]:
+			xmin = 543.115232
+			xmax = 543.736001
+			text = "i'ni - hot"
+		intervals [87]:
+			xmin = 543.736001
+			xmax = 545.536670
+			text = ""
+		intervals [88]:
+			xmin = 545.536670
+			xmax = 546.205867
+			text = "i'ni - hot"
+		intervals [89]:
+			xmin = 546.205867
+			xmax = 546.249893
+			text = ""
+		intervals [90]:
+			xmin = 546.249893
+			xmax = 547.420988
+			text = "tiempo i'ni - hot weather"
+		intervals [91]:
+			xmin = 547.420988
+			xmax = 548.931085
+			text = ""
+		intervals [92]:
+			xmin = 548.931085
+			xmax = 550.049349
+			text = "tiempo i'ni - hot weather"
+		intervals [93]:
+			xmin = 550.049349
+			xmax = 551.519822
+			text = ""
+		intervals [94]:
+			xmin = 551.519822
+			xmax = 552.417955
+			text = "tiempo i'ni - hot weather"
+		intervals [95]:
+			xmin = 552.417955
+			xmax = 554.148182
+			text = ""
+		intervals [96]:
+			xmin = 554.148182
+			xmax = 555.653876
+			text = "tiempo iichi - dry season"
+		intervals [97]:
+			xmin = 555.653876
+			xmax = 555.926838
+			text = ""
+		intervals [98]:
+			xmin = 555.926838
+			xmax = 556.763335
+			text = "iichi - dry"
+		intervals [99]:
+			xmin = 556.763335
+			xmax = 560.355867
+			text = ""
+		intervals [100]:
+			xmin = 560.355867
+			xmax = 560.932610
+			text = "iichi - dry"
+		intervals [101]:
+			xmin = 560.932610
+			xmax = 566.061655
+			text = ""
+		intervals [102]:
+			xmin = 566.061655
+			xmax = 566.942178
+			text = "iichi - dry"
+		intervals [103]:
+			xmin = 566.942178
+			xmax = 567.179919
+			text = ""
+		intervals [104]:
+			xmin = 567.179919
+			xmax = 568.597560
+			text = "tiempo iichi - dry season"
+		intervals [105]:
+			xmin = 568.597560
+			xmax = 572.159275
+			text = ""
+		intervals [106]:
+			xmin = 572.159275
+			xmax = 573.105837
+			text = "tiempo i'ni - hot weather"
+		intervals [107]:
+			xmin = 573.105837
+			xmax = 574.479452
+			text = "tiempo iitci - dry season"
+		intervals [108]:
+			xmin = 574.479452
+			xmax = 588.048308
+			text = ""
+		intervals [109]:
+			xmin = 588.048308
+			xmax = 588.999272
+			text = "iichi - dry"
+		intervals [110]:
+			xmin = 588.999272
+			xmax = 594.357253
+			text = ""
+		intervals [111]:
+			xmin = 594.357253
+			xmax = 595.501933
+			text = "i'ni - hot"
+		intervals [112]:
+			xmin = 595.501933
+			xmax = 597.707642
+			text = ""
+		intervals [113]:
+			xmin = 597.707642
+			xmax = 598.658607
+			text = "tiempo i'ni - hot weather"
+		intervals [114]:
+			xmin = 598.658607
+			xmax = 611.527447
+			text = ""
+		intervals [115]:
+			xmin = 611.527447
+			xmax = 613.121193
+			text = "tuni i'ni kiivi - the day is very hot"
+		intervals [116]:
+			xmin = 613.121193
+			xmax = 614.463990
+			text = ""
+		intervals [117]:
+			xmin = 614.463990
+			xmax = 615.793579
+			text = "i'ni kiivi - the day is hot"
+		intervals [118]:
+			xmin = 615.793579
+			xmax = 616.031320
+			text = ""
+		intervals [119]:
+			xmin = 616.031320
+			xmax = 617.801171
+			text = "i'ni tyikwii - the water is hot"
+		intervals [120]:
+			xmin = 617.801171
+			xmax = 622.547189
+			text = ""
+		intervals [121]:
+			xmin = 622.547189
+			xmax = 623.956025
+			text = "jaa xiita - the tortilla is hot"
+		intervals [122]:
+			xmin = 623.956025
+			xmax = 627.944793
+			text = ""
+		intervals [123]:
+			xmin = 627.944793
+			xmax = 629.630994
+			text = "jaa xiita - the tortilla is hot"
+		intervals [124]:
+			xmin = 629.630994
+			xmax = 633.817880
+			text = ""
+		intervals [125]:
+			xmin = 633.817880
+			xmax = 634.702805
+			text = "xiita - tortilla"
+		intervals [126]:
+			xmin = 634.702805
+			xmax = 635.733017
+			text = "xiita - tortilla"
+		intervals [127]:
+			xmin = 635.733017
+			xmax = 636.252525
+			text = ""
+		intervals [128]:
+			xmin = 636.252525
+			xmax = 637.199087
+			text = "xiita - tortilla"
+		intervals [129]:
+			xmin = 637.199087
+			xmax = 637.353179
+			text = ""
+		intervals [130]:
+			xmin = 637.353179
+			xmax = 638.445027
+			text = "whistle - xiita - tortilla"
+		intervals [131]:
+			xmin = 638.445027
+			xmax = 639.171458
+			text = ""
+		intervals [132]:
+			xmin = 639.171458
+			xmax = 639.955123
+			text = "whistle - xiita - tortilla"
+		intervals [133]:
+			xmin = 639.955123
+			xmax = 640.822438
+			text = ""
+		intervals [134]:
+			xmin = 640.822438
+			xmax = 641.791013
+			text = "xiita - tortilla"
+		intervals [135]:
+			xmin = 641.791013
+			xmax = 659.995821
+			text = ""
+		intervals [136]:
+			xmin = 659.995821
+			xmax = 660.986409
+			text = "jaa xiita - the tortilla is hot"
+		intervals [137]:
+			xmin = 660.986409
+			xmax = 688.502745
+			text = ""
+		intervals [138]:
+			xmin = 688.502745
+			xmax = 689.673840
+			text = "tuni i'ni - it is very hot"
+		intervals [139]:
+			xmin = 689.673840
+			xmax = 691.624198
+			text = "tuni jaa tikwii - the water is very hot"
+		intervals [140]:
+			xmin = 691.624198
+			xmax = 695.894733
+			text = ""
+		intervals [141]:
+			xmin = 695.894733
+			xmax = 696.753243
+			text = "i'ni - hot"
+		intervals [142]:
+			xmin = 696.753243
+			xmax = 702.511861
+			text = ""
+		intervals [143]:
+			xmin = 702.511861
+			xmax = 703.436410
+			text = "i'ni - hot"
+		intervals [144]:
+			xmin = 703.436410
+			xmax = 709.384341
+			text = ""
+		intervals [145]:
+			xmin = 709.384341
+			xmax = 710.168007
+			text = "i'ni - hot"
+		intervals [146]:
+			xmin = 710.168007
+			xmax = 711.400739
+			text = ""
+		intervals [147]:
+			xmin = 711.400739
+			xmax = 712.259248
+			text = "i'ni - hot"
+		intervals [148]:
+			xmin = 712.259248
+			xmax = 725.057646
+			text = ""
+		intervals [149]:
+			xmin = 725.057646
+			xmax = 726.572145
+			text = "tuni jaa xiita - the tortilla is very hot"
+		intervals [150]:
+			xmin = 726.572145
+			xmax = 737.781200
+			text = ""
+		intervals [151]:
+			xmin = 737.781200
+			xmax = 738.406371
+			text = "tuni - very"
+		intervals [152]:
+			xmin = 738.406371
+			xmax = 739.119594
+			text = "tuni - very"
+		intervals [153]:
+			xmin = 739.119594
+			xmax = 739.775584
+			text = ""
+		intervals [154]:
+			xmin = 739.775584
+			xmax = 740.396352
+			text = "tuni - very"
+		intervals [155]:
+			xmin = 740.396352
+			xmax = 745.063123
+			text = ""
+		intervals [156]:
+			xmin = 745.063123
+			xmax = 746.392712
+			text = "jaa xiita - warm tortilla"
+		intervals [157]:
+			xmin = 746.392712
+			xmax = 754.224962
+			text = ""
+		intervals [158]:
+			xmin = 754.224962
+			xmax = 755.127498
+			text = "jaa xiita - warm tortilla"
+		intervals [159]:
+			xmin = 755.127498
+			xmax = 764.874885
+			text = ""
+		intervals [160]:
+			xmin = 764.874885
+			xmax = 766.090006
+			text = "tuni jaa xiita - the tortilla is very warm"
+		intervals [161]:
+			xmin = 766.090006
+			xmax = 766.649138
+			text = ""
+		intervals [162]:
+			xmin = 766.649138
+			xmax = 767.401985
+			text = "tuni ja- - very tf"
+		intervals [163]:
+			xmin = 767.401985
+			xmax = 769.171836
+			text = "tuni i'ni tikwii - the water is very hot"
+		intervals [164]:
+			xmin = 769.171836
+			xmax = 770.747971
+			text = ""
+		intervals [165]:
+			xmin = 770.747971
+			xmax = 771.540442
+			text = "tuni - very"
+		intervals [166]:
+			xmin = 771.540442
+			xmax = 774.133581
+			text = ""
+		intervals [167]:
+			xmin = 774.133581
+			xmax = 776.009095
+			text = "tuni i'ni tikwii - the water is very hot"
+		intervals [168]:
+			xmin = 776.009095
+			xmax = 777.505983
+			text = ""
+		intervals [169]:
+			xmin = 777.505983
+			xmax = 778.170778
+			text = "tuni - very"
+		intervals [170]:
+			xmin = 778.170778
+			xmax = 782.665847
+			text = ""
+		intervals [171]:
+			xmin = 782.665847
+			xmax = 784.396074
+			text = "jaa xiita - the tortilla is warm"
+		intervals [172]:
+			xmin = 784.396074
+			xmax = 791.550321
+			text = ""
+		intervals [173]:
+			xmin = 791.550321
+			xmax = 792.404428
+			text = "tuni - very"
+		intervals [174]:
+			xmin = 792.404428
+			xmax = 802.323517
+			text = ""
+		intervals [175]:
+			xmin = 802.323517
+			xmax = 803.014727
+			text = "tuni - very"
+		intervals [176]:
+			xmin = 803.014727
+			xmax = 803.719145
+			text = ""
+		intervals [177]:
+			xmin = 803.719145
+			xmax = 805.185216
+			text = "tuni jaa - very warm"
+		intervals [178]:
+			xmin = 805.185216
+			xmax = 809.671479
+			text = ""
+		intervals [179]:
+			xmin = 809.671479
+			xmax = 810.728106
+			text = "tuni jaa - very warm"
+		intervals [180]:
+			xmin = 810.728106
+			xmax = 813.374077
+			text = ""
+		intervals [181]:
+			xmin = 813.374077
+			xmax = 814.487938
+			text = "jaa xiita - warm tortilla"
+		intervals [182]:
+			xmin = 814.487938
+			xmax = 815.170344
+			text = ""
+		intervals [183]:
+			xmin = 815.170344
+			xmax = 816.887363
+			text = "tuni i'ni xiita - the tortilla is very hot"
+		intervals [184]:
+			xmin = 816.887363
+			xmax = 818.252173
+			text = ""
+		intervals [185]:
+			xmin = 818.252173
+			xmax = 819.643399
+			text = "i'ni xiita - hot tortilla"
+		intervals [186]:
+			xmin = 819.643399
+			xmax = 821.100664
+			text = ""
+		intervals [187]:
+			xmin = 821.100664
+			xmax = 822.214526
+			text = "xiita - tortilla"
+		intervals [188]:
+			xmin = 822.214526
+			xmax = 823.566128
+			text = ""
+		intervals [189]:
+			xmin = 823.566128
+			xmax = 824.398222
+			text = "tuni - very"
+		intervals [190]:
+			xmin = 824.398222
+			xmax = 825.952345
+			text = ""
+		intervals [191]:
+			xmin = 825.952345
+			xmax = 827.163063
+			text = "tuni i'ni - very hot"
+		intervals [192]:
+			xmin = 827.163063
+			xmax = 827.867482
+			text = "i'ni - hot"
+		intervals [193]:
+			xmin = 827.867482
+			xmax = 829.329149
+			text = ""
+		intervals [194]:
+			xmin = 829.329149
+			xmax = 830.112815
+			text = "i'ni - hot"
+		intervals [195]:
+			xmin = 830.112815
+			xmax = 856.757433
+			text = ""
+		intervals [196]:
+			xmin = 856.757433
+			xmax = 857.673176
+			text = "tikwii - water"
+		intervals [197]:
+			xmin = 857.673176
+			xmax = 859.148052
+			text = ""
+		intervals [198]:
+			xmin = 859.148052
+			xmax = 861.041176
+			text = "tikwii - water"
+		intervals [199]:
+			xmin = 861.041176
+			xmax = 863.348145
+			text = ""
+		intervals [200]:
+			xmin = 863.348145
+			xmax = 864.642514
+			text = "tikwii - water"
+		intervals [201]:
+			xmin = 864.642514
+			xmax = 865.593478
+			text = "whistle - tikwii - water"
+		intervals [202]:
+			xmin = 865.593478
+			xmax = 866.328715
+			text = ""
+		intervals [203]:
+			xmin = 866.328715
+			xmax = 867.530628
+			text = "whistle - tikwii - water"
+		intervals [204]:
+			xmin = 867.530628
+			xmax = 867.957682
+			text = ""
+		intervals [205]:
+			xmin = 867.957682
+			xmax = 869.278466
+			text = "tikwii - water"
+		intervals [206]:
+			xmin = 869.278466
+			xmax = 871.290461
+			text = ""
+		intervals [207]:
+			xmin = 871.290461
+			xmax = 872.659673
+			text = "tikwii - water"
+		intervals [208]:
+			xmin = 872.659673
+			xmax = 873.685482
+			text = ""
+		intervals [209]:
+			xmin = 873.685482
+			xmax = 875.464138
+			text = "tikwii - water"
+		intervals [210]:
+			xmin = 875.464138
+			xmax = 877.225184
+			text = ""
+		intervals [211]:
+			xmin = 877.225184
+			xmax = 878.664838
+			text = "tikwii - water"
+		intervals [212]:
+			xmin = 878.664838
+			xmax = 888.042406
+			text = ""
+		intervals [213]:
+			xmin = 888.042406
+			xmax = 889.614139
+			text = "tikwii jaa - hot water"
+		intervals [214]:
+			xmin = 889.614139
+			xmax = 891.067001
+			text = ""
+		intervals [215]:
+			xmin = 891.067001
+			xmax = 892.026771
+			text = "tikwii jaa - hot water"
+		intervals [216]:
+			xmin = 892.026771
+			xmax = 913.379448
+			text = ""
+		intervals [217]:
+			xmin = 913.379448
+			xmax = 914.634192
+			text = "tikwii jaa - hot water"
+		intervals [218]:
+			xmin = 914.634192
+			xmax = 917.561931
+			text = ""
+		intervals [219]:
+			xmin = 917.561931
+			xmax = 919.177690
+			text = "tikwii viisi - cold water"
+		intervals [220]:
+			xmin = 919.177690
+			xmax = 920.648163
+			text = "tikwii viisi - cold water"
+		intervals [221]:
+			xmin = 920.648163
+			xmax = 920.934333
+			text = ""
+		intervals [222]:
+			xmin = 920.934333
+			xmax = 922.541287
+			text = "whistle - tikwii viisi - cold water"
+		intervals [223]:
+			xmin = 922.541287
+			xmax = 922.906704
+			text = ""
+		intervals [224]:
+			xmin = 922.906704
+			xmax = 924.192267
+			text = "whistle - tikwii viisi - cold water"
+		intervals [225]:
+			xmin = 924.192267
+			xmax = 925.552674
+			text = ""
+		intervals [226]:
+			xmin = 925.552674
+			xmax = 926.939498
+			text = "whistle - tikwii viisi - cold water"
+		intervals [227]:
+			xmin = 926.939498
+			xmax = 928.396763
+			text = "tikwii viisi - cold water"
+		intervals [228]:
+			xmin = 928.396763
+			xmax = 931.267267
+			text = ""
+		intervals [229]:
+			xmin = 931.267267
+			xmax = 933.098754
+			text = "tikwii viisi - cold water"
+		intervals [230]:
+			xmin = 933.098754
+			xmax = 939.561791
+			text = ""
+		intervals [231]:
+			xmin = 939.561791
+			xmax = 940.970628
+			text = "tikwii viisi - cold water"
+		intervals [232]:
+			xmin = 940.970628
+			xmax = 960.800000
+			text = ""
+		intervals [233]:
+			xmin = 960.800000
+			xmax = 961.940277
+			text = "tiempo viisi - cold weather"
+		intervals [234]:
+			xmin = 961.940277
+			xmax = 963.340308
+			text = ""
+		intervals [235]:
+			xmin = 963.340308
+			xmax = 964.603858
+			text = "tiempo viisi - cold weather"
+		intervals [236]:
+			xmin = 964.603858
+			xmax = 971.172558
+			text = ""
+		intervals [237]:
+			xmin = 971.172558
+			xmax = 972.955616
+			text = "tuni viisi kuuni - yesterday was very cold"
+		intervals [238]:
+			xmin = 972.955616
+			xmax = 973.814126
+			text = ""
+		intervals [239]:
+			xmin = 973.814126
+			xmax = 975.874549
+			text = "kuuni nisiku viisi - yesterday was cold"
+		intervals [240]:
+			xmin = 975.874549
+			xmax = 978.243155
+			text = ""
+		intervals [241]:
+			xmin = 978.243155
+			xmax = 979.603563
+			text = "tuni viisi kuni - yesterday was very cold"
+		intervals [242]:
+			xmin = 979.603563
+			xmax = 983.557110
+			text = ""
+		intervals [243]:
+			xmin = 983.557110
+			xmax = 985.445831
+			text = "viisi nisiku kuuni - yesterday was cold"
+		intervals [244]:
+			xmin = 985.445831
+			xmax = 985.811248
+			text = ""
+		intervals [245]:
+			xmin = 985.811248
+			xmax = 988.303128
+			text = "viisi nisiku kuuni - yesterday was cold"
+		intervals [246]:
+			xmin = 988.303128
+			xmax = 988.364764
+			text = ""
+		intervals [247]:
+			xmin = 988.364764
+			xmax = 990.883059
+			text = "viisi nisiku kuuni - yesterday was cold"
+		intervals [248]:
+			xmin = 990.883059
+			xmax = 990.979917
+			text = ""
+		intervals [249]:
+			xmin = 990.979917
+			xmax = 992.124596
+			text = "viisi - cold"
+		intervals [250]:
+			xmin = 992.124596
+			xmax = 993.123990
+			text = ""
+		intervals [251]:
+			xmin = 993.123990
+			xmax = 995.730337
+			text = "viisi nisiku kuuni - yesterday was cold"
+		intervals [252]:
+			xmin = 995.730337
+			xmax = 997.271252
+			text = ""
+		intervals [253]:
+			xmin = 997.271252
+			xmax = 999.719105
+			text = "viisi nisiku kuuni - yesterday was cold"
+		intervals [254]:
+			xmin = 999.719105
+			xmax = 1002.250608
+			text = ""
+		intervals [255]:
+			xmin = 1002.250608
+			xmax = 1003.694665
+			text = "whistle - viisi - cold"
+		intervals [256]:
+			xmin = 1003.694665
+			xmax = 1006.054466
+			text = "viisi nisiku - was cold"
+		intervals [257]:
+			xmin = 1006.054466
+			xmax = 1008.629995
+			text = ""
+		intervals [258]:
+			xmin = 1008.629995
+			xmax = 1009.506115
+			text = "kuuni - yesterday"
+		intervals [259]:
+			xmin = 1009.506115
+			xmax = 1013.468468
+			text = ""
+		intervals [260]:
+			xmin = 1013.468468
+			xmax = 1015.383605
+			text = "nisiku kuuni - yesterday was"
+		intervals [261]:
+			xmin = 1015.383605
+			xmax = 1015.669774
+			text = ""
+		intervals [262]:
+			xmin = 1015.669774
+			xmax = 1017.668561
+			text = "viisi nisiku kuuni - yesterday was cold"
+		intervals [263]:
+			xmin = 1017.668561
+			xmax = 1018.879280
+			text = ""
+		intervals [264]:
+			xmin = 1018.879280
+			xmax = 1020.798819
+			text = "viisi nisiku kuuni - yesterday was cold"
+		intervals [265]:
+			xmin = 1020.798819
+			xmax = 1021.375562
+			text = ""
+		intervals [266]:
+			xmin = 1021.375562
+			xmax = 1023.735363
+			text = "viisi nisiku kuuni - yesterday was cold"
+		intervals [267]:
+			xmin = 1023.735363
+			xmax = 1024.910861
+			text = ""
+		intervals [268]:
+			xmin = 1024.910861
+			xmax = 1027.658092
+			text = "whistle - viisi nisiku kuuni - yesterday was cold"
+		intervals [269]:
+			xmin = 1027.658092
+			xmax = 1028.771953
+			text = ""
+		intervals [270]:
+			xmin = 1028.771953
+			xmax = 1030.361296
+			text = "viisi nisiku kuuni - yesterday was cold"
+		intervals [271]:
+			xmin = 1030.361296
+			xmax = 1032.527382
+			text = "whistle - viisi nisiku kuuni - yesterday was cold"
+		intervals [272]:
+			xmin = 1032.527382
+			xmax = 1033.394697
+			text = ""
+		intervals [273]:
+			xmin = 1033.394697
+			xmax = 1035.763303
+			text = "whistle - viisi nisiku kuuni - yesterday was cold"
+		intervals [274]:
+			xmin = 1035.763303
+			xmax = 1036.560176
+			text = ""
+		intervals [275]:
+			xmin = 1036.560176
+			xmax = 1038.809912
+			text = "viisi nisiku kuuni - yesterday was cold"
+		intervals [276]:
+			xmin = 1038.809912
+			xmax = 1040.051449
+			text = ""
+		intervals [277]:
+			xmin = 1040.051449
+			xmax = 1042.059041
+			text = "viisi nisiku kuuni - yesterday was cold"
+		intervals [278]:
+			xmin = 1042.059041
+			xmax = 1042.776667
+			text = ""
+		intervals [279]:
+			xmin = 1042.776667
+			xmax = 1045.004390
+			text = "whistle - viisi nisiku kuuni - yesterday was cold"
+		intervals [280]:
+			xmin = 1045.004390
+			xmax = 1066.418703
+			text = ""
+		intervals [281]:
+			xmin = 1066.418703
+			xmax = 1067.118718
+			text = "kuni - yesterday"
+		intervals [282]:
+			xmin = 1067.118718
+			xmax = 1073.515716
+			text = ""
+		intervals [283]:
+			xmin = 1073.515716
+			xmax = 1074.105666
+			text = "kuuni - yesterday"
+		intervals [284]:
+			xmin = 1074.105666
+			xmax = 1074.629577
+			text = ""
+		intervals [285]:
+			xmin = 1074.629577
+			xmax = 1075.232735
+			text = "kuuni - yesterday"
+		intervals [286]:
+			xmin = 1075.232735
+			xmax = 1083.197063
+			text = ""
+		intervals [287]:
+			xmin = 1083.197063
+			xmax = 1085.046161
+			text = "viisi nisiku kuuni - yesterday was cold"
+		intervals [288]:
+			xmin = 1085.046161
+			xmax = 1094.146364
+			text = ""
+		intervals [289]:
+			xmin = 1094.146364
+			xmax = 1096.915608
+			text = "viisi nisiku kuuni - yesterday was cold"
+		intervals [290]:
+			xmin = 1096.915608
+			xmax = 1102.269186
+			text = ""
+		intervals [291]:
+			xmin = 1102.269186
+			xmax = 1107.054827
+			text = "viisi nisiku kuuni - yesterday was cold"
+		intervals [292]:
+			xmin = 1107.054827
+			xmax = 1110.387606
+			text = ""
+		intervals [293]:
+			xmin = 1110.387606
+			xmax = 1112.241106
+			text = "viisi nisiku kuuni - yesterday was cold"
+		intervals [294]:
+			xmin = 1112.241106
+			xmax = 1114.790219
+			text = ""
+		intervals [295]:
+			xmin = 1114.790219
+			xmax = 1116.868253
+			text = "viisi nisiku kuuni - yesterday was cold"
+		intervals [296]:
+			xmin = 1116.868253
+			xmax = 1122.948263
+			text = ""
+		intervals [297]:
+			xmin = 1122.948263
+			xmax = 1124.299865
+			text = "viisi - cold"
+		intervals [298]:
+			xmin = 1124.299865
+			xmax = 1125.021894
+			text = ""
+		intervals [299]:
+			xmin = 1125.021894
+			xmax = 1128.332659
+			text = "nisiku - was"
+		intervals [300]:
+			xmin = 1128.332659
+			xmax = 1128.649647
+			text = ""
+		intervals [301]:
+			xmin = 1128.649647
+			xmax = 1129.851561
+			text = "kuuni - yesterday"
+		intervals [302]:
+			xmin = 1129.851561
+			xmax = 1135.407659
+			text = ""
+		intervals [303]:
+			xmin = 1135.407659
+			xmax = 1136.869327
+			text = "viisi nisiku - was cold"
+		intervals [304]:
+			xmin = 1136.869327
+			xmax = 1137.010211
+			text = ""
+		intervals [305]:
+			xmin = 1137.010211
+			xmax = 1139.779455
+			text = "viisi nisiku kuuni - yesterday was cold"
+		intervals [306]:
+			xmin = 1139.779455
+			xmax = 1148.399772
+			text = ""
+		intervals [307]:
+			xmin = 1148.399772
+			xmax = 1150.394156
+			text = "viisi nisiku kuuni - yesterday was cold"
+		intervals [308]:
+			xmin = 1150.394156
+			xmax = 1151.287887
+			text = ""
+		intervals [309]:
+			xmin = 1151.287887
+			xmax = 1153.084153
+			text = "viisi nisiku kuuni - yesterday was cold"
+		intervals [310]:
+			xmin = 1153.084153
+			xmax = 1156.346490
+			text = ""
+		intervals [311]:
+			xmin = 1156.346490
+			xmax = 1158.367290
+			text = "whistle - viisi nisiku kuuni - yesterday was cold"
+		intervals [312]:
+			xmin = 1158.367290
+			xmax = 1195.151127
+			text = ""
+		intervals [313]:
+			xmin = 1195.151127
+			xmax = 1196.722861
+			text = "nisiku - was"
+		intervals [314]:
+			xmin = 1196.722861
+			xmax = 1199.346818
+			text = ""
+		intervals [315]:
+			xmin = 1199.346818
+			xmax = 1200.205328
+			text = "kuuni - yesterday"
+		intervals [316]:
+			xmin = 1200.205328
+			xmax = 1209.847052
+			text = ""
+		intervals [317]:
+			xmin = 1209.847052
+			xmax = 1210.815627
+			text = "tiempo - time"
+		intervals [318]:
+			xmin = 1210.815627
+			xmax = 1211.788605
+			text = "ora - time"
+		intervals [319]:
+			xmin = 1211.788605
+			xmax = 1232.991592
+			text = ""
+		intervals [320]:
+			xmin = 1232.991592
+			xmax = 1233.801673
+			text = "ora - time"
+		intervals [321]:
+			xmin = 1233.801673
+			xmax = 1236.526891
+			text = ""
+		intervals [322]:
+			xmin = 1236.526891
+			xmax = 1237.750818
+			text = "tiempo - time"
+		intervals [323]:
+			xmin = 1237.750818
+			xmax = 1246.947878
+			text = ""
+		intervals [324]:
+			xmin = 1246.947878
+			xmax = 1248.074947
+			text = "estasion - season"
+		intervals [325]:
+			xmin = 1248.074947
+			xmax = 1280.764354
+			text = ""
+		intervals [326]:
+			xmin = 1280.764354
+			xmax = 1281.838591
+			text = "estasyon - season"
+		intervals [327]:
+			xmin = 1281.838591
+			xmax = 1283.379506
+			text = ""
+		intervals [328]:
+			xmin = 1283.379506
+			xmax = 1285.175773
+			text = "estasyon - season"
+		intervals [329]:
+			xmin = 1285.175773
+			xmax = 1285.862580
+			text = ""
+		intervals [330]:
+			xmin = 1285.862580
+			xmax = 1286.945623
+			text = "whistle - estasyon - season"
+		intervals [331]:
+			xmin = 1286.945623
+			xmax = 1288.530564
+			text = ""
+		intervals [332]:
+			xmin = 1288.530564
+			xmax = 1289.833738
+			text = "estasyon - season"
+		intervals [333]:
+			xmin = 1289.833738
+			xmax = 1293.633193
+			text = ""
+		intervals [334]:
+			xmin = 1293.633193
+			xmax = 1294.760263
+			text = "estasion - season"
+		intervals [335]:
+			xmin = 1294.760263
+			xmax = 1302.548486
+			text = ""
+		intervals [336]:
+			xmin = 1302.548486
+			xmax = 1303.701971
+			text = "whistle - estaciones Spanish - seasons"
+		intervals [337]:
+			xmin = 1303.701971
+			xmax = 1306.242279
+			text = ""
+		intervals [338]:
+			xmin = 1306.242279
+			xmax = 1307.386959
+			text = "whistle - estaciones Spanish - seasons"
+		intervals [339]:
+			xmin = 1307.386959
+			xmax = 1311.071946
+			text = ""
+		intervals [340]:
+			xmin = 1311.071946
+			xmax = 1312.247444
+			text = "estasion - season"
+		intervals [341]:
+			xmin = 1312.247444
+			xmax = 1312.705316
+			text = ""
+		intervals [342]:
+			xmin = 1312.705316
+			xmax = 1313.968866
+			text = "estasion - season"
+		intervals [343]:
+			xmin = 1313.968866
+			xmax = 1317.116735
+			text = ""
+		intervals [344]:
+			xmin = 1317.116735
+			xmax = 1318.640039
+			text = "estasion - season"
+		intervals [345]:
+			xmin = 1318.640039
+			xmax = 1340.666316
+			text = ""
+		intervals [346]:
+			xmin = 1340.666316
+			xmax = 1341.538033
+			text = "viti - now"
+		intervals [347]:
+			xmin = 1341.538033
+			xmax = 1342.444972
+			text = ""
+		intervals [348]:
+			xmin = 1342.444972
+			xmax = 1343.387131
+			text = "viti - now"
+		intervals [349]:
+			xmin = 1343.387131
+			xmax = 1386.990617
+			text = ""
+		intervals [350]:
+			xmin = 1386.990617
+			xmax = 1389.099469
+			text = "viti ityaan - now tomorrow"
+		intervals [351]:
+			xmin = 1389.099469
+			xmax = 1393.414031
+			text = ""
+		intervals [352]:
+			xmin = 1393.414031
+			xmax = 1396.156859
+			text = "viti ityaan - now tomorrow"
+		intervals [353]:
+			xmin = 1396.156859
+			xmax = 1400.475823
+			text = ""
+		intervals [354]:
+			xmin = 1400.475823
+			xmax = 1401.325527
+			text = "whistle - viti - now"
+		intervals [355]:
+			xmin = 1401.325527
+			xmax = 1401.831828
+			text = ""
+		intervals [356]:
+			xmin = 1401.831828
+			xmax = 1402.729961
+			text = "viti - now"
+		intervals [357]:
+			xmin = 1402.729961
+			xmax = 1403.245067
+			text = ""
+		intervals [358]:
+			xmin = 1403.245067
+			xmax = 1403.967096
+			text = "whistle - viti - now"
+		intervals [359]:
+			xmin = 1403.967096
+			xmax = 1405.952674
+			text = ""
+		intervals [360]:
+			xmin = 1405.952674
+			xmax = 1407.273458
+			text = "ityaan - tomorrow"
+		intervals [361]:
+			xmin = 1407.273458
+			xmax = 1408.325683
+			text = ""
+		intervals [362]:
+			xmin = 1408.325683
+			xmax = 1409.580428
+			text = "intyaan - tomorrow"
+		intervals [363]:
+			xmin = 1409.580428
+			xmax = 1410.584224
+			text = "intyaan - tomorrow"
+		intervals [364]:
+			xmin = 1410.584224
+			xmax = 1410.672276
+			text = ""
+		intervals [365]:
+			xmin = 1410.672276
+			xmax = 1411.662864
+			text = "whistle - intyaan - tomorrow"
+		intervals [366]:
+			xmin = 1411.662864
+			xmax = 1412.089918
+			text = ""
+		intervals [367]:
+			xmin = 1412.089918
+			xmax = 1413.313844
+			text = "intyaan - tomorrow"
+		intervals [368]:
+			xmin = 1413.313844
+			xmax = 1414.005055
+			text = ""
+		intervals [369]:
+			xmin = 1414.005055
+			xmax = 1415.303826
+			text = "intyaan - tomorrow"
+		intervals [370]:
+			xmin = 1415.303826
+			xmax = 1417.329028
+			text = ""
+		intervals [371]:
+			xmin = 1417.329028
+			xmax = 1418.297603
+			text = "intyaan - tomorrow"
+		intervals [372]:
+			xmin = 1418.297603
+			xmax = 1419.398257
+			text = ""
+		intervals [373]:
+			xmin = 1419.398257
+			xmax = 1421.722837
+			text = "intyaan tyaan - tomorrow"
+		intervals [374]:
+			xmin = 1421.722837
+			xmax = 1427.679573
+			text = ""
+		intervals [375]:
+			xmin = 1427.679573
+			xmax = 1428.612927
+			text = "intyaan - tomorrow"
+		intervals [376]:
+			xmin = 1428.612927
+			xmax = 1430.246297
+			text = ""
+		intervals [377]:
+			xmin = 1430.246297
+			xmax = 1432.416785
+			text = "intyaan tyaan - tomorrow"
+		intervals [378]:
+			xmin = 1432.416785
+			xmax = 1435.111185
+			text = ""
+		intervals [379]:
+			xmin = 1435.111185
+			xmax = 1435.573459
+			text = "DeAndre tyaan"
+		intervals [380]:
+			xmin = 1435.573459
+			xmax = 1435.687927
+			text = ""
+		intervals [381]:
+			xmin = 1435.687927
+			xmax = 1436.572853
+			text = "intyaan - tomorrow"
+		intervals [382]:
+			xmin = 1436.572853
+			xmax = 1446.399486
+			text = ""
+		intervals [383]:
+			xmin = 1446.399486
+			xmax = 1447.451711
+			text = "viti - today"
+		intervals [384]:
+			xmin = 1447.451711
+			xmax = 1448.724067
+			text = ""
+		intervals [385]:
+			xmin = 1448.724067
+			xmax = 1449.833525
+			text = "intyaan - tomorrow"
+		intervals [386]:
+			xmin = 1449.833525
+			xmax = 1470.627070
+			text = ""
+		intervals [387]:
+			xmin = 1470.627070
+			xmax = 1471.445956
+			text = "viti - now"
+		intervals [388]:
+			xmin = 1471.445956
+			xmax = 1471.987477
+			text = ""
+		intervals [389]:
+			xmin = 1471.987477
+			xmax = 1472.828377
+			text = "viti - now"
+		intervals [390]:
+			xmin = 1472.828377
+			xmax = 1474.637851
+			text = ""
+		intervals [391]:
+			xmin = 1474.637851
+			xmax = 1475.456737
+			text = "viti - now"
+		intervals [392]:
+			xmin = 1475.456737
+			xmax = 1479.379466
+			text = ""
+		intervals [393]:
+			xmin = 1479.379466
+			xmax = 1480.713458
+			text = "viti vi ityun - give me that right now"
+		intervals [394]:
+			xmin = 1480.713458
+			xmax = 1486.133075
+			text = ""
+		intervals [395]:
+			xmin = 1486.133075
+			xmax = 1487.607951
+			text = "kivi viti - today"
+		intervals [396]:
+			xmin = 1487.607951
+			xmax = 1488.462058
+			text = ""
+		intervals [397]:
+			xmin = 1488.462058
+			xmax = 1489.131255
+			text = "kivi - day"
+		intervals [398]:
+			xmin = 1489.131255
+			xmax = 1489.663971
+			text = ""
+		intervals [399]:
+			xmin = 1489.663971
+			xmax = 1490.438831
+			text = "kivi - day"
+		intervals [400]:
+			xmin = 1490.438831
+			xmax = 1491.799239
+			text = ""
+		intervals [401]:
+			xmin = 1491.799239
+			xmax = 1493.186062
+			text = "kivi viti - today"
+		intervals [402]:
+			xmin = 1493.186062
+			xmax = 1499.900048
+			text = ""
+		intervals [403]:
+			xmin = 1499.900048
+			xmax = 1500.961078
+			text = "intyaan - tomorrow"
+		intervals [404]:
+			xmin = 1500.961078
+			xmax = 1502.242239
+			text = "intyaan - tomorrow"
+		intervals [405]:
+			xmin = 1502.242239
+			xmax = 1506.442332
+			text = ""
+		intervals [406]:
+			xmin = 1506.442332
+			xmax = 1507.560596
+			text = "kivi viti - today"
+		intervals [407]:
+			xmin = 1507.560596
+			xmax = 1508.295833
+			text = ""
+		intervals [408]:
+			xmin = 1508.295833
+			xmax = 1509.770708
+			text = "kivi viti - today"
+		intervals [409]:
+			xmin = 1509.770708
+			xmax = 1511.355649
+			text = ""
+		intervals [410]:
+			xmin = 1511.355649
+			xmax = 1512.333029
+			text = "kivi - day"
+		intervals [411]:
+			xmin = 1512.333029
+			xmax = 1513.446891
+			text = ""
+		intervals [412]:
+			xmin = 1513.446891
+			xmax = 1514.441881
+			text = "viti - now"
+		intervals [413]:
+			xmin = 1514.441881
+			xmax = 1514.560752
+			text = ""
+		intervals [414]:
+			xmin = 1514.560752
+			xmax = 1515.626184
+			text = "kivi - day"
+		intervals [415]:
+			xmin = 1515.626184
+			xmax = 1517.061436
+			text = ""
+		intervals [416]:
+			xmin = 1517.061436
+			xmax = 1518.060830
+			text = "kivi - day"
+		intervals [417]:
+			xmin = 1518.060830
+			xmax = 1518.501091
+			text = ""
+		intervals [418]:
+			xmin = 1518.501091
+			xmax = 1519.557718
+			text = "whistle - kivi - day"
+		intervals [419]:
+			xmin = 1519.557718
+			xmax = 1519.817473
+			text = ""
+		intervals [420]:
+			xmin = 1519.817473
+			xmax = 1521.776636
+			text = "kivi - day"
+		intervals [421]:
+			xmin = 1521.776636
+			xmax = 1543.904172
+			text = ""
+		intervals [422]:
+			xmin = 1543.904172
+			xmax = 1545.053254
+			text = "sikwaa - night"
+		intervals [423]:
+			xmin = 1545.053254
+			xmax = 1547.659602
+			text = ""
+		intervals [424]:
+			xmin = 1547.659602
+			xmax = 1548.698619
+			text = "sikwaa - night"
+		intervals [425]:
+			xmin = 1548.698619
+			xmax = 1549.086049
+			text = ""
+		intervals [426]:
+			xmin = 1549.086049
+			xmax = 1549.856506
+			text = "sikwaa - night"
+		intervals [427]:
+			xmin = 1549.856506
+			xmax = 1551.234524
+			text = ""
+		intervals [428]:
+			xmin = 1551.234524
+			xmax = 1552.211904
+			text = "sikwaa - night"
+		intervals [429]:
+			xmin = 1552.211904
+			xmax = 1552.379204
+			text = ""
+		intervals [430]:
+			xmin = 1552.379204
+			xmax = 1553.466649
+			text = "sikwaa - night"
+		intervals [431]:
+			xmin = 1553.466649
+			xmax = 1555.940918
+			text = ""
+		intervals [432]:
+			xmin = 1555.940918
+			xmax = 1556.975532
+			text = "sikwaa - night"
+		intervals [433]:
+			xmin = 1556.975532
+			xmax = 1557.847250
+			text = ""
+		intervals [434]:
+			xmin = 1557.847250
+			xmax = 1559.951699
+			text = "sikwaa - night"
+		intervals [435]:
+			xmin = 1559.951699
+			xmax = 1561.844823
+			text = ""
+		intervals [436]:
+			xmin = 1561.844823
+			xmax = 1563.108373
+			text = "sikwa - night"
+		intervals [437]:
+			xmin = 1563.108373
+			xmax = 1563.781973
+			text = ""
+		intervals [438]:
+			xmin = 1563.781973
+			xmax = 1564.816587
+			text = "whistle - sikwa - night"
+		intervals [439]:
+			xmin = 1564.816587
+			xmax = 1665.451532
+			text = ""
+		intervals [440]:
+			xmin = 1665.451532
+			xmax = 1666.552185
+			text = "tikwaa - night animal"
+		intervals [441]:
+			xmin = 1666.552185
+			xmax = 1669.990626
+			text = ""
+		intervals [442]:
+			xmin = 1669.990626
+			xmax = 1670.950396
+			text = "tikwaa - night animal"
+		intervals [443]:
+			xmin = 1670.950396
+			xmax = 1675.683206
+			text = ""
+		intervals [444]:
+			xmin = 1675.683206
+			xmax = 1676.726625
+			text = "sikwaa - night"
+		intervals [445]:
+			xmin = 1676.726625
+			xmax = 1688.569656
+			text = ""
+		intervals [446]:
+			xmin = 1688.569656
+			xmax = 1689.797985
+			text = "sikwaa - night"
+		intervals [447]:
+			xmin = 1689.797985
+			xmax = 1691.404939
+			text = ""
+		intervals [448]:
+			xmin = 1691.404939
+			xmax = 1692.580437
+			text = "sikwaa - night"
+		intervals [449]:
+			xmin = 1692.580437
+			xmax = 1704.758067
+			text = ""
+		intervals [450]:
+			xmin = 1704.758067
+			xmax = 1706.004006
+			text = "sikwaa - night"
+		intervals [451]:
+			xmin = 1706.004006
+			xmax = 1711.234311
+			text = ""
+		intervals [452]:
+			xmin = 1711.234311
+			xmax = 1713.048188
+			text = "whistle - sikwaa - night"
+		intervals [453]:
+			xmin = 1713.048188
+			xmax = 1715.518055
+			text = ""
+		intervals [454]:
+			xmin = 1715.518055
+			xmax = 1717.019346
+			text = "sikwaa - night"
+		intervals [455]:
+			xmin = 1717.019346
+			xmax = 1717.741375
+			text = ""
+		intervals [456]:
+			xmin = 1717.741375
+			xmax = 1718.916872
+			text = "sikwaa - night"
+		intervals [457]:
+			xmin = 1718.916872
+			xmax = 1729.188170
+			text = ""
+		intervals [458]:
+			xmin = 1729.188170
+			xmax = 1730.055485
+			text = "kivi - day"
+		intervals [459]:
+			xmin = 1730.055485
+			xmax = 1738.358814
+			text = ""
+		intervals [460]:
+			xmin = 1738.358814
+			xmax = 1739.389026
+			text = "na'an - early"
+		intervals [461]:
+			xmin = 1739.389026
+			xmax = 1743.223703
+			text = ""
+		intervals [462]:
+			xmin = 1743.223703
+			xmax = 1744.051394
+			text = "na'an - early"
+		intervals [463]:
+			xmin = 1744.051394
+			xmax = 1777.238296
+			text = ""
+		intervals [464]:
+			xmin = 1777.238296
+			xmax = 1778.193663
+			text = "yoo - month"
+		intervals [465]:
+			xmin = 1778.193663
+			xmax = 1782.173626
+			text = ""
+		intervals [466]:
+			xmin = 1782.173626
+			xmax = 1783.142201
+			text = "yoo - month"
+		intervals [467]:
+			xmin = 1783.142201
+			xmax = 1788.905222
+			text = ""
+		intervals [468]:
+			xmin = 1788.905222
+			xmax = 1789.917824
+			text = "kwia - year"
+		intervals [469]:
+			xmin = 1789.917824
+			xmax = 1800.175914
+			text = ""
+		intervals [470]:
+			xmin = 1800.175914
+			xmax = 1800.999202
+			text = "kwia - year"
+		intervals [471]:
+			xmin = 1800.999202
+			xmax = 1804.446449
+			text = ""
+		intervals [472]:
+			xmin = 1804.446449
+			xmax = 1805.265335
+			text = "whistle - kwia - year"
+		intervals [473]:
+			xmin = 1805.265335
+			xmax = 1805.529492
+			text = ""
+		intervals [474]:
+			xmin = 1805.529492
+			xmax = 1806.656561
+			text = "kwia - year"
+		intervals [475]:
+			xmin = 1806.656561
+			xmax = 1823.527377
+			text = ""
+		intervals [476]:
+			xmin = 1823.527377
+			xmax = 1824.328652
+			text = "yoo - month"
+		intervals [477]:
+			xmin = 1824.328652
+			xmax = 1824.504757
+			text = ""
+		intervals [478]:
+			xmin = 1824.504757
+			xmax = 1825.442514
+			text = "kwia - year"
+		intervals [479]:
+			xmin = 1825.442514
+			xmax = 1831.416860
+			text = ""
+		intervals [480]:
+			xmin = 1831.416860
+			xmax = 1832.808086
+			text = "tiempo yata - olden time"
+		intervals [481]:
+			xmin = 1832.808086
+			xmax = 1836.383009
+			text = ""
+		intervals [482]:
+			xmin = 1836.383009
+			xmax = 1837.474857
+			text = "tiempo sata - olden time"
+		intervals [483]:
+			xmin = 1837.474857
+			xmax = 1837.747819
+			text = ""
+		intervals [484]:
+			xmin = 1837.747819
+			xmax = 1839.165461
+			text = "tiempo yata - olden time"
+		intervals [485]:
+			xmin = 1839.165461
+			xmax = 1841.472430
+			text = ""
+		intervals [486]:
+			xmin = 1841.472430
+			xmax = 1842.960514
+			text = "tiempo sata - olden time"
+		intervals [487]:
+			xmin = 1842.960514
+			xmax = 1847.653700
+			text = ""
+		intervals [488]:
+			xmin = 1847.653700
+			xmax = 1848.719132
+			text = "tiempo yata - olden time"
+		intervals [489]:
+			xmin = 1848.719132
+			xmax = 1857.269008
+			text = ""
+		intervals [490]:
+			xmin = 1857.269008
+			xmax = 1858.880365
+			text = "nayata - elders"
+		intervals [491]:
+			xmin = 1858.880365
+			xmax = 1864.445268
+			text = ""
+		intervals [492]:
+			xmin = 1864.445268
+			xmax = 1866.056625
+			text = "me nayatai - my elders"
+		intervals [493]:
+			xmin = 1866.056625
+			xmax = 1870.177472
+			text = ""
+		intervals [494]:
+			xmin = 1870.177472
+			xmax = 1871.445424
+			text = "nayatai - my elders"
+		intervals [495]:
+			xmin = 1871.445424
+			xmax = 1873.118417
+			text = ""
+		intervals [496]:
+			xmin = 1873.118417
+			xmax = 1873.998940
+			text = "yatai - my elders"
+		intervals [497]:
+			xmin = 1873.998940
+			xmax = 1877.036744
+			text = ""
+		intervals [498]:
+			xmin = 1877.036744
+			xmax = 1878.058150
+			text = "yata - old"
+		intervals [499]:
+			xmin = 1878.058150
+			xmax = 1880.805381
+			text = ""
+		intervals [500]:
+			xmin = 1880.805381
+			xmax = 1881.597851
+			text = "yata - old"
+		intervals [501]:
+			xmin = 1881.597851
+			xmax = 1883.173987
+			text = ""
+		intervals [502]:
+			xmin = 1883.173987
+			xmax = 1884.851383
+			text = "yata - old"
+		intervals [503]:
+			xmin = 1884.851383
+			xmax = 1887.171560
+			text = ""
+		intervals [504]:
+			xmin = 1887.171560
+			xmax = 1888.659644
+			text = "whistle - yata - old"
+		intervals [505]:
+			xmin = 1888.659644
+			xmax = 1889.438906
+			text = ""
+		intervals [506]:
+			xmin = 1889.438906
+			xmax = 1891.103094
+			text = "yata - old"
+		intervals [507]:
+			xmin = 1891.103094
+			xmax = 1892.639607
+			text = ""
+		intervals [508]:
+			xmin = 1892.639607
+			xmax = 1894.779277
+			text = "yata - old"
+		intervals [509]:
+			xmin = 1894.779277
+			xmax = 2068.788181
+			text = ""
+		intervals [510]:
+			xmin = 2068.788181
+			xmax = 2069.875627
+			text = "nyu'un - light"
+		intervals [511]:
+			xmin = 2069.875627
+			xmax = 2173.517556
+			text = ""
+		intervals [512]:
+			xmin = 2173.517556
+			xmax = 2175.696850
+			text = "untranscribed"
+		intervals [513]:
+			xmin = 2175.696850
+			xmax = 2177.999417
+			text = "untranscribed"
+		intervals [514]:
+			xmin = 2177.999417
+			xmax = 2178.571756
+			text = ""
+		intervals [515]:
+			xmin = 2178.571756
+			xmax = 2180.332802
+			text = "untranscribed"
+		intervals [516]:
+			xmin = 2180.332802
+			xmax = 2183.480671
+			text = "untranscribed"
+		intervals [517]:
+			xmin = 2183.480671
+			xmax = 2183.709607
+			text = ""
+		intervals [518]:
+			xmin = 2183.709607
+			xmax = 2185.008378
+			text = "untranscribed"
+		intervals [519]:
+			xmin = 2185.008378
+			xmax = 2190.498437
+			text = ""
+		intervals [520]:
+			xmin = 2190.498437
+			xmax = 2192.501626
+			text = "untranscribed"
+		intervals [521]:
+			xmin = 2192.501626
+			xmax = 2193.760774
+			text = ""
+		intervals [522]:
+			xmin = 2193.760774
+			xmax = 2199.281651
+			text = "untranscribed"
+		intervals [523]:
+			xmin = 2199.281651
+			xmax = 2200.998671
+			text = "untranscribed"
+		intervals [524]:
+			xmin = 2200.998671
+			xmax = 2203.732694
+			text = "untranscribed"
+		intervals [525]:
+			xmin = 2203.732694
+			xmax = 2205.286816
+			text = "untranscribed"
+		intervals [526]:
+			xmin = 2205.286816
+			xmax = 2206.893770
+			text = "untranscribed"
+		intervals [527]:
+			xmin = 2206.893770
+			xmax = 2207.426487
+			text = ""
+		intervals [528]:
+			xmin = 2207.426487
+			xmax = 2208.368646
+			text = "untranscribed"
+		intervals [529]:
+			xmin = 2208.368646
+			xmax = 2209.007025
+			text = ""
+		intervals [530]:
+			xmin = 2209.007025
+			xmax = 2211.313995
+			text = "untranscribed"
+		intervals [531]:
+			xmin = 2211.313995
+			xmax = 2212.234141
+			text = "untranscribed"
+		intervals [532]:
+			xmin = 2212.234141
+			xmax = 2214.193304
+			text = ""
+		intervals [533]:
+			xmin = 2214.193304
+			xmax = 2218.296540
+			text = "untranscribed"
+		intervals [534]:
+			xmin = 2218.296540
+			xmax = 2221.893475
+			text = "untranscribed"
+		intervals [535]:
+			xmin = 2221.893475
+			xmax = 2222.734375
+			text = ""
+		intervals [536]:
+			xmin = 2222.734375
+			xmax = 2226.441375
+			text = "untranscribed"
+		intervals [537]:
+			xmin = 2226.441375
+			xmax = 2226.674714
+			text = ""
+		intervals [538]:
+			xmin = 2226.674714
+			xmax = 2228.858410
+			text = "untranscribed"
+		intervals [539]:
+			xmin = 2228.858410
+			xmax = 2228.986086
+			text = ""
+		intervals [540]:
+			xmin = 2228.986086
+			xmax = 2231.152172
+			text = "untranscribed"
+		intervals [541]:
+			xmin = 2231.152172
+			xmax = 2231.328277
+			text = ""
+		intervals [542]:
+			xmin = 2231.328277
+			xmax = 2235.136537
+			text = "untranscribed"
+		intervals [543]:
+			xmin = 2235.136537
+			xmax = 2235.995047
+			text = ""
+		intervals [544]:
+			xmin = 2235.995047
+			xmax = 2236.827141
+			text = "ti - and"
+		intervals [545]:
+			xmin = 2236.827141
+			xmax = 2237.122116
+			text = ""
+		intervals [546]:
+			xmin = 2237.122116
+			xmax = 2238.685044
+			text = "untranscribed"
+		intervals [547]:
+			xmin = 2238.685044
+			xmax = 2240.269985
+			text = ""
+		intervals [548]:
+			xmin = 2240.269985
+			xmax = 2241.300197
+			text = "untranscribed"
+		intervals [549]:
+			xmin = 2241.300197
+			xmax = 2241.423470
+			text = ""
+		intervals [550]:
+			xmin = 2241.423470
+			xmax = 2244.879522
+			text = "untranscribed"
+		intervals [551]:
+			xmin = 2244.879522
+			xmax = 2246.807866
+			text = "untranscribed"
+		intervals [552]:
+			xmin = 2246.807866
+			xmax = 2247.622350
+			text = ""
+		intervals [553]:
+			xmin = 2247.622350
+			xmax = 2249.546292
+			text = "untranscribed"
+		intervals [554]:
+			xmin = 2249.546292
+			xmax = 2251.571494
+			text = "untranscribed"
+		intervals [555]:
+			xmin = 2251.571494
+			xmax = 2255.520639
+			text = "untranscribed"
+		intervals [556]:
+			xmin = 2255.520639
+			xmax = 2256.520032
+			text = ""
+		intervals [557]:
+			xmin = 2256.520032
+			xmax = 2260.574839
+			text = "untranscribed"
+		intervals [558]:
+			xmin = 2260.574839
+			xmax = 2263.841579
+			text = "untranscribed"
+		intervals [559]:
+			xmin = 2263.841579
+			xmax = 2265.536585
+			text = ""
+		intervals [560]:
+			xmin = 2265.536585
+			xmax = 2270.031654
+			text = "untranscribed"
+		intervals [561]:
+			xmin = 2270.031654
+			xmax = 2270.533552
+			text = ""
+		intervals [562]:
+			xmin = 2270.533552
+			xmax = 2272.197740
+			text = "untranscribed"
+		intervals [563]:
+			xmin = 2272.197740
+			xmax = 2274.042435
+			text = "untranscribed"
+		intervals [564]:
+			xmin = 2274.042435
+			xmax = 2275.741844
+			text = "untranscribed"
+		intervals [565]:
+			xmin = 2275.741844
+			xmax = 2276.424249
+			text = ""
+		intervals [566]:
+			xmin = 2276.424249
+			xmax = 2282.275322
+			text = "untranscribed"
+		intervals [567]:
+			xmin = 2282.275322
+			xmax = 2284.115615
+			text = ""
+		intervals [568]:
+			xmin = 2284.115615
+			xmax = 2287.043353
+			text = "untranscribed"
+		intervals [569]:
+			xmin = 2287.043353
+			xmax = 2292.344100
+			text = "untranscribed"
+		intervals [570]:
+			xmin = 2292.344100
+			xmax = 2294.254834
+			text = "untranscribed"
+		intervals [571]:
+			xmin = 2294.254834
+			xmax = 2294.549809
+			text = ""
+		intervals [572]:
+			xmin = 2294.549809
+			xmax = 2298.697071
+			text = "untranscribed"
+		intervals [573]:
+			xmin = 2298.697071
+			xmax = 2299.863764
+			text = ""
+		intervals [574]:
+			xmin = 2299.863764
+			xmax = 2305.283382
+			text = "untranscribed"
+		intervals [575]:
+			xmin = 2305.283382
+			xmax = 2306.582153
+			text = ""
+		intervals [576]:
+			xmin = 2306.582153
+			xmax = 2310.628155
+			text = "untranscribed"
+		intervals [577]:
+			xmin = 2310.628155
+			xmax = 2310.804259
+			text = ""
+		intervals [578]:
+			xmin = 2310.804259
+			xmax = 2313.960933
+			text = "untranscribed"
+		intervals [579]:
+			xmin = 2313.960933
+			xmax = 2315.691160
+			text = "untranscribed"
+		intervals [580]:
+			xmin = 2315.691160
+			xmax = 2316.752190
+			text = ""
+		intervals [581]:
+			xmin = 2316.752190
+			xmax = 2318.579275
+			text = "untranscribed"
+		intervals [582]:
+			xmin = 2318.579275
+			xmax = 2321.740352
+			text = "untranscribed"
+		intervals [583]:
+			xmin = 2321.740352
+			xmax = 2322.660498
+			text = ""
+		intervals [584]:
+			xmin = 2322.660498
+			xmax = 2326.125355
+			text = "untranscribed"
+		intervals [585]:
+			xmin = 2326.125355
+			xmax = 2326.442343
+			text = ""
+		intervals [586]:
+			xmin = 2326.442343
+			xmax = 2327.939232
+			text = "untranscribed"
+		intervals [587]:
+			xmin = 2327.939232
+			xmax = 2328.419117
+			text = ""
+		intervals [588]:
+			xmin = 2328.419117
+			xmax = 2330.391488
+			text = "untranscribed"
+		intervals [589]:
+			xmin = 2330.391488
+			xmax = 2330.761307
+			text = ""
+		intervals [590]:
+			xmin = 2330.761307
+			xmax = 2332.984627
+			text = "untranscribed"
+		intervals [591]:
+			xmin = 2332.984627
+			xmax = 2333.081485
+			text = ""
+		intervals [592]:
+			xmin = 2333.081485
+			xmax = 2335.956391
+			text = "untranscribed"
+		intervals [593]:
+			xmin = 2335.956391
+			xmax = 2336.995408
+			text = ""
+		intervals [594]:
+			xmin = 2336.995408
+			xmax = 2339.082247
+			text = "untranscribed"
+		intervals [595]:
+			xmin = 2339.082247
+			xmax = 2340.495486
+			text = ""
+		intervals [596]:
+			xmin = 2340.495486
+			xmax = 2343.040197
+			text = "untranscribed"
+		intervals [597]:
+			xmin = 2343.040197
+			xmax = 2343.304354
+			text = ""
+		intervals [598]:
+			xmin = 2343.304354
+			xmax = 2345.752207
+			text = "untranscribed"
+		intervals [599]:
+			xmin = 2345.752207
+			xmax = 2347.279914
+			text = "untranscribed"
+		intervals [600]:
+			xmin = 2347.279914
+			xmax = 2347.500044
+			text = ""
+		intervals [601]:
+			xmin = 2347.500044
+			xmax = 2350.146015
+			text = "untranscribed"
+		intervals [602]:
+			xmin = 2350.146015
+			xmax = 2351.352331
+			text = ""
+		intervals [603]:
+			xmin = 2351.352331
+			xmax = 2355.288268
+			text = "untranscribed"
+		intervals [604]:
+			xmin = 2355.288268
+			xmax = 2358.475760
+			text = "untranscribed"
+		intervals [605]:
+			xmin = 2358.475760
+			xmax = 2360.778327
+			text = "untranscribed"
+		intervals [606]:
+			xmin = 2360.778327
+			xmax = 2362.213579
+			text = ""
+		intervals [607]:
+			xmin = 2362.213579
+			xmax = 2365.431890
+			text = "untranscribed"
+		intervals [608]:
+			xmin = 2365.431890
+			xmax = 2367.206143
+			text = "untranscribed"
+		intervals [609]:
+			xmin = 2367.206143
+			xmax = 2367.826912
+			text = ""
+		intervals [610]:
+			xmin = 2367.826912
+			xmax = 2371.784862
+			text = "untranscribed"
+		intervals [611]:
+			xmin = 2371.784862
+			xmax = 2372.414435
+			text = ""
+		intervals [612]:
+			xmin = 2372.414435
+			xmax = 2374.805055
+			text = "untranscribed"
+		intervals [613]:
+			xmin = 2374.805055
+			xmax = 2376.095020
+			text = ""
+		intervals [614]:
+			xmin = 2376.095020
+			xmax = 2379.890073
+			text = "untranscribed"
+		intervals [615]:
+			xmin = 2379.890073
+			xmax = 2382.580070
+			text = "untranscribed"
+		intervals [616]:
+			xmin = 2382.580070
+			xmax = 2383.927270
+			text = ""
+		intervals [617]:
+			xmin = 2383.927270
+			xmax = 2385.719134
+			text = "untranscribed"
+		intervals [618]:
+			xmin = 2385.719134
+			xmax = 2388.668885
+			text = "untranscribed"
+		intervals [619]:
+			xmin = 2388.668885
+			xmax = 2389.311667
+			text = ""
+		intervals [620]:
+			xmin = 2389.311667
+			xmax = 2392.133742
+			text = "untranscribed"
+		intervals [621]:
+			xmin = 2392.133742
+			xmax = 2393.987243
+			text = ""
+		intervals [622]:
+			xmin = 2393.987243
+			xmax = 2398.834520
+			text = "untranscribed"
+		intervals [623]:
+			xmin = 2398.834520
+			xmax = 2403.505693
+			text = "untranscribed"
+		intervals [624]:
+			xmin = 2403.505693
+			xmax = 2403.624564
+			text = ""
+		intervals [625]:
+			xmin = 2403.624564
+			xmax = 2405.218310
+			text = "untranscribed"
+		intervals [626]:
+			xmin = 2405.218310
+			xmax = 2405.407623
+			text = ""
+		intervals [627]:
+			xmin = 2405.407623
+			xmax = 2409.061792
+			text = "untranscribed"
+		intervals [628]:
+			xmin = 2409.061792
+			xmax = 2409.193870
+			text = ""
+		intervals [629]:
+			xmin = 2409.193870
+			xmax = 2410.915292
+			text = "untranscribed"
+		intervals [630]:
+			xmin = 2410.915292
+			xmax = 2415.097775
+			text = "untranscribed"
+		intervals [631]:
+			xmin = 2415.097775
+			xmax = 2416.440572
+			text = "untranscribed"
+		intervals [632]:
+			xmin = 2416.440572
+			xmax = 2419.513597
+			text = "untranscribed"
+		intervals [633]:
+			xmin = 2419.513597
+			xmax = 2421.124953
+			text = "untranscribed"
+		intervals [634]:
+			xmin = 2421.124953
+			xmax = 2422.731907
+			text = "untranscribed"
+		intervals [635]:
+			xmin = 2422.731907
+			xmax = 2423.136948
+			text = ""
+		intervals [636]:
+			xmin = 2423.136948
+			xmax = 2424.906799
+			text = "untranscribed"
+		intervals [637]:
+			xmin = 2424.906799
+			xmax = 2426.707468
+			text = ""
+		intervals [638]:
+			xmin = 2426.707468
+			xmax = 2430.071065
+			text = "untranscribed"
+		intervals [639]:
+			xmin = 2430.071065
+			xmax = 2430.242766
+			text = ""
+		intervals [640]:
+			xmin = 2430.242766
+			xmax = 2432.787477
+			text = "untranscribed"
+		intervals [641]:
+			xmin = 2432.787477
+			xmax = 2434.235937
+			text = "untranscribed"
+		intervals [642]:
+			xmin = 2434.235937
+			xmax = 2435.274954
+			text = ""
+		intervals [643]:
+			xmin = 2435.274954
+			xmax = 2437.194493
+			text = "untranscribed"
+		intervals [644]:
+			xmin = 2437.194493
+			xmax = 2440.236700
+			text = ""
+		intervals [645]:
+			xmin = 2440.236700
+			xmax = 2443.076385
+			text = "untranscribed"
+		intervals [646]:
+			xmin = 2443.076385
+			xmax = 2446.981504
+			text = "untranscribed"
+		intervals [647]:
+			xmin = 2446.981504
+			xmax = 2448.469587
+			text = "untranscribed"
+		intervals [648]:
+			xmin = 2448.469587
+			xmax = 2450.063333
+			text = ""
+		intervals [649]:
+			xmin = 2450.063333
+			xmax = 2452.740122
+			text = "untranscribed"
+		intervals [650]:
+			xmin = 2452.740122
+			xmax = 2456.733293
+			text = "untranscribed"
+		intervals [651]:
+			xmin = 2456.733293
+			xmax = 2457.398088
+			text = ""
+		intervals [652]:
+			xmin = 2457.398088
+			xmax = 2458.767301
+			text = "untranscribed"
+		intervals [653]:
+			xmin = 2458.767301
+			xmax = 2460.471112
+			text = ""
+		intervals [654]:
+			xmin = 2460.471112
+			xmax = 2466.876915
+			text = "untranscribed"
+		intervals [655]:
+			xmin = 2466.876915
+			xmax = 2467.070630
+			text = ""
+		intervals [656]:
+			xmin = 2467.070630
+			xmax = 2468.158076
+			text = "untranscribed"
+		intervals [657]:
+			xmin = 2468.158076
+			xmax = 2468.677584
+			text = ""
+		intervals [658]:
+			xmin = 2468.677584
+			xmax = 2471.411607
+			text = "untranscribed"
+		intervals [659]:
+			xmin = 2471.411607
+			xmax = 2475.981520
+			text = "untranscribed"
+		intervals [660]:
+			xmin = 2475.981520
+			xmax = 2477.073368
+			text = ""
+		intervals [661]:
+			xmin = 2477.073368
+			xmax = 2479.001713
+			text = "untranscribed"
+		intervals [662]:
+			xmin = 2479.001713
+			xmax = 2479.741352
+			text = ""
+		intervals [663]:
+			xmin = 2479.741352
+			xmax = 2482.378518
+			text = "untranscribed"
+		intervals [664]:
+			xmin = 2482.378518
+			xmax = 2482.479778
+			text = ""
+		intervals [665]:
+			xmin = 2482.479778
+			xmax = 2484.474162
+			text = "untranscribed"
+		intervals [666]:
+			xmin = 2484.474162
+			xmax = 2484.526993
+			text = ""
+		intervals [667]:
+			xmin = 2484.526993
+			xmax = 2486.384896
+			text = "untranscribed"
+		intervals [668]:
+			xmin = 2486.384896
+			xmax = 2490.096300
+			text = "untranscribed"
+		intervals [669]:
+			xmin = 2490.096300
+			xmax = 2490.342846
+			text = ""
+		intervals [670]:
+			xmin = 2490.342846
+			xmax = 2492.790699
+			text = "untranscribed"
+		intervals [671]:
+			xmin = 2492.790699
+			xmax = 2492.966804
+			text = ""
+		intervals [672]:
+			xmin = 2492.966804
+			xmax = 2495.137292
+			text = "untranscribed"
+		intervals [673]:
+			xmin = 2495.137292
+			xmax = 2495.868126
+			text = ""
+		intervals [674]:
+			xmin = 2495.868126
+			xmax = 2497.924147
+			text = "untranscribed"
+		intervals [675]:
+			xmin = 2497.924147
+			xmax = 2498.888319
+			text = ""
+		intervals [676]:
+			xmin = 2498.888319
+			xmax = 2502.009772
+			text = "untranscribed"
+		intervals [677]:
+			xmin = 2502.009772
+			xmax = 2502.450034
+			text = ""
+		intervals [678]:
+			xmin = 2502.450034
+			xmax = 2507.944496
+			text = "untranscribed"
+		intervals [679]:
+			xmin = 2507.944496
+			xmax = 2508.653317
+			text = ""
+		intervals [680]:
+			xmin = 2508.653317
+			xmax = 2511.779172
+			text = "untranscribed"
+		intervals [681]:
+			xmin = 2511.779172
+			xmax = 2512.038927
+			text = ""
+		intervals [682]:
+			xmin = 2512.038927
+			xmax = 2515.292458
+			text = "untranscribed"
+		intervals [683]:
+			xmin = 2515.292458
+			xmax = 2515.310068
+			text = ""
+		intervals [684]:
+			xmin = 2515.310068
+			xmax = 2516.934633
+			text = "untranscribed"
+		intervals [685]:
+			xmin = 2516.934633
+			xmax = 2518.752912
+			text = "untranscribed"
+		intervals [686]:
+			xmin = 2518.752912
+			xmax = 2520.232191
+			text = ""
+		intervals [687]:
+			xmin = 2520.232191
+			xmax = 2525.532938
+			text = "untranscribed"
+		intervals [688]:
+			xmin = 2525.532938
+			xmax = 2707.22
+			text = ""
