@@ -1,0 +1,371 @@
+254.946555	255.809467	javi - rain
+257.046601	257.896306	javi - rain
+258.878089	259.468039	javi - rain
+261.303929	262.074386	javi - rain
+286.984375	288.313964	tiempo iichi - dry season
+289.630345	290.647349	tiempo javi - rainy season
+290.647349	291.756808	tiempo iichi - dry season
+294.618507	295.710355	tiempo - season
+296.991515	298.241858	tiempo javi - rainy season
+298.655703	300.117371	tiempo iichi - dry season
+310.172941	311.722661	tiempo iichi - dry season
+313.259173	314.148501	tiempo iichi - dry season
+319.017792	320.149264	tiempo iichi - dry season
+322.482649	323.336756	iichi - dry
+324.252500	325.097801	iichi - dry
+327.554460	328.531840	whistle - iichi - dry
+329.201037	329.984703	whistle - iichi - dry
+329.984703	330.741952	iichi - dry
+330.997304	332.458971	tiempo iichi - dry season
+333.079740	334.484174	tiempo javi - rainy season
+336.386103	337.742108	tiempo viisi - cold season
+342.893166	344.090677	tiempo viisi - cold season
+350.791455	351.610341	viisi - cold
+351.944940	352.939930	whistle - viisi - cold
+353.538686	354.586508	whistle - viisi - cold
+437.919180	439.292796	tiempo viisi - cold season
+448.040789	449.291131	uuni tiempo - three season
+452.170441	452.901275	ki'un - untranslated
+453.566069	455.917065	ki uuni tiempo - three seasons
+460.302068	461.697697	uuni tiempo - three seasons
+467.231782	468.248786	i kii - we have
+468.627411	471.612383	i kii uuni tiempo - we have three seasons
+472.109878	475.297371	i kii uuni tiempo i kii i kaa - we have three seasons - Mari trying to figure out how to say it
+475.786061	477.062819	uuni tiempo - three seasons
+479.021982	480.135843	i kaa - there are
+481.998149	482.922698	ya'a - unknown
+482.922698	483.851649	i kaa - there are
+483.851649	485.176836	uuni tiempo - three seasons
+493.462555	495.386497	i kaa uuni tiempo - there are three seasons
+506.467876	508.039609	i kaa uuni tiempo - there are three seasons
+510.417020	512.420209	whistle - i kaa uuni tiempo - there are three seasons
+513.142238	515.114609	whistle - i kaa uuni tiempo - there are three seasons
+519.107780	520.921656	whistle - i kaa uuni tiempo - there are three seasons
+538.681800	539.579933	i'ni - hot
+543.115232	543.736001	i'ni - hot
+545.536670	546.205867	i'ni - hot
+546.249893	547.420988	tiempo i'ni - hot weather
+548.931085	550.049349	tiempo i'ni - hot weather
+551.519822	552.417955	tiempo i'ni - hot weather
+554.148182	555.653876	tiempo iichi - dry season
+555.926838	556.763335	iichi - dry
+560.355867	560.932610	iichi - dry
+566.061655	566.942178	iichi - dry
+567.179919	568.597560	tiempo iichi - dry season
+572.159275	573.105837	tiempo i'ni - hot weather
+573.105837	574.479452	tiempo iitci - dry season
+588.048308	588.999272	iichi - dry
+594.357253	595.501933	i'ni - hot
+597.707642	598.658607	tiempo i'ni - hot weather
+611.527447	613.121193	tuni i'ni kiivi - the day is very hot
+614.463990	615.793579	i'ni kiivi - the day is hot
+616.031320	617.801171	i'ni tyikwii - the water is hot
+622.547189	623.956025	jaa xiita - the tortilla is hot
+627.944793	629.630994	jaa xiita - the tortilla is hot
+633.817880	634.702805	xiita - tortilla
+634.702805	635.733017	xiita - tortilla
+636.252525	637.199087	xiita - tortilla
+637.353179	638.445027	whistle - xiita - tortilla
+639.171458	639.955123	whistle - xiita - tortilla
+640.822438	641.791013	xiita - tortilla
+659.995821	660.986409	jaa xiita - the tortilla is hot
+688.502745	689.673840	tuni i'ni - it is very hot
+689.673840	691.624198	tuni jaa tikwii - the water is very hot
+695.894733	696.753243	i'ni - hot
+702.511861	703.436410	i'ni - hot
+709.384341	710.168007	i'ni - hot
+711.400739	712.259248	i'ni - hot
+725.057646	726.572145	tuni jaa xiita - the tortilla is very hot
+737.781200	738.406371	tuni - very
+738.406371	739.119594	tuni - very
+739.775584	740.396352	tuni - very
+745.063123	746.392712	jaa xiita - warm tortilla
+754.224962	755.127498	jaa xiita - warm tortilla
+764.874885	766.090006	tuni jaa xiita - the tortilla is very warm
+766.649138	767.401985	tuni ja- - very tf
+767.401985	769.171836	tuni i'ni tikwii - the water is very hot
+770.747971	771.540442	tuni - very
+774.133581	776.009095	tuni i'ni tikwii - the water is very hot
+777.505983	778.170778	tuni - very
+782.665847	784.396074	jaa xiita - the tortilla is warm
+791.550321	792.404428	tuni - very
+802.323517	803.014727	tuni - very
+803.719145	805.185216	tuni jaa - very warm
+809.671479	810.728106	tuni jaa - very warm
+813.374077	814.487938	jaa xiita - warm tortilla
+815.170344	816.887363	tuni i'ni xiita - the tortilla is very hot
+818.252173	819.643399	i'ni xiita - hot tortilla
+821.100664	822.214526	xiita - tortilla
+823.566128	824.398222	tuni - very
+825.952345	827.163063	tuni i'ni - very hot
+827.163063	827.867482	i'ni - hot
+829.329149	830.112815	i'ni - hot
+856.757433	857.673176	tikwii - water
+859.148052	861.041176	tikwii - water
+863.348145	864.642514	tikwii - water
+864.642514	865.593478	whistle - tikwii - water
+866.328715	867.530628	whistle - tikwii - water
+867.957682	869.278466	tikwii - water
+871.290461	872.659673	tikwii - water
+873.685482	875.464138	tikwii - water
+877.225184	878.664838	tikwii - water
+888.042406	889.614139	tikwii jaa - hot water
+891.067001	892.026771	tikwii jaa - hot water
+913.379448	914.634192	tikwii jaa - hot water
+917.561931	919.177690	tikwii viisi - cold water
+919.177690	920.648163	tikwii viisi - cold water
+920.934333	922.541287	whistle - tikwii viisi - cold water
+922.906704	924.192267	whistle - tikwii viisi - cold water
+925.552674	926.939498	whistle - tikwii viisi - cold water
+926.939498	928.396763	tikwii viisi - cold water
+931.267267	933.098754	tikwii viisi - cold water
+939.561791	940.970628	tikwii viisi - cold water
+960.800000	961.940277	tiempo viisi - cold weather
+963.340308	964.603858	tiempo viisi - cold weather
+971.172558	972.955616	tuni viisi kuuni - yesterday was very cold
+973.814126	975.874549	kuuni nisiku viisi - yesterday was cold
+978.243155	979.603563	tuni viisi kuni - yesterday was very cold
+983.557110	985.445831	viisi nisiku kuuni - yesterday was cold
+985.811248	988.303128	viisi nisiku kuuni - yesterday was cold
+988.364764	990.883059	viisi nisiku kuuni - yesterday was cold
+990.979917	992.124596	viisi - cold
+993.123990	995.730337	viisi nisiku kuuni - yesterday was cold
+997.271252	999.719105	viisi nisiku kuuni - yesterday was cold
+1002.250608	1003.694665	whistle - viisi - cold
+1003.694665	1006.054466	viisi nisiku - was cold
+1008.629995	1009.506115	kuuni - yesterday
+1013.468468	1015.383605	nisiku kuuni - yesterday was
+1015.669774	1017.668561	viisi nisiku kuuni - yesterday was cold
+1018.879280	1020.798819	viisi nisiku kuuni - yesterday was cold
+1021.375562	1023.735363	viisi nisiku kuuni - yesterday was cold
+1024.910861	1027.658092	whistle - viisi nisiku kuuni - yesterday was cold
+1028.771953	1030.361296	viisi nisiku kuuni - yesterday was cold
+1030.361296	1032.527382	whistle - viisi nisiku kuuni - yesterday was cold
+1033.394697	1035.763303	whistle - viisi nisiku kuuni - yesterday was cold
+1036.560176	1038.809912	viisi nisiku kuuni - yesterday was cold
+1040.051449	1042.059041	viisi nisiku kuuni - yesterday was cold
+1042.776667	1045.004390	whistle - viisi nisiku kuuni - yesterday was cold
+1066.418703	1067.118718	kuni - yesterday
+1073.515716	1074.105666	kuuni - yesterday
+1074.629577	1075.232735	kuuni - yesterday
+1083.197063	1085.046161	viisi nisiku kuuni - yesterday was cold
+1094.146364	1096.915608	viisi nisiku kuuni - yesterday was cold
+1102.269186	1107.054827	viisi nisiku kuuni - yesterday was cold
+1110.387606	1112.241106	viisi nisiku kuuni - yesterday was cold
+1114.790219	1116.868253	viisi nisiku kuuni - yesterday was cold
+1122.948263	1124.299865	viisi - cold
+1125.021894	1128.332659	nisiku - was
+1128.649647	1129.851561	kuuni - yesterday
+1135.407659	1136.869327	viisi nisiku - was cold
+1137.010211	1139.779455	viisi nisiku kuuni - yesterday was cold
+1148.399772	1150.394156	viisi nisiku kuuni - yesterday was cold
+1151.287887	1153.084153	viisi nisiku kuuni - yesterday was cold
+1156.346490	1158.367290	whistle - viisi nisiku kuuni - yesterday was cold
+1195.151127	1196.722861	nisiku - was
+1199.346818	1200.205328	kuuni - yesterday
+1209.847052	1210.815627	tiempo - time
+1210.815627	1211.788605	ora - time
+1232.991592	1233.801673	ora - time
+1236.526891	1237.750818	tiempo - time
+1246.947878	1248.074947	estasion - season
+1280.764354	1281.838591	estasyon - season
+1283.379506	1285.175773	estasyon - season
+1285.862580	1286.945623	whistle - estasyon - season
+1288.530564	1289.833738	estasyon - season
+1293.633193	1294.760263	estasion - season
+1302.548486	1303.701971	whistle - estaciones Spanish - seasons
+1306.242279	1307.386959	whistle - estaciones Spanish - seasons
+1311.071946	1312.247444	estasion - season
+1312.705316	1313.968866	estasion - season
+1317.116735	1318.640039	estasion - season
+1340.666316	1341.538033	viti - now
+1342.444972	1343.387131	viti - now
+1386.990617	1389.099469	viti ityaan - now tomorrow
+1393.414031	1396.156859	viti ityaan - now tomorrow
+1400.475823	1401.325527	whistle - viti - now
+1401.831828	1402.729961	viti - now
+1403.245067	1403.967096	whistle - viti - now
+1405.952674	1407.273458	ityaan - tomorrow
+1408.325683	1409.580428	intyaan - tomorrow
+1409.580428	1410.584224	intyaan - tomorrow
+1410.672276	1411.662864	whistle - intyaan - tomorrow
+1412.089918	1413.313844	intyaan - tomorrow
+1414.005055	1415.303826	intyaan - tomorrow
+1417.329028	1418.297603	intyaan - tomorrow
+1419.398257	1421.722837	intyaan tyaan - tomorrow
+1427.679573	1428.612927	intyaan - tomorrow
+1430.246297	1432.416785	intyaan tyaan - tomorrow
+1435.111185	1435.573459	DeAndre tyaan
+1435.687927	1436.572853	intyaan - tomorrow
+1446.399486	1447.451711	viti - today
+1448.724067	1449.833525	intyaan - tomorrow
+1470.627070	1471.445956	viti - now
+1471.987477	1472.828377	viti - now
+1474.637851	1475.456737	viti - now
+1479.379466	1480.713458	viti vi ityun - give me that right now
+1486.133075	1487.607951	kivi viti - today
+1488.462058	1489.131255	kivi - day
+1489.663971	1490.438831	kivi - day
+1491.799239	1493.186062	kivi viti - today
+1499.900048	1500.961078	intyaan - tomorrow
+1500.961078	1502.242239	intyaan - tomorrow
+1506.442332	1507.560596	kivi viti - today
+1508.295833	1509.770708	kivi viti - today
+1511.355649	1512.333029	kivi - day
+1513.446891	1514.441881	viti - now
+1514.560752	1515.626184	kivi - day
+1517.061436	1518.060830	kivi - day
+1518.501091	1519.557718	whistle - kivi - day
+1519.817473	1521.776636	kivi - day
+1543.904172	1545.053254	sikwaa - night
+1547.659602	1548.698619	sikwaa - night
+1549.086049	1549.856506	sikwaa - night
+1551.234524	1552.211904	sikwaa - night
+1552.379204	1553.466649	sikwaa - night
+1555.940918	1556.975532	sikwaa - night
+1557.847250	1559.951699	sikwaa - night
+1561.844823	1563.108373	sikwa - night
+1563.781973	1564.816587	whistle - sikwa - night
+1665.451532	1666.552185	tikwaa - night animal
+1669.990626	1670.950396	tikwaa - night animal
+1675.683206	1676.726625	sikwaa - night
+1688.569656	1689.797985	sikwaa - night
+1691.404939	1692.580437	sikwaa - night
+1704.758067	1706.004006	sikwaa - night
+1711.234311	1713.048188	whistle - sikwaa - night
+1715.518055	1717.019346	sikwaa - night
+1717.741375	1718.916872	sikwaa - night
+1729.188170	1730.055485	kivi - day
+1738.358814	1739.389026	na'an - early
+1743.223703	1744.051394	na'an - early
+1777.238296	1778.193663	yoo - month
+1782.173626	1783.142201	yoo - month
+1788.905222	1789.917824	kwia - year
+1800.175914	1800.999202	kwia - year
+1804.446449	1805.265335	whistle - kwia - year
+1805.529492	1806.656561	kwia - year
+1823.527377	1824.328652	yoo - month
+1824.504757	1825.442514	kwia - year
+1831.416860	1832.808086	tiempo yata - olden time
+1836.383009	1837.474857	tiempo sata - olden time
+1837.747819	1839.165461	tiempo yata - olden time
+1841.472430	1842.960514	tiempo sata - olden time
+1847.653700	1848.719132	tiempo yata - olden time
+1857.269008	1858.880365	nayata - elders
+1864.445268	1866.056625	me nayatai - my elders
+1870.177472	1871.445424	nayatai - my elders
+1873.118417	1873.998940	yatai - my elders
+1877.036744	1878.058150	yata - old
+1880.805381	1881.597851	yata - old
+1883.173987	1884.851383	yata - old
+1887.171560	1888.659644	whistle - yata - old
+1889.438906	1891.103094	yata - old
+1892.639607	1894.779277	yata - old
+2068.788181	2069.875627	nyu'un - light
+2173.517556	2175.696850	untranscribed
+2175.696850	2177.999417	untranscribed
+2178.571756	2180.332802	untranscribed
+2180.332802	2183.480671	untranscribed
+2183.709607	2185.008378	untranscribed
+2190.498437	2192.501626	untranscribed
+2193.760774	2199.281651	untranscribed
+2199.281651	2200.998671	untranscribed
+2200.998671	2203.732694	untranscribed
+2203.732694	2205.286816	untranscribed
+2205.286816	2206.893770	untranscribed
+2207.426487	2208.368646	untranscribed
+2209.007025	2211.313995	untranscribed
+2211.313995	2212.234141	untranscribed
+2214.193304	2218.296540	untranscribed
+2218.296540	2221.893475	untranscribed
+2222.734375	2226.441375	untranscribed
+2226.674714	2228.858410	untranscribed
+2228.986086	2231.152172	untranscribed
+2231.328277	2235.136537	untranscribed
+2235.995047	2236.827141	ti - and
+2237.122116	2238.685044	untranscribed
+2240.269985	2241.300197	untranscribed
+2241.423470	2244.879522	untranscribed
+2244.879522	2246.807866	untranscribed
+2247.622350	2249.546292	untranscribed
+2249.546292	2251.571494	untranscribed
+2251.571494	2255.520639	untranscribed
+2256.520032	2260.574839	untranscribed
+2260.574839	2263.841579	untranscribed
+2265.536585	2270.031654	untranscribed
+2270.533552	2272.197740	untranscribed
+2272.197740	2274.042435	untranscribed
+2274.042435	2275.741844	untranscribed
+2276.424249	2282.275322	untranscribed
+2284.115615	2287.043353	untranscribed
+2287.043353	2292.344100	untranscribed
+2292.344100	2294.254834	untranscribed
+2294.549809	2298.697071	untranscribed
+2299.863764	2305.283382	untranscribed
+2306.582153	2310.628155	untranscribed
+2310.804259	2313.960933	untranscribed
+2313.960933	2315.691160	untranscribed
+2316.752190	2318.579275	untranscribed
+2318.579275	2321.740352	untranscribed
+2322.660498	2326.125355	untranscribed
+2326.442343	2327.939232	untranscribed
+2328.419117	2330.391488	untranscribed
+2330.761307	2332.984627	untranscribed
+2333.081485	2335.956391	untranscribed
+2336.995408	2339.082247	untranscribed
+2340.495486	2343.040197	untranscribed
+2343.304354	2345.752207	untranscribed
+2345.752207	2347.279914	untranscribed
+2347.500044	2350.146015	untranscribed
+2351.352331	2355.288268	untranscribed
+2355.288268	2358.475760	untranscribed
+2358.475760	2360.778327	untranscribed
+2362.213579	2365.431890	untranscribed
+2365.431890	2367.206143	untranscribed
+2367.826912	2371.784862	untranscribed
+2372.414435	2374.805055	untranscribed
+2376.095020	2379.890073	untranscribed
+2379.890073	2382.580070	untranscribed
+2383.927270	2385.719134	untranscribed
+2385.719134	2388.668885	untranscribed
+2389.311667	2392.133742	untranscribed
+2393.987243	2398.834520	untranscribed
+2398.834520	2403.505693	untranscribed
+2403.624564	2405.218310	untranscribed
+2405.407623	2409.061792	untranscribed
+2409.193870	2410.915292	untranscribed
+2410.915292	2415.097775	untranscribed
+2415.097775	2416.440572	untranscribed
+2416.440572	2419.513597	untranscribed
+2419.513597	2421.124953	untranscribed
+2421.124953	2422.731907	untranscribed
+2423.136948	2424.906799	untranscribed
+2426.707468	2430.071065	untranscribed
+2430.242766	2432.787477	untranscribed
+2432.787477	2434.235937	untranscribed
+2435.274954	2437.194493	untranscribed
+2440.236700	2443.076385	untranscribed
+2443.076385	2446.981504	untranscribed
+2446.981504	2448.469587	untranscribed
+2450.063333	2452.740122	untranscribed
+2452.740122	2456.733293	untranscribed
+2457.398088	2458.767301	untranscribed
+2460.471112	2466.876915	untranscribed
+2467.070630	2468.158076	untranscribed
+2468.677584	2471.411607	untranscribed
+2471.411607	2475.981520	untranscribed
+2477.073368	2479.001713	untranscribed
+2479.741352	2482.378518	untranscribed
+2482.479778	2484.474162	untranscribed
+2484.526993	2486.384896	untranscribed
+2486.384896	2490.096300	untranscribed
+2490.342846	2492.790699	untranscribed
+2492.966804	2495.137292	untranscribed
+2495.868126	2497.924147	untranscribed
+2498.888319	2502.009772	untranscribed
+2502.450034	2507.944496	untranscribed
+2508.653317	2511.779172	untranscribed
+2512.038927	2515.292458	untranscribed
+2515.310068	2516.934633	untranscribed
+2516.934633	2518.752912	untranscribed
+2520.232191	2525.532938	untranscribed
