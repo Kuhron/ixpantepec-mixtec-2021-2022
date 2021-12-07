@@ -473,9 +473,10 @@ if __name__ == "__main__":
     # plot_hist_fmeans(intervals_by_toneme)
     # plot_fmeans_color_coded(intervals)
 
-    # while True:
-    #     interval = random.choice(intervals)
-    #     stationary_targets = get_stationary_tone_targets(interval)
+    while True:
+        interval = random.choice(intervals)
+        print(interval.label)
+        stationary_targets = get_stationary_tone_targets(interval)
     # print(stationary_targets)
 
     # more succinctly writing the plotting code for histograms of tones with certain conditions
@@ -522,6 +523,6 @@ if __name__ == "__main__":
         # "red", 
         # "green", 
     ]
-    hist_multiple_fmean_sets(intervals_list, labels, colors, mean_and_std_lines=True, semitones=False)
+    # hist_multiple_fmean_sets(intervals_list, labels, colors, mean_and_std_lines=True, semitones=False)
 
 

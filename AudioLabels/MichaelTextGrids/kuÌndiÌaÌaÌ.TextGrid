@@ -1,0 +1,64 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.3089583333333332 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "vowels" 
+        xmin = 0 
+        xmax = 1.3089583333333332 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1540533029565404 
+            text = "   " 
+        intervals [2]:
+            xmin = 0.1540533029565404 
+            xmax = 0.2516247330813826 
+            text = "u" 
+        intervals [3]:
+            xmin = 0.2516247330813826 
+            xmax = 0.4745051774575893 
+            text = "" 
+        intervals [4]:
+            xmin = 0.4745051774575893 
+            xmax = 0.6453804544392934 
+            text = "i" 
+        intervals [5]:
+            xmin = 0.6453804544392934 
+            xmax = 1.0460130226149964 
+            text = "a" 
+        intervals [6]:
+            xmin = 1.0460130226149964 
+            xmax = 1.3089583333333332 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "consonants" 
+        xmin = 0 
+        xmax = 1.3089583333333332 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.06709726533471179 
+            text = "" 
+        intervals [2]:
+            xmin = 0.06709726533471179 
+            xmax = 0.15426107624623753 
+            text = "k" 
+        intervals [3]:
+            xmin = 0.15426107624623753 
+            xmax = 0.2516247330813826 
+            text = "" 
+        intervals [4]:
+            xmin = 0.2516247330813826 
+            xmax = 0.4745051774575893 
+            text = "nd" 
+        intervals [5]:
+            xmin = 0.4745051774575893 
+            xmax = 1.3089583333333332 
+            text = "" 
