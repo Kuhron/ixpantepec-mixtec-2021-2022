@@ -3,4 +3,6 @@
   <genre type="string">&lt;Unknown&gt;</genre>
   <date type="string">2021-11-03</date>
   <title type="string">Memories of Tortilla Making</title>
+  <participants type="string"></participants>
+  <contributions type="xml" />
 </Session>
