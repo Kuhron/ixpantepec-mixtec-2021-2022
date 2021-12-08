@@ -356,12 +356,14 @@ def hist_multiple_fmean_sets(intervals_list, labels, colors, bins=100, alpha=0.5
         print(f"intervals of label {label} has mean {mean_overall} and std {std_overall}")
         weights = np.ones_like(fmeans)/float(len(fmeans))
         hist = plt.hist(fmeans, bins=bins, color=color, label=label, alpha=alpha, weights=weights)
-        add_mean_and_std_lines(plt.gca(), fmeans, hist)
+        if mean_and_std_lines:
+            add_mean_and_std_lines(plt.gca(), fmeans, hist)
     plt.legend()
     plt.show()
 
 
 def add_mean_and_std_lines(ax, xs, hist):
+    xs = [x for x in xs if np.isfinite(x)]
     mean = np.mean(xs)
     std = np.std(xs)
     ymin = 0
@@ -473,7 +475,7 @@ if __name__ == "__main__":
     # plot_hist_fmeans(intervals_by_toneme)
     # plot_fmeans_color_coded(intervals)
 
-    while True:
+    while False:
         interval = random.choice(intervals)
         print(interval.label)
         stationary_targets = get_stationary_tone_targets(interval)
@@ -504,25 +506,25 @@ if __name__ == "__main__":
     # plot the histograms of each of these interval sets
     intervals_list = [
         # intervals, 
-        intervals_non_whistled, 
-        # intervals_H_nasal, 
-        # intervals_H_preceded_by_L, 
-        # intervals_H_not_preceded_by_L, 
+        # intervals_non_whistled, 
+        intervals_H_nasal, 
+        intervals_H_preceded_by_L, 
+        intervals_H_not_preceded_by_L, 
     ]
     labels = [
         # "all", 
-        "non-whistled", 
-        # "Hn", 
-        # "H / L_", 
-        # "H / !L_", 
+        # "non-whistled", 
+        "Hn", 
+        "H / L_", 
+        "H / !L_", 
     ]
     colors = [
         # "blue", 
-        "blue", 
-        # "orange", 
-        # "red", 
-        # "green", 
+        # "blue", 
+        "orange", 
+        "red", 
+        "green", 
     ]
-    # hist_multiple_fmean_sets(intervals_list, labels, colors, mean_and_std_lines=True, semitones=False)
+    hist_multiple_fmean_sets(intervals_list, labels, colors, mean_and_std_lines=True, semitones=False)
 
 
