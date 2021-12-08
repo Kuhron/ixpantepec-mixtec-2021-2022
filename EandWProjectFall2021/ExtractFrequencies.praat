@@ -9,15 +9,21 @@
 # https://www.fon.hum.uva.nl/praat/manual/Script_for_listing_F0_statistics.html
 
 # select the Sound and TextGrid objects
-selectObject: 4,5
+selectObject: 4,7
+
+# keep commonly changed params at the top
+timeStep = 0.025
+desiredTierName$ = "Vowel"
 
 # selected$ uses the string name of the object, just sound uses a unique identifier which is better
 soundId = selected ("Sound")
 soundName$ = selected$ ("Sound")
 tgId = selected ("TextGrid")
 tgName$ = selected$ ("TextGrid")
+ms = timeStep * 1000
+msStr$ = string$ (ms)
 
-outputFp$ = "PraatOutput_" + soundName$ + ".txt"
+outputFp$ = "PitchStats/PraatOutput_" + soundName$ + "-F0-" + msStr$ + "ms.txt"
 
 writeFileLine: outputFp$, "start"
 appendFileLine: outputFp$, soundId, " = ", soundName$
@@ -59,7 +65,7 @@ nTiers = Get number of tiers
 appendFileLine: outputFp$, nTiers, " tiers"
 
 # which tier has the vowel segments?
-desiredTierName$ = "vowel"
+vowelTierNumber = -1
 for tierNumber from 1 to nTiers
     tierName$ = Get tier name: tierNumber
     appendFileLine: outputFp$, "Tier number ", tierNumber, " is named ", tierName$
@@ -68,6 +74,10 @@ for tierNumber from 1 to nTiers
         # don't know how to break in Praat
     endif
 endfor
+if vowelTierNumber = -1
+    appendInfoLine: "Vowel tier not found"
+    assert 0
+endif
 appendFileLine: outputFp$, "The vowel tier has number ", vowelTierNumber
 
 # get the labeled intervals
@@ -95,7 +105,6 @@ for intervalNumber from 1 to nIntervals
         end = intervalNumberToEnd [intervalNumber]
         appendFileLine: outputFp$, "interval #", intervalNumber, tab$, "label: ", intervalName$, tab$, "start: ", start, tab$, "end: ", end
         duration = end - start
-        timeStep = 0.05
         nTimeSteps = floor(duration / timeStep)
         for step from 1 to nTimeSteps
             tmin = start + (step - 1) * timeStep
