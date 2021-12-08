@@ -12,7 +12,7 @@
 selectObject: 4,7
 
 # keep commonly changed params at the top
-timeStep = 0.025
+timeStep = 0.01
 desiredTierName$ = "Vowel"
 
 # selected$ uses the string name of the object, just sound uses a unique identifier which is better
