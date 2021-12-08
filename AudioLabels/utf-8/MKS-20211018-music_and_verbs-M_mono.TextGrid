@@ -433,7 +433,7 @@ item []:
         name = "word" 
         xmin = 0 
         xmax = 3097.876 
-        intervals: size = 213 
+        intervals: size = 212 
         intervals [1]:
             xmin = 0 
             xmax = 28.700041793701452 
@@ -740,549 +740,545 @@ item []:
             text = "" 
         intervals [77]:
             xmin = 76.63050704066241 
-            xmax = 77.09623775885525 
+            xmax = 77.18700076829275 
             text = "nákàn'ì" 
         intervals [78]:
-            xmin = 77.09623775885525 
-            xmax = 77.28914397349133 
-            text = "" 
-        intervals [79]:
-            xmin = 77.28914397349133 
+            xmin = 77.18700076829275 
             xmax = 77.93951349712157 
             text = "sà'à" 
-        intervals [80]:
+        intervals [79]:
             xmin = 77.93951349712157 
             xmax = 78.7727085807033 
             text = "" 
-        intervals [81]:
+        intervals [80]:
             xmin = 78.7727085807033 
             xmax = 79.20261385903514 
             text = "sà'à" 
-        intervals [82]:
+        intervals [81]:
             xmin = 79.20261385903514 
             xmax = 79.2167543231391 
             text = "" 
-        intervals [83]:
+        intervals [82]:
             xmin = 79.2167543231391 
             xmax = 80.12065772886247 
             text = "músìkà" 
-        intervals [84]:
+        intervals [83]:
             xmin = 80.12065772886247 
             xmax = 82.06641643783593 
             text = "" 
-        intervals [85]:
+        intervals [84]:
             xmin = 82.06641643783593 
             xmax = 82.62584446028058 
             text = "ñūūín" 
-        intervals [86]:
+        intervals [85]:
             xmin = 82.62584446028058 
             xmax = 84.4769313487012 
             text = "" 
-        intervals [87]:
+        intervals [86]:
             xmin = 84.4769313487012 
             xmax = 85.26784682870915 
             text = "tī" 
-        intervals [88]:
+        intervals [87]:
             xmin = 85.26784682870915 
             xmax = 86.22931256424836 
             text = "" 
-        intervals [89]:
+        intervals [88]:
             xmin = 86.22931256424836 
             xmax = 86.9182633308058 
             text = "ñā" 
-        intervals [90]:
+        intervals [89]:
             xmin = 86.9182633308058 
             xmax = 86.94423377763879 
             text = "" 
-        intervals [91]:
+        intervals [90]:
             xmin = 86.94423377763879 
             xmax = 87.43201092036146 
             text = "músīkā" 
-        intervals [92]:
+        intervals [91]:
             xmin = 87.43201092036146 
             xmax = 87.51744081541459 
             text = "" 
-        intervals [93]:
+        intervals [92]:
             xmin = 87.51744081541459 
             xmax = 87.63042874113002 
             text = "sī" 
-        intervals [94]:
+        intervals [93]:
             xmin = 87.63042874113002 
             xmax = 88.43322611806478 
             text = "" 
-        intervals [95]:
+        intervals [94]:
             xmin = 88.43322611806478 
             xmax = 88.69227160629038 
             text = "sīní" 
-        intervals [96]:
+        intervals [95]:
             xmin = 88.69227160629038 
             xmax = 88.7584108798799 
             text = "" 
-        intervals [97]:
+        intervals [96]:
             xmin = 88.7584108798799 
             xmax = 89.27099025019864 
             text = "jò'ò" 
-        intervals [98]:
+        intervals [97]:
             xmin = 89.27099025019864 
             xmax = 89.30506036039334 
             text = "" 
-        intervals [99]:
+        intervals [98]:
             xmin = 89.30506036039334 
             xmax = 90.49832308807085 
             text = "ménàyātándyù" 
-        intervals [100]:
+        intervals [99]:
             xmin = 90.49832308807085 
             xmax = 91.1797498329475 
             text = "" 
-        intervals [101]:
+        intervals [100]:
             xmin = 91.1797498329475 
             xmax = 92.06106307793185 
             text = "mēchīléná" 
-        intervals [102]:
+        intervals [101]:
             xmin = 92.06106307793185 
             xmax = 92.22401967709392 
             text = "ká" 
-        intervals [103]:
+        intervals [102]:
             xmin = 92.22401967709392 
             xmax = 92.48923106608349 
             text = "túnì" 
-        intervals [104]:
+        intervals [103]:
             xmin = 92.48923106608349 
             xmax = 92.51133201516595 
             text = "" 
-        intervals [105]:
+        intervals [104]:
             xmin = 92.51133201516595 
             xmax = 93.0804314540394 
             text = "kūtúúnā" 
-        intervals [106]:
+        intervals [105]:
             xmin = 93.0804314540394 
             xmax = 93.10219075814952 
             text = "" 
-        intervals [107]:
+        intervals [106]:
             xmin = 93.10219075814952 
             xmax = 93.62708829885804 
             text = "kūtúúnā" 
-        intervals [108]:
+        intervals [107]:
             xmin = 93.62708829885804 
             xmax = 93.63813877339928 
             text = "" 
-        intervals [109]:
+        intervals [108]:
             xmin = 93.63813877339928 
             xmax = 94.29011677133197 
             text = "kātásá'ánā" 
-        intervals [110]:
+        intervals [109]:
             xmin = 94.29011677133197 
             xmax = 94.3343186694969 
             text = "" 
-        intervals [111]:
+        intervals [110]:
             xmin = 94.3343186694969 
             xmax = 95.0304985655945 
             text = "chìléná" 
-        intervals [112]:
+        intervals [111]:
             xmin = 95.0304985655945 
             xmax = 96.47820066386129 
             text = "" 
-        intervals [113]:
+        intervals [112]:
             xmin = 96.47820066386129 
             xmax = 96.91283845073963 
             text = "tī" 
-        intervals [114]:
+        intervals [113]:
             xmin = 96.91283845073963 
             xmax = 97.25298976220964 
             text = "ñā" 
-        intervals [115]:
+        intervals [114]:
             xmin = 97.25298976220964 
             xmax = 97.34369677860164 
             text = "" 
-        intervals [116]:
+        intervals [115]:
             xmin = 97.34369677860164 
             xmax = 98.51910853268133 
             text = "músìkò" 
-        intervals [117]:
+        intervals [116]:
             xmin = 98.51910853268133 
             xmax = 98.5404786416022 
             text = "" 
-        intervals [118]:
+        intervals [117]:
             xmin = 98.5404786416022 
             xmax = 99.25857585470554 
             text = "ñūūín" 
-        intervals [119]:
+        intervals [118]:
             xmin = 99.25857585470554 
             xmax = 100.29260895645824 
             text = "" 
-        intervals [120]:
+        intervals [119]:
             xmin = 100.29260895645824 
             xmax = 101.02204454661057 
             text = "èvè" 
-        intervals [121]:
+        intervals [120]:
             xmin = 101.02204454661057 
             xmax = 101.19967912037825 
             text = "" 
-        intervals [122]:
+        intervals [121]:
             xmin = 101.19967912037825 
             xmax = 101.69100879250159 
             text = "èvè" 
-        intervals [123]:
+        intervals [122]:
             xmin = 101.69100879250159 
             xmax = 101.71746500561592 
             text = "" 
-        intervals [124]:
+        intervals [123]:
             xmin = 101.71746500561592 
             xmax = 101.86864336626927 
             text = "á" 
-        intervals [125]:
+        intervals [124]:
             xmin = 101.86864336626927 
             xmax = 101.93815731686679 
             text = "" 
-        intervals [126]:
+        intervals [125]:
             xmin = 101.93815731686679 
             xmax = 102.55420913652914 
             text = "ùùnì" 
-        intervals [127]:
+        intervals [126]:
             xmin = 102.55420913652914 
             xmax = 102.83255194288387 
             text = "" 
-        intervals [128]:
+        intervals [127]:
             xmin = 102.83255194288387 
             xmax = 103.25585135271321 
             text = "kūná" 
-        intervals [129]:
+        intervals [128]:
             xmin = 103.25585135271321 
             xmax = 103.30085682559093 
             text = "" 
-        intervals [130]:
+        intervals [129]:
             xmin = 103.30085682559093 
             xmax = 103.58809571083226 
             text = "tī" 
-        intervals [131]:
+        intervals [130]:
             xmin = 103.58809571083226 
             xmax = 104.99254631186243 
             text = "" 
-        intervals [132]:
+        intervals [131]:
             xmin = 104.99254631186243 
             xmax = 105.83158621348844 
             text = "hákàtànàiā" 
-        intervals [133]:
+        intervals [132]:
             xmin = 105.83158621348844 
             xmax = 106.10370726266444 
             text = "" 
-        intervals [134]:
+        intervals [133]:
             xmin = 106.10370726266444 
             xmax = 106.70842070527779 
             text = "gītárá" 
-        intervals [135]:
+        intervals [134]:
             xmin = 106.70842070527779 
             xmax = 106.78778934462079 
             text = "" 
-        intervals [136]:
+        intervals [135]:
             xmin = 106.78778934462079 
             xmax = 106.90873203314345 
             text = "sí'in" 
-        intervals [137]:
+        intervals [136]:
             xmin = 106.90873203314345 
             xmax = 106.96542391838845 
             text = "" 
-        intervals [138]:
+        intervals [137]:
             xmin = 106.96542391838845 
             xmax = 107.35092873805446 
             text = "viòlín" 
-        intervals [139]:
+        intervals [138]:
             xmin = 107.35092873805446 
             xmax = 108.37560171382945 
             text = "" 
-        intervals [140]:
+        intervals [139]:
             xmin = 108.37560171382945 
             xmax = 108.71953248431579 
             text = "sīvà'à" 
-        intervals [141]:
+        intervals [140]:
             xmin = 108.71953248431579 
             xmax = 108.72331194333212 
             text = "" 
-        intervals [142]:
+        intervals [141]:
             xmin = 108.72331194333212 
             xmax = 109.0596837957858 
             text = "ñāká" 
-        intervals [143]:
+        intervals [142]:
             xmin = 109.0596837957858 
             xmax = 109.07858109086746 
             text = "" 
-        intervals [144]:
+        intervals [143]:
             xmin = 109.07858109086746 
             xmax = 109.38471727119047 
             text = "kwītīó" 
-        intervals [145]:
+        intervals [144]:
             xmin = 109.38471727119047 
             xmax = 109.77231635370055 
             text = "" 
-        intervals [146]:
+        intervals [145]:
             xmin = 109.77231635370055 
             xmax = 109.97262768156622 
             text = "tī" 
-        intervals [147]:
+        intervals [146]:
             xmin = 109.97262768156622 
             xmax = 110.10868820615423 
             text = "" 
-        intervals [148]:
+        intervals [147]:
             xmin = 110.10868820615423 
             xmax = 110.77009353401256 
             text = "sítānā" 
-        intervals [149]:
+        intervals [148]:
             xmin = 110.77009353401256 
             xmax = 110.8532416323719 
             text = "" 
-        intervals [150]:
+        intervals [149]:
             xmin = 110.8532416323719 
             xmax = 111.20095186187457 
             text = "sí'í" 
-        intervals [151]:
+        intervals [150]:
             xmin = 111.20095186187457 
             xmax = 111.24630537007057 
             text = "" 
-        intervals [152]:
+        intervals [151]:
             xmin = 111.24630537007057 
             xmax = 111.50708804219758 
             text = "yū'" 
-        intervals [153]:
+        intervals [152]:
             xmin = 111.50708804219758 
             xmax = 111.72888549075681 
             text = "" 
-        intervals [154]:
+        intervals [153]:
             xmin = 111.72888549075681 
             xmax = 111.84226926124681 
             text = "sí'ín" 
-        intervals [155]:
+        intervals [154]:
             xmin = 111.84226926124681 
             xmax = 111.92640648514181 
             text = "" 
-        intervals [156]:
+        intervals [155]:
             xmin = 111.92640648514181 
             xmax = 112.74654909168615 
             text = "tàchìnà" 
-        intervals [157]:
+        intervals [156]:
             xmin = 112.74654909168615 
             xmax = 112.79021740370995 
             text = "" 
-        intervals [158]:
+        intervals [157]:
             xmin = 112.79021740370995 
             xmax = 113.4856378627153 
             text = "yū'ūnā" 
-        intervals [159]:
+        intervals [158]:
             xmin = 113.4856378627153 
             xmax = 116.10341081976115 
             text = "" 
-        intervals [160]:
+        intervals [159]:
             xmin = 116.10341081976115 
             xmax = 116.74591885253783 
             text = "ī" 
-        intervals [161]:
+        intervals [160]:
             xmin = 116.74591885253783 
             xmax = 119.88578223228234 
             text = "" 
-        intervals [162]:
+        intervals [161]:
             xmin = 119.88578223228234 
             xmax = 121.1594599207867 
             text = "nūnkū'ùnà" 
-        intervals [163]:
+        intervals [162]:
             xmin = 121.1594599207867 
             xmax = 122.09839597259044 
             text = "" 
-        intervals [164]:
+        intervals [163]:
             xmin = 122.09839597259044 
             xmax = 123.18688016929447 
             text = "kátáná" 
-        intervals [165]:
+        intervals [164]:
             xmin = 123.18688016929447 
             xmax = 124.03354002030672 
             text = "" 
-        intervals [166]:
+        intervals [165]:
             xmin = 124.03354002030672 
             xmax = 124.8914772170144 
             text = "músīkànā" 
-        intervals [167]:
+        intervals [166]:
             xmin = 124.8914772170144 
             xmax = 124.96706639734107 
             text = "" 
-        intervals [168]:
+        intervals [167]:
             xmin = 124.96706639734107 
             xmax = 125.92326952847341 
             text = "kúhīvī" 
-        intervals [169]:
+        intervals [168]:
             xmin = 125.92326952847341 
             xmax = 125.97536987229275 
             text = "" 
-        intervals [170]:
+        intervals [169]:
             xmin = 125.97536987229275 
             xmax = 126.69724654441242 
             text = "víkòvâ" 
-        intervals [171]:
+        intervals [170]:
             xmin = 126.69724654441242 
             xmax = 127.54314929343458 
             text = "" 
-        intervals [172]:
+        intervals [171]:
             xmin = 127.54314929343458 
             xmax = 128.00424329342724 
             text = "vīkò" 
-        intervals [173]:
+        intervals [172]:
             xmin = 128.00424329342724 
             xmax = 128.0344789655579 
             text = "" 
-        intervals [174]:
+        intervals [173]:
             xmin = 128.0344789655579 
             xmax = 128.73367888357956 
             text = "tátándà'à" 
-        intervals [175]:
+        intervals [174]:
             xmin = 128.73367888357956 
             xmax = 128.77525293275923 
             text = "" 
-        intervals [176]:
+        intervals [175]:
             xmin = 128.77525293275923 
             xmax = 129.53492419504224 
             text = "nàyīvī" 
-        intervals [177]:
+        intervals [176]:
             xmin = 129.53492419504224 
             xmax = 129.56138040815657 
             text = "" 
-        intervals [178]:
+        intervals [177]:
             xmin = 129.56138040815657 
             xmax = 129.9206187674649 
             text = "'á" 
-        intervals [179]:
+        intervals [178]:
             xmin = 129.9206187674649 
             xmax = 130.70418628752805 
             text = "" 
-        intervals [180]:
+        intervals [179]:
             xmin = 130.70418628752805 
             xmax = 130.93160568078812 
             text = "á" 
-        intervals [181]:
+        intervals [180]:
             xmin = 130.93160568078812 
             xmax = 130.98650001709228 
             text = "" 
-        intervals [182]:
+        intervals [181]:
             xmin = 130.98650001709228 
             xmax = 131.90401963817598 
             text = "tá'í" 
-        intervals [183]:
+        intervals [182]:
             xmin = 131.90401963817598 
             xmax = 131.97459807056705 
             text = "" 
-        intervals [184]:
+        intervals [183]:
             xmin = 131.97459807056705 
             xmax = 132.50001528947823 
             text = "ñà" 
-        intervals [185]:
+        intervals [184]:
             xmin = 132.50001528947823 
             xmax = 132.5549096257824 
             text = "" 
-        intervals [186]:
+        intervals [185]:
             xmin = 132.5549096257824 
             xmax = 134.37426477186293 
             text = "kùmplèáñónā" 
-        intervals [187]:
+        intervals [186]:
             xmin = 134.37426477186293 
             xmax = 137.14878260619523 
             text = "" 
-        intervals [188]:
+        intervals [187]:
             xmin = 137.14878260619523 
             xmax = 138.44478901778731 
             text = "āvāltísúnā" 
-        intervals [189]:
+        intervals [188]:
             xmin = 138.44478901778731 
             xmax = 139.2228253715884 
             text = "" 
-        intervals [190]:
+        intervals [189]:
             xmin = 139.2228253715884 
             xmax = 139.74089280264448 
             text = "tī" 
-        intervals [191]:
+        intervals [190]:
             xmin = 139.74089280264448 
             xmax = 140.01355987162137 
             text = "" 
-        intervals [192]:
+        intervals [191]:
             xmin = 140.01355987162137 
             xmax = 140.80429437165435 
             text = "duītá'àn" 
-        intervals [193]:
+        intervals [192]:
             xmin = 140.80429437165435 
             xmax = 141.57629094877123 
             text = "" 
-        intervals [194]:
+        intervals [193]:
             xmin = 141.57629094877123 
             xmax = 142.5728538614809 
             text = "vīkōkâ" 
-        intervals [195]:
+        intervals [194]:
             xmin = 142.5728538614809 
             xmax = 142.5773983126305 
             text = "" 
-        intervals [196]:
+        intervals [195]:
             xmin = 142.5773983126305 
             xmax = 142.9227766000012 
             text = "kūnū" 
-        intervals [197]:
+        intervals [196]:
             xmin = 142.9227766000012 
             xmax = 143.03638787874158 
             text = "" 
-        intervals [198]:
+        intervals [197]:
             xmin = 143.03638787874158 
             xmax = 143.7180555511838 
             text = "kū'ūnà" 
-        intervals [199]:
+        intervals [198]:
             xmin = 143.7180555511838 
             xmax = 145.12657100921678 
             text = "" 
-        intervals [200]:
+        intervals [199]:
             xmin = 145.12657100921678 
             xmax = 145.98334647889416 
             text = "kàtànà" 
-        intervals [201]:
+        intervals [200]:
             xmin = 145.98334647889416 
             xmax = 145.99652763996613 
             text = "" 
-        intervals [202]:
+        intervals [201]:
             xmin = 145.99652763996613 
             xmax = 146.58967988820433 
             text = "ndyihāá" 
-        intervals [203]:
+        intervals [202]:
             xmin = 146.58967988820433 
             xmax = 146.6292233714202 
             text = "" 
-        intervals [204]:
+        intervals [203]:
             xmin = 146.6292233714202 
             xmax = 147.46622709948966 
             text = "hākàtànà" 
-        intervals [205]:
+        intervals [204]:
             xmin = 147.46622709948966 
             xmax = 147.4859988410976 
             text = "" 
-        intervals [206]:
+        intervals [205]:
             xmin = 147.4859988410976 
             xmax = 148.22414386112735 
             text = "me᷄ gītárá" 
-        intervals [207]:
+        intervals [206]:
             xmin = 148.22414386112735 
             xmax = 148.24391560273529 
             text = "" 
-        intervals [208]:
+        intervals [207]:
             xmin = 148.24391560273529 
             xmax = 148.42845185774274 
             text = "sí'ín" 
-        intervals [209]:
+        intervals [208]:
             xmin = 148.42845185774274 
             xmax = 148.44822359935068 
             text = "" 
-        intervals [210]:
+        intervals [209]:
             xmin = 148.44822359935068 
             xmax = 149.06114758919682 
             text = "viōlín" 
-        intervals [211]:
+        intervals [210]:
             xmin = 149.06114758919682 
             xmax = 151.6390861130918 
             text = "" 
-        intervals [212]:
+        intervals [211]:
             xmin = 151.6390861130918 
             xmax = 151.97693251550902 
             text = "jo̍" 
-        intervals [213]:
+        intervals [212]:
             xmin = 151.97693251550902 
             xmax = 3097.876 
             text = "" 
@@ -1291,7 +1287,7 @@ item []:
         name = "Vowel" 
         xmin = 0 
         xmax = 3097.876 
-        intervals: size = 250 
+        intervals: size = 503 
         intervals [1]:
             xmin = 0 
             xmax = 28.7792031355525 
@@ -1782,1567 +1778,2575 @@ item []:
             text = "ò" 
         intervals [123]:
             xmin = 60.176090444909484 
-            xmax = 67.96230716107581 
+            xmax = 62.92587931680529 
             text = " " 
         intervals [124]:
-            xmin = 67.96230716107581 
-            xmax = 68.06272609688834 
-            text = "" 
+            xmin = 62.92587931680529 
+            xmax = 62.98124238746488 
+            text = "á" 
         intervals [125]:
-            xmin = 68.06272609688834 
-            xmax = 89.05735176887106 
+            xmin = 62.98124238746488 
+            xmax = 63.13300444915503 
             text = "" 
         intervals [126]:
-            xmin = 89.05735176887106 
-            xmax = 89.25216482261422 
-            text = "" 
+            xmin = 63.13300444915503 
+            xmax = 63.2638626161686 
+            text = "ā" 
         intervals [127]:
-            xmin = 89.25216482261422 
-            xmax = 91.23883926343659 
+            xmin = 63.2638626161686 
+            xmax = 63.39536910884722 
             text = "" 
         intervals [128]:
+            xmin = 63.39536910884722 
+            xmax = 63.4532486827186 
+            text = "á" 
+        intervals [129]:
+            xmin = 63.4532486827186 
+            xmax = 63.460798192354005 
+            text = "" 
+        intervals [130]:
+            xmin = 63.460798192354005 
+            xmax = 63.61682139148557 
+            text = "ì" 
+        intervals [131]:
+            xmin = 63.61682139148557 
+            xmax = 64.12236807848869 
+            text = "" 
+        intervals [132]:
+            xmin = 64.12236807848869 
+            xmax = 64.21673694893116 
+            text = "ā" 
+        intervals [133]:
+            xmin = 64.21673694893116 
+            xmax = 64.24945149068455 
+            text = "" 
+        intervals [134]:
+            xmin = 64.24945149068455 
+            xmax = 64.39037567054531 
+            text = "án" 
+        intervals [135]:
+            xmin = 64.39037567054531 
+            xmax = 64.48096978617009 
+            text = "" 
+        intervals [136]:
+            xmin = 64.48096978617009 
+            xmax = 64.63195997887806 
+            text = "á" 
+        intervals [137]:
+            xmin = 64.63195997887806 
+            xmax = 67.98023911389949 
+            text = "" 
+        intervals [138]:
+            xmin = 67.98023911389949 
+            xmax = 68.06631248745306 
+            text = "àn" 
+        intervals [139]:
+            xmin = 68.06631248745306 
+            xmax = 68.09859000253566 
+            text = "" 
+        intervals [140]:
+            xmin = 68.09859000253566 
+            xmax = 68.15597225157138 
+            text = "í" 
+        intervals [141]:
+            xmin = 68.15597225157138 
+            xmax = 68.2779095307723 
+            text = "" 
+        intervals [142]:
+            xmin = 68.2779095307723 
+            xmax = 68.35322373263169 
+            text = "ō" 
+        intervals [143]:
+            xmin = 68.35322373263169 
+            xmax = 68.44288349675001 
+            text = "" 
+        intervals [144]:
+            xmin = 68.44288349675001 
+            xmax = 68.4859201835268 
+            text = "à" 
+        intervals [145]:
+            xmin = 68.4859201835268 
+            xmax = 68.56840716651566 
+            text = "" 
+        intervals [146]:
+            xmin = 68.56840716651566 
+            xmax = 68.61861663442191 
+            text = "à" 
+        intervals [147]:
+            xmin = 68.61861663442191 
+            xmax = 68.76224308754227 
+            text = "" 
+        intervals [148]:
+            xmin = 68.76224308754227 
+            xmax = 68.88128615169515 
+            text = "á'" 
+        intervals [149]:
+            xmin = 68.88128615169515 
+            xmax = 68.90154880091265 
+            text = "" 
+        intervals [150]:
+            xmin = 68.90154880091265 
+            xmax = 68.98766506008707 
+            text = "'íì" 
+        intervals [151]:
+            xmin = 68.98766506008707 
+            xmax = 69.11683944884871 
+            text = "" 
+        intervals [152]:
+            xmin = 69.11683944884871 
+            xmax = 69.17256173419686 
+            text = "à" 
+        intervals [153]:
+            xmin = 69.17256173419686 
+            xmax = 69.26121082452346 
+            text = "" 
+        intervals [154]:
+            xmin = 69.26121082452346 
+            xmax = 69.30426895411067 
+            text = "à" 
+        intervals [155]:
+            xmin = 69.30426895411067 
+            xmax = 69.45273690317657 
+            text = "" 
+        intervals [156]:
+            xmin = 69.45273690317657 
+            xmax = 69.53358235159543 
+            text = "ē" 
+        intervals [157]:
+            xmin = 69.53358235159543 
+            xmax = 69.53812423072009 
+            text = "" 
+        intervals [158]:
+            xmin = 69.53812423072009 
+            xmax = 69.59989378681539 
+            text = "á" 
+        intervals [159]:
+            xmin = 69.59989378681539 
+            xmax = 69.69678517709706 
+            text = "" 
+        intervals [160]:
+            xmin = 69.69678517709706 
+            xmax = 69.78308088046549 
+            text = "ó" 
+        intervals [161]:
+            xmin = 69.78308088046549 
+            xmax = 69.87097038209426 
+            text = "" 
+        intervals [162]:
+            xmin = 69.87097038209426 
+            xmax = 69.9427320722638 
+            text = "ā" 
+        intervals [163]:
+            xmin = 69.9427320722638 
+            xmax = 70.04901204378072 
+            text = "" 
+        intervals [164]:
+            xmin = 70.04901204378072 
+            xmax = 70.14348312957354 
+            text = "ún" 
+        intervals [165]:
+            xmin = 70.14348312957354 
+            xmax = 70.26291103658642 
+            text = "" 
+        intervals [166]:
+            xmin = 70.26291103658642 
+            xmax = 70.39280877955154 
+            text = "ùn" 
+        intervals [167]:
+            xmin = 70.39280877955154 
+            xmax = 73.78573568544626 
+            text = "" 
+        intervals [168]:
+            xmin = 73.78573568544626 
+            xmax = 74.25152031086732 
+            text = "ò" 
+        intervals [169]:
+            xmin = 74.25152031086732 
+            xmax = 75.07349317925745 
+            text = "" 
+        intervals [170]:
+            xmin = 75.07349317925745 
+            xmax = 75.45023074393626 
+            text = "à" 
+        intervals [171]:
+            xmin = 75.45023074393626 
+            xmax = 75.62186885861973 
+            text = "" 
+        intervals [172]:
+            xmin = 75.62186885861973 
+            xmax = 75.76639755336011 
+            text = "én" 
+        intervals [173]:
+            xmin = 75.76639755336011 
+            xmax = 75.85922510685731 
+            text = "" 
+        intervals [174]:
+            xmin = 75.85922510685731 
+            xmax = 75.95720974665991 
+            text = "á" 
+        intervals [175]:
+            xmin = 75.95720974665991 
+            xmax = 76.06550855907332 
+            text = "" 
+        intervals [176]:
+            xmin = 76.06550855907332 
+            xmax = 76.16349319887593 
+            text = "ún" 
+        intervals [177]:
+            xmin = 76.16349319887593 
+            xmax = 76.27179201128932 
+            text = "" 
+        intervals [178]:
+            xmin = 76.27179201128932 
+            xmax = 76.39040499631353 
+            text = "à" 
+        intervals [179]:
+            xmin = 76.39040499631353 
+            xmax = 76.66787069895764 
+            text = "" 
+        intervals [180]:
+            xmin = 76.66787069895764 
+            xmax = 76.7253708820395 
+            text = "á" 
+        intervals [181]:
+            xmin = 76.7253708820395 
+            xmax = 76.85269946036077 
+            text = "" 
+        intervals [182]:
+            xmin = 76.85269946036077 
+            xmax = 76.97292711589556 
+            text = "án" 
+        intervals [183]:
+            xmin = 76.97292711589556 
+            xmax = 77.0827001926882 
+            text = "" 
+        intervals [184]:
+            xmin = 77.0827001926882 
+            xmax = 77.18700076829275 
+            text = "ìn" 
+        intervals [185]:
+            xmin = 77.18700076829275 
+            xmax = 77.43361450616231 
+            text = "" 
+        intervals [186]:
+            xmin = 77.43361450616231 
+            xmax = 77.5198647807851 
+            text = "à'" 
+        intervals [187]:
+            xmin = 77.5198647807851 
+            xmax = 77.6479333703765 
+            text = "" 
+        intervals [188]:
+            xmin = 77.6479333703765 
+            xmax = 77.91191148361594 
+            text = "'à" 
+        intervals [189]:
+            xmin = 77.91191148361594 
+            xmax = 78.88851450710953 
+            text = "" 
+        intervals [190]:
+            xmin = 78.88851450710953 
+            xmax = 78.99292652037246 
+            text = "à'" 
+        intervals [191]:
+            xmin = 78.99292652037246 
+            xmax = 79.01612918998646 
+            text = "" 
+        intervals [192]:
+            xmin = 79.01612918998646 
+            xmax = 79.12634187065288 
+            text = "'à" 
+        intervals [193]:
+            xmin = 79.12634187065288 
+            xmax = 79.27466573339206 
+            text = "" 
+        intervals [194]:
+            xmin = 79.27466573339206 
+            xmax = 79.38487841405849 
+            text = "ú" 
+        intervals [195]:
+            xmin = 79.38487841405849 
+            xmax = 79.56179876986513 
+            text = "" 
+        intervals [196]:
+            xmin = 79.56179876986513 
+            xmax = 79.69811445384731 
+            text = "ì" 
+        intervals [197]:
+            xmin = 79.69811445384731 
+            xmax = 79.82572913672422 
+            text = "" 
+        intervals [198]:
+            xmin = 79.82572913672422 
+            xmax = 80.10996183949555 
+            text = "à" 
+        intervals [199]:
+            xmin = 80.10996183949555 
+            xmax = 82.20827748891573 
+            text = "" 
+        intervals [200]:
+            xmin = 82.20827748891573 
+            xmax = 82.3887944697977 
+            text = "ūn" 
+        intervals [201]:
+            xmin = 82.3887944697977 
+            xmax = 82.41271840702302 
+            text = "" 
+        intervals [202]:
+            xmin = 82.41271840702302 
+            xmax = 82.59758519467324 
+            text = "ín" 
+        intervals [203]:
+            xmin = 82.59758519467324 
+            xmax = 84.55934242168337 
+            text = "" 
+        intervals [204]:
+            xmin = 84.55934242168337 
+            xmax = 85.18999972588605 
+            text = "ī" 
+        intervals [205]:
+            xmin = 85.18999972588605 
+            xmax = 86.34365140345496 
+            text = "" 
+        intervals [206]:
+            xmin = 86.34365140345496 
+            xmax = 86.81766950288983 
+            text = "ā" 
+        intervals [207]:
+            xmin = 86.81766950288983 
+            xmax = 86.93784310556346 
+            text = "" 
+        intervals [208]:
+            xmin = 86.93784310556346 
+            xmax = 87.03798777445816 
+            text = "ú" 
+        intervals [209]:
+            xmin = 87.03798777445816 
+            xmax = 87.17819031091072 
+            text = "" 
+        intervals [210]:
+            xmin = 87.17819031091072 
+            xmax = 87.24495342350718 
+            text = "ī" 
+        intervals [211]:
+            xmin = 87.24495342350718 
+            xmax = 87.35098842692156 
+            text = "" 
+        intervals [212]:
+            xmin = 87.35098842692156 
+            xmax = 87.40375029564366 
+            text = "ā" 
+        intervals [213]:
+            xmin = 87.40375029564366 
+            xmax = 88.45261958121002 
+            text = "" 
+        intervals [214]:
+            xmin = 88.45261958121002 
+            xmax = 88.56626052922685 
+            text = "īn" 
+        intervals [215]:
+            xmin = 88.56626052922685 
+            xmax = 88.59467076623106 
+            text = "" 
+        intervals [216]:
+            xmin = 88.59467076623106 
+            xmax = 88.69207729310264 
+            text = "ín" 
+        intervals [217]:
+            xmin = 88.69207729310264 
+            xmax = 88.85036289926896 
+            text = "" 
+        intervals [218]:
+            xmin = 88.85036289926896 
+            xmax = 89.05329316358475 
+            text = "ò'" 
+        intervals [219]:
+            xmin = 89.05329316358475 
+            xmax = 89.25622342790054 
+            text = "'ò" 
+        intervals [220]:
+            xmin = 89.25622342790054 
+            xmax = 89.34551274419948 
+            text = "" 
+        intervals [221]:
+            xmin = 89.34551274419948 
+            xmax = 89.41856763935317 
+            text = "én" 
+        intervals [222]:
+            xmin = 89.41856763935317 
+            xmax = 89.49973974507948 
+            text = "" 
+        intervals [223]:
+            xmin = 89.49973974507948 
+            xmax = 89.58902906137843 
+            text = "à" 
+        intervals [224]:
+            xmin = 89.58902906137843 
+            xmax = 89.7107872199679 
+            text = "" 
+        intervals [225]:
+            xmin = 89.7107872199679 
+            xmax = 89.90560027371106 
+            text = "ā" 
+        intervals [226]:
+            xmin = 89.90560027371106 
+            xmax = 90.01518261644158 
+            text = "" 
+        intervals [227]:
+            xmin = 90.01518261644158 
+            xmax = 90.11664774859948 
+            text = "á" 
+        intervals [228]:
+            xmin = 90.11664774859948 
+            xmax = 90.29522638119737 
+            text = "" 
+        intervals [229]:
+            xmin = 90.29522638119737 
+            xmax = 90.45757059265 
+            text = "ù" 
+        intervals [230]:
+            xmin = 90.45757059265 
+            xmax = 91.23883926343659 
+            text = "" 
+        intervals [231]:
             xmin = 91.23883926343659 
             xmax = 91.35169241169193 
             text = "ē" 
-        intervals [129]:
+        intervals [232]:
             xmin = 91.35169241169193 
             xmax = 91.50216327603236 
             text = "" 
-        intervals [130]:
+        intervals [233]:
             xmin = 91.50216327603236 
             xmax = 91.53650988637094 
             text = "ī" 
-        intervals [131]:
+        intervals [234]:
             xmin = 91.53650988637094 
             xmax = 91.64609192887973 
             text = "" 
-        intervals [132]:
+        intervals [235]:
             xmin = 91.64609192887973 
             xmax = 91.79656279322016 
             text = "én" 
-        intervals [133]:
+        intervals [236]:
             xmin = 91.79656279322016 
             xmax = 91.91222776646468 
             text = "" 
-        intervals [134]:
+        intervals [237]:
             xmin = 91.91222776646468 
             xmax = 92.01853870322694 
             text = "á" 
-        intervals [135]:
+        intervals [238]:
             xmin = 92.01853870322694 
             xmax = 92.0823252652843 
             text = "" 
-        intervals [136]:
+        intervals [239]:
             xmin = 92.0823252652843 
             xmax = 92.17064512044064 
             text = "á" 
-        intervals [137]:
+        intervals [240]:
             xmin = 92.17064512044064 
             xmax = 92.26257022633429 
             text = "" 
-        intervals [138]:
+        intervals [241]:
             xmin = 92.26257022633429 
             xmax = 92.34434786999756 
             text = "ú" 
-        intervals [139]:
+        intervals [242]:
             xmin = 92.34434786999756 
             xmax = 92.37705892746288 
             text = "" 
-        intervals [140]:
+        intervals [243]:
             xmin = 92.37705892746288 
             xmax = 92.43757438377371 
             text = "ì" 
-        intervals [141]:
+        intervals [244]:
             xmin = 92.43757438377371 
             xmax = 92.6674148815204 
             text = "ū" 
-        intervals [142]:
+        intervals [245]:
             xmin = 92.6674148815204 
             xmax = 92.76881915966287 
             text = "ún" 
-        intervals [143]:
+        intervals [246]:
             xmin = 92.76881915966287 
             xmax = 92.84732569757962 
             text = "" 
-        intervals [144]:
+        intervals [247]:
             xmin = 92.84732569757962 
             xmax = 92.9765343745676 
             text = "ā" 
-        intervals [145]:
+        intervals [248]:
             xmin = 92.9765343745676 
             xmax = 93.15208845087017 
             text = "" 
-        intervals [146]:
+        intervals [249]:
             xmin = 93.15208845087017 
             xmax = 93.1978839313216 
             text = "ū" 
-        intervals [147]:
+        intervals [250]:
             xmin = 93.1978839313216 
             xmax = 93.30092376233733 
             text = "" 
-        intervals [148]:
+        intervals [251]:
             xmin = 93.30092376233733 
             xmax = 93.42686133357878 
             text = "ún" 
-        intervals [149]:
+        intervals [252]:
             xmin = 93.42686133357878 
             xmax = 93.48590830951169 
             text = "" 
-        intervals [150]:
+        intervals [253]:
             xmin = 93.48590830951169 
             xmax = 93.5611437416819 
             text = "ā" 
-        intervals [151]:
+        intervals [254]:
             xmin = 93.5611437416819 
             xmax = 93.64556613783896 
             text = "" 
-        intervals [152]:
+        intervals [255]:
             xmin = 93.64556613783896 
             xmax = 93.69953938265672 
             text = "ā" 
-        intervals [153]:
+        intervals [256]:
             xmin = 93.69953938265672 
             xmax = 93.77641036770021 
             text = "" 
-        intervals [154]:
+        intervals [257]:
             xmin = 93.77641036770021 
             xmax = 93.84183248263082 
             text = "á" 
-        intervals [155]:
+        intervals [258]:
             xmin = 93.84183248263082 
             xmax = 93.95152377398625 
             text = "" 
-        intervals [156]:
+        intervals [259]:
             xmin = 93.95152377398625 
             xmax = 94.0255740004759 
             text = "á'" 
-        intervals [157]:
+        intervals [260]:
             xmin = 94.0255740004759 
             xmax = 94.03637299183897 
             text = "" 
-        intervals [158]:
+        intervals [261]:
             xmin = 94.03637299183897 
             xmax = 94.1096518618027 
             text = "'á" 
-        intervals [159]:
+        intervals [262]:
             xmin = 94.1096518618027 
             xmax = 94.1960437927073 
             text = "" 
-        intervals [160]:
+        intervals [263]:
             xmin = 94.1960437927073 
             xmax = 94.27240808877475 
             text = "ā" 
-        intervals [161]:
+        intervals [264]:
             xmin = 94.27240808877475 
             xmax = 94.45227179476915 
             text = "" 
-        intervals [162]:
+        intervals [265]:
             xmin = 94.45227179476915 
             xmax = 94.48466876885837 
             text = "ì" 
-        intervals [163]:
+        intervals [266]:
             xmin = 94.48466876885837 
             xmax = 94.57568883891857 
             text = "" 
-        intervals [164]:
+        intervals [267]:
             xmin = 94.57568883891857 
             xmax = 94.7245606484238 
             text = "én" 
-        intervals [165]:
+        intervals [268]:
             xmin = 94.7245606484238 
             xmax = 94.83761385278041 
             text = "" 
-        intervals [166]:
+        intervals [269]:
             xmin = 94.83761385278041 
             xmax = 94.95177461861863 
             text = "á" 
-        intervals [167]:
+        intervals [270]:
             xmin = 94.95177461861863 
+            xmax = 96.60892580504823 
+            text = "" 
+        intervals [271]:
+            xmin = 96.60892580504823 
+            xmax = 96.8929762424952 
+            text = "ī" 
+        intervals [272]:
+            xmin = 96.8929762424952 
+            xmax = 97.08645987379965 
+            text = "" 
+        intervals [273]:
+            xmin = 97.08645987379965 
+            xmax = 97.22231008301343 
+            text = "ān" 
+        intervals [274]:
+            xmin = 97.22231008301343 
+            xmax = 97.4487270983697 
+            text = "" 
+        intervals [275]:
+            xmin = 97.4487270983697 
+            xmax = 97.57634396157052 
+            text = "ū" 
+        intervals [276]:
+            xmin = 97.57634396157052 
+            xmax = 97.77394426588144 
+            text = "" 
+        intervals [277]:
+            xmin = 97.77394426588144 
+            xmax = 97.91802782110817 
+            text = "í" 
+        intervals [278]:
+            xmin = 97.91802782110817 
+            xmax = 98.0785780683608 
+            text = "" 
+        intervals [279]:
+            xmin = 98.0785780683608 
+            xmax = 98.49024536900858 
+            text = "ō" 
+        intervals [280]:
+            xmin = 98.49024536900858 
+            xmax = 98.77777948449554 
+            text = "" 
+        intervals [281]:
+            xmin = 98.77777948449554 
+            xmax = 98.97537978880648 
+            text = "ūn" 
+        intervals [282]:
+            xmin = 98.97537978880648 
+            xmax = 98.99596315383887 
+            text = "" 
+        intervals [283]:
+            xmin = 98.99596315383887 
+            xmax = 99.23884686122106 
+            text = "ín" 
+        intervals [284]:
+            xmin = 99.23884686122106 
+            xmax = 99.34999703239596 
+            text = "" 
+        intervals [285]:
+            xmin = 99.34999703239596 
+            xmax = 99.53113064468099 
+            text = "ū" 
+        intervals [286]:
+            xmin = 99.53113064468099 
+            xmax = 100.31627579797865 
+            text = "" 
+        intervals [287]:
+            xmin = 100.31627579797865 
+            xmax = 100.57562619738675 
+            text = "è" 
+        intervals [288]:
+            xmin = 100.57562619738675 
+            xmax = 100.68265969555517 
+            text = "" 
+        intervals [289]:
+            xmin = 100.68265969555517 
+            xmax = 100.98729349803453 
+            text = "è" 
+        intervals [290]:
+            xmin = 100.98729349803453 
+            xmax = 101.21371051339081 
+            text = "" 
+        intervals [291]:
+            xmin = 101.21371051339081 
+            xmax = 101.48129425881187 
+            text = "è" 
+        intervals [292]:
+            xmin = 101.48129425881187 
+            xmax = 101.54652035641742 
+            text = "" 
+        intervals [293]:
+            xmin = 101.54652035641742 
+            xmax = 101.71392674247137 
+            text = "è" 
+        intervals [294]:
+            xmin = 101.71392674247137 
+            xmax = 101.7203654496273 
+            text = "" 
+        intervals [295]:
+            xmin = 101.7203654496273 
+            xmax = 101.87489442136942 
+            text = "á" 
+        intervals [296]:
+            xmin = 101.87489442136942 
+            xmax = 101.96181696797436 
+            text = "" 
+        intervals [297]:
+            xmin = 101.96181696797436 
+            xmax = 102.20004913274344 
+            text = "ùn" 
+        intervals [298]:
+            xmin = 102.20004913274344 
+            xmax = 102.36798612466936 
+            text = "" 
+        intervals [299]:
+            xmin = 102.36798612466936 
+            xmax = 102.53086089809103 
+            text = "ìn" 
+        intervals [300]:
+            xmin = 102.53086089809103 
+            xmax = 102.8635045952898 
+            text = "" 
+        intervals [301]:
+            xmin = 102.8635045952898 
+            xmax = 102.99127837776417 
+            text = "ūn" 
+        intervals [302]:
+            xmin = 102.99127837776417 
+            xmax = 103.09775652982617 
+            text = "" 
+        intervals [303]:
+            xmin = 103.09775652982617 
+            xmax = 103.20914905813717 
+            text = "á" 
+        intervals [304]:
+            xmin = 103.20914905813717 
+            xmax = 103.3924239761873 
+            text = "" 
+        intervals [305]:
+            xmin = 103.3924239761873 
+            xmax = 103.57097964656818 
+            text = "ī" 
+        intervals [306]:
+            xmin = 103.57097964656818 
+            xmax = 105.04983939910723 
+            text = "" 
+        intervals [307]:
+            xmin = 105.04983939910723 
+            xmax = 105.11209680354214 
+            text = "á" 
+        intervals [308]:
+            xmin = 105.11209680354214 
+            xmax = 105.22508246344256 
+            text = "" 
+        intervals [309]:
+            xmin = 105.22508246344256 
+            xmax = 105.32423314457965 
+            text = "ā" 
+        intervals [310]:
+            xmin = 105.32423314457965 
+            xmax = 105.41869889409888 
+            text = "" 
+        intervals [311]:
+            xmin = 105.41869889409888 
+            xmax = 105.50410477891256 
+            text = "à" 
+        intervals [312]:
+            xmin = 105.50410477891256 
+            xmax = 105.60383723767892 
+            text = "" 
+        intervals [313]:
+            xmin = 105.60383723767892 
+            xmax = 105.69209447727829 
+            text = "à" 
+        intervals [314]:
+            xmin = 105.69209447727829 
+            xmax = 105.72594656917941 
+            text = "" 
+        intervals [315]:
+            xmin = 105.72594656917941 
+            xmax = 105.81662181534317 
+            text = "à" 
+        intervals [316]:
+            xmin = 105.81662181534317 
+            xmax = 106.12565796221054 
+            text = "" 
+        intervals [317]:
+            xmin = 106.12565796221054 
+            xmax = 106.1840375902618 
+            text = "ī" 
+        intervals [318]:
+            xmin = 106.1840375902618 
+            xmax = 106.32748467633063 
+            text = "" 
+        intervals [319]:
+            xmin = 106.32748467633063 
+            xmax = 106.47593573051813 
+            text = "á" 
+        intervals [320]:
+            xmin = 106.47593573051813 
+            xmax = 106.5860230291291 
+            text = "" 
+        intervals [321]:
+            xmin = 106.5860230291291 
+            xmax = 106.68276641275692 
+            text = "á" 
+        intervals [322]:
+            xmin = 106.68276641275692 
+            xmax = 106.82683369441715 
+            text = "" 
+        intervals [323]:
+            xmin = 106.82683369441715 
+            xmax = 106.88889159187606 
+            text = "í'n" 
+        intervals [324]:
+            xmin = 106.88889159187606 
+            xmax = 107.02222924720027 
+            text = "" 
+        intervals [325]:
+            xmin = 107.02222924720027 
+            xmax = 107.06101543311209 
+            text = "ò" 
+        intervals [326]:
+            xmin = 107.06101543311209 
+            xmax = 107.17282361209587 
+            text = "" 
+        intervals [327]:
+            xmin = 107.17282361209587 
+            xmax = 107.30469664419607 
+            text = "ín" 
+        intervals [328]:
+            xmin = 107.30469664419607 
+            xmax = 108.4611369279069 
+            text = "" 
+        intervals [329]:
+            xmin = 108.4611369279069 
+            xmax = 108.53978374684849 
+            text = "ī" 
+        intervals [330]:
+            xmin = 108.53978374684849 
+            xmax = 108.54961459921618 
+            text = "" 
+        intervals [331]:
+            xmin = 108.54961459921618 
+            xmax = 108.6806926307855 
+            text = "àn" 
+        intervals [332]:
+            xmin = 108.6806926307855 
+            xmax = 108.8202279863715 
+            text = "" 
+        intervals [333]:
+            xmin = 108.8202279863715 
+            xmax = 109.00865265675239 
+            text = "āà" 
+        intervals [334]:
+            xmin = 109.00865265675239 
+            xmax = 109.12828234193843 
+            text = "" 
+        intervals [335]:
+            xmin = 109.12828234193843 
+            xmax = 109.20037525930157 
+            text = "ī" 
+        intervals [336]:
+            xmin = 109.20037525930157 
+            xmax = 109.24133714416698 
+            text = "" 
+        intervals [337]:
+            xmin = 109.24133714416698 
+            xmax = 109.29212988140009 
+            text = "ī" 
+        intervals [338]:
+            xmin = 109.29212988140009 
+            xmax = 109.29540683218931 
+            text = "" 
+        intervals [339]:
+            xmin = 109.29540683218931 
+            xmax = 109.35603042179012 
+            text = "ó" 
+        intervals [340]:
+            xmin = 109.35603042179012 
+            xmax = 109.85706234061227 
+            text = "" 
+        intervals [341]:
+            xmin = 109.85706234061227 
+            xmax = 109.94226306113232 
+            text = "ī" 
+        intervals [342]:
+            xmin = 109.94226306113232 
+            xmax = 110.15690333782709 
+            text = "" 
+        intervals [343]:
+            xmin = 110.15690333782709 
+            xmax = 110.27978899242332 
+            text = "í" 
+        intervals [344]:
+            xmin = 110.27978899242332 
+            xmax = 110.39233488194367 
+            text = "" 
+        intervals [345]:
+            xmin = 110.39233488194367 
+            xmax = 110.51358206114529 
+            text = "ān" 
+        intervals [346]:
+            xmin = 110.51358206114529 
+            xmax = 110.62991381416305 
+            text = "" 
+        intervals [347]:
+            xmin = 110.62991381416305 
+            xmax = 110.73641471481312 
+            text = "ā" 
+        intervals [348]:
+            xmin = 110.73641471481312 
+            xmax = 110.9033440325323 
+            text = "" 
+        intervals [349]:
+            xmin = 110.9033440325323 
+            xmax = 111.1605846694871 
+            text = "í'" 
+        intervals [350]:
+            xmin = 111.1605846694871 
+            xmax = 111.30045474662869 
+            text = "" 
+        intervals [351]:
+            xmin = 111.30045474662869 
+            xmax = 111.43480972898723 
+            text = "ū'" 
+        intervals [352]:
+            xmin = 111.43480972898723 
+            xmax = 111.73301225080743 
+            text = "" 
+        intervals [353]:
+            xmin = 111.73301225080743 
+            xmax = 111.79691279119747 
+            text = "í'" 
+        intervals [354]:
+            xmin = 111.79691279119747 
+            xmax = 111.9465649275738 
+            text = "" 
+        intervals [355]:
+            xmin = 111.9465649275738 
+            xmax = 112.0760044837485 
+            text = "à" 
+        intervals [356]:
+            xmin = 112.0760044837485 
+            xmax = 112.30165396863026 
+            text = "" 
+        intervals [357]:
+            xmin = 112.30165396863026 
+            xmax = 112.36719298441493 
+            text = "ìn" 
+        intervals [358]:
+            xmin = 112.36719298441493 
+            xmax = 112.47205540967038 
+            text = "" 
+        intervals [359]:
+            xmin = 112.47205540967038 
+            xmax = 112.71127281728438 
+            text = "à" 
+        intervals [360]:
+            xmin = 112.71127281728438 
+            xmax = 112.8718434059568 
+            text = "" 
+        intervals [361]:
+            xmin = 112.8718434059568 
+            xmax = 112.95868260187147 
+            text = "ū'" 
+        intervals [362]:
+            xmin = 112.95868260187147 
+            xmax = 113.11629266769911 
+            text = "" 
+        intervals [363]:
+            xmin = 113.11629266769911 
+            xmax = 113.26896765559022 
+            text = "'ū" 
+        intervals [364]:
+            xmin = 113.26896765559022 
+            xmax = 113.32406840309979 
+            text = "" 
+        intervals [365]:
+            xmin = 113.32406840309979 
+            xmax = 113.40557159212436 
+            text = "ā" 
+        intervals [366]:
+            xmin = 113.40557159212436 
+            xmax = 116.22981167199534 
+            text = "" 
+        intervals [367]:
+            xmin = 116.22981167199534 
+            xmax = 116.67933738322827 
+            text = "ī" 
+        intervals [368]:
+            xmin = 116.67933738322827 
+            xmax = 120.0178378310057 
+            text = "" 
+        intervals [369]:
+            xmin = 120.0178378310057 
+            xmax = 120.17248574575487 
+            text = "ūn" 
+        intervals [370]:
+            xmin = 120.17248574575487 
+            xmax = 120.34163190251175 
+            text = "" 
+        intervals [371]:
+            xmin = 120.34163190251175 
+            xmax = 120.61226575332279 
+            text = "ún'" 
+        intervals [372]:
+            xmin = 120.61226575332279 
+            xmax = 120.6605932266819 
+            text = "" 
+        intervals [373]:
+            xmin = 120.6605932266819 
+            xmax = 120.92639433015701 
+            text = "à" 
+        intervals [374]:
+            xmin = 120.92639433015701 
+            xmax = 122.19792453483875 
+            text = "" 
+        intervals [375]:
+            xmin = 122.19792453483875 
+            xmax = 122.37190343893155 
+            text = "á" 
+        intervals [376]:
+            xmin = 122.37190343893155 
+            xmax = 122.53205546173612 
+            text = "" 
+        intervals [377]:
+            xmin = 122.53205546173612 
+            xmax = 122.65511127872355 
+            text = "án" 
+        intervals [378]:
+            xmin = 122.65511127872355 
+            xmax = 122.74227581575632 
+            text = "" 
+        intervals [379]:
+            xmin = 122.74227581575632 
+            xmax = 123.10289772387226 
+            text = "á" 
+        intervals [380]:
+            xmin = 123.10289772387226 
+            xmax = 124.1481580178696 
+            text = "" 
+        intervals [381]:
+            xmin = 124.1481580178696 
+            xmax = 124.2045586006555 
+            text = "ú" 
+        intervals [382]:
+            xmin = 124.2045586006555 
+            xmax = 124.33786906905856 
+            text = "" 
+        intervals [383]:
+            xmin = 124.33786906905856 
+            xmax = 124.46434310318452 
+            text = "ī" 
+        intervals [384]:
+            xmin = 124.46434310318452 
+            xmax = 124.58227159446415 
+            text = "" 
+        intervals [385]:
+            xmin = 124.58227159446415 
+            xmax = 124.68823632575888 
+            text = "ā" 
+        intervals [386]:
+            xmin = 124.68823632575888 
+            xmax = 124.76172799423748 
+            text = "" 
+        intervals [387]:
+            xmin = 124.76172799423748 
+            xmax = 124.87623826837856 
+            text = "ā" 
+        intervals [388]:
+            xmin = 124.87623826837856 
+            xmax = 124.98526414161394 
+            text = "" 
+        intervals [389]:
+            xmin = 124.98526414161394 
+            xmax = 125.38519554682308 
+            text = "ú" 
+        intervals [390]:
+            xmin = 125.38519554682308 
+            xmax = 125.63424500532844 
+            text = "" 
+        intervals [391]:
+            xmin = 125.63424500532844 
+            xmax = 125.73508241091535 
+            text = "ī" 
+        intervals [392]:
+            xmin = 125.73508241091535 
+            xmax = 125.7778101251471 
+            text = "" 
+        intervals [393]:
+            xmin = 125.7778101251471 
+            xmax = 125.88890218214964 
+            text = "ī" 
+        intervals [394]:
+            xmin = 125.88890218214964 
+            xmax = 126.03075819339904 
+            text = "" 
+        intervals [395]:
+            xmin = 126.03075819339904 
+            xmax = 126.16235955323282 
+            text = "í" 
+        intervals [396]:
+            xmin = 126.16235955323282 
+            xmax = 126.34900104358856 
+            text = "" 
+        intervals [397]:
+            xmin = 126.34900104358856 
+            xmax = 126.43103825491352 
+            text = "ò" 
+        intervals [398]:
+            xmin = 126.43103825491352 
+            xmax = 126.51646755484556 
+            text = "" 
+        intervals [399]:
+            xmin = 126.51646755484556 
+            xmax = 126.66827282173614 
+            text = "áà" 
+        intervals [400]:
+            xmin = 126.66827282173614 
+            xmax = 127.58239831876925 
+            text = "" 
+        intervals [401]:
+            xmin = 127.58239831876925 
+            xmax = 127.72018847208074 
+            text = "ī" 
+        intervals [402]:
+            xmin = 127.72018847208074 
+            xmax = 127.86624603459092 
+            text = "" 
+        intervals [403]:
+            xmin = 127.86624603459092 
+            xmax = 127.96545494497518 
+            text = "ò" 
+        intervals [404]:
+            xmin = 127.96545494497518 
+            xmax = 128.06466385535944 
+            text = "" 
+        intervals [405]:
+            xmin = 128.06466385535944 
+            xmax = 128.14182634121389 
+            text = "á" 
+        intervals [406]:
+            xmin = 128.14182634121389 
+            xmax = 128.23001203933325 
+            text = "" 
+        intervals [407]:
+            xmin = 128.23001203933325 
+            xmax = 128.29890711598898 
+            text = "án" 
+        intervals [408]:
+            xmin = 128.29890711598898 
+            xmax = 128.42567405703554 
+            text = "" 
+        intervals [409]:
+            xmin = 128.42567405703554 
+            xmax = 128.56622001341327 
+            text = "à'" 
+        intervals [410]:
+            xmin = 128.56622001341327 
+            xmax = 128.6048012563405 
+            text = "" 
+        intervals [411]:
+            xmin = 128.6048012563405 
+            xmax = 128.70676596979098 
+            text = "'à" 
+        intervals [412]:
+            xmin = 128.70676596979098 
+            xmax = 128.8087306832415 
+            text = "" 
+        intervals [413]:
+            xmin = 128.8087306832415 
+            xmax = 128.90793959362574 
+            text = "à" 
+        intervals [414]:
+            xmin = 128.90793959362574 
+            xmax = 129.06226456533463 
+            text = "" 
+        intervals [415]:
+            xmin = 129.06226456533463 
+            xmax = 129.23312435544088 
+            text = "ī" 
+        intervals [416]:
+            xmin = 129.23312435544088 
+            xmax = 129.35716145052015 
+            text = "" 
+        intervals [417]:
+            xmin = 129.35716145052015 
+            xmax = 129.50046320996412 
+            text = "ī" 
+        intervals [418]:
+            xmin = 129.50046320996412 
+            xmax = 129.62723015101068 
+            text = "" 
+        intervals [419]:
+            xmin = 129.62723015101068 
+            xmax = 129.88351983617005 
+            text = "'á" 
+        intervals [420]:
+            xmin = 129.88351983617005 
             xmax = 130.70418628752805 
             text = "" 
-        intervals [168]:
+        intervals [421]:
             xmin = 130.70418628752805 
             xmax = 130.71202833557152 
             text = "" 
-        intervals [169]:
+        intervals [422]:
             xmin = 130.71202833557152 
             xmax = 130.90807953665777 
             text = "á" 
-        intervals [170]:
+        intervals [423]:
             xmin = 130.90807953665777 
             xmax = 131.02571025730953 
             text = "" 
-        intervals [171]:
+        intervals [424]:
             xmin = 131.02571025730953 
             xmax = 131.37076037122137 
             text = "á" 
-        intervals [172]:
+        intervals [425]:
             xmin = 131.37076037122137 
             xmax = 131.50407518796 
             text = "" 
-        intervals [173]:
+        intervals [426]:
             xmin = 131.50407518796 
             xmax = 131.89617759013254 
             text = "í" 
-        intervals [174]:
+        intervals [427]:
             xmin = 131.89617759013254 
             xmax = 132.02949240687119 
             text = "" 
-        intervals [175]:
+        intervals [428]:
             xmin = 132.02949240687119 
             xmax = 132.36670047273958 
             text = "à" 
-        intervals [176]:
+        intervals [429]:
             xmin = 132.36670047273958 
             xmax = 132.56275167382583 
             text = "" 
-        intervals [177]:
+        intervals [430]:
             xmin = 132.56275167382583 
             xmax = 132.71959263469486 
             text = "ùn" 
-        intervals [178]:
+        intervals [431]:
             xmin = 132.71959263469486 
             xmax = 132.82131502472473 
             text = "" 
-        intervals [179]:
+        intervals [432]:
             xmin = 132.82131502472473 
             xmax = 132.98070173388345 
             text = "è" 
-        intervals [180]:
+        intervals [433]:
             xmin = 132.98070173388345 
             xmax = 133.00726618540992 
             text = "" 
-        intervals [181]:
+        intervals [434]:
             xmin = 133.00726618540992 
             xmax = 133.20649957185836 
             text = "á" 
-        intervals [182]:
+        intervals [435]:
             xmin = 133.20649957185836 
             xmax = 133.33046701231515 
             text = "" 
-        intervals [183]:
+        intervals [436]:
             xmin = 133.33046701231515 
             xmax = 133.47214408712293 
             text = "ún" 
-        intervals [184]:
+        intervals [437]:
             xmin = 133.47214408712293 
             xmax = 133.63241572793794 
             text = "" 
-        intervals [185]:
+        intervals [438]:
             xmin = 133.63241572793794 
             xmax = 133.75638316839476 
             text = "ā" 
-        intervals [186]:
+        intervals [439]:
             xmin = 133.75638316839476 
             xmax = 137.16197018931348 
             text = "" 
-        intervals [187]:
+        intervals [440]:
             xmin = 137.16197018931348 
             xmax = 137.31345290438512 
             text = "ā" 
-        intervals [188]:
+        intervals [441]:
             xmin = 137.31345290438512 
             xmax = 137.35524123957728 
             text = "" 
-        intervals [189]:
+        intervals [442]:
             xmin = 137.35524123957728 
             xmax = 137.42314728426456 
             text = "ā" 
-        intervals [190]:
+        intervals [443]:
             xmin = 137.42314728426456 
             xmax = 137.68693615016514 
             text = "" 
-        intervals [191]:
+        intervals [444]:
             xmin = 137.68693615016514 
             xmax = 137.8462541780853 
             text = "í" 
-        intervals [192]:
+        intervals [445]:
             xmin = 137.8462541780853 
             xmax = 138.04466941938333 
             text = "" 
-        intervals [193]:
+        intervals [446]:
             xmin = 138.04466941938333 
             xmax = 138.1830932797074 
             text = "ún" 
-        intervals [194]:
+        intervals [447]:
             xmin = 138.1830932797074 
             xmax = 138.2562228662937 
             text = "" 
-        intervals [195]:
+        intervals [448]:
             xmin = 138.2562228662937 
             xmax = 138.40509381041582 
             text = "ā" 
-        intervals [196]:
+        intervals [449]:
             xmin = 138.40509381041582 
             xmax = 139.35819663152887 
             text = "" 
-        intervals [197]:
+        intervals [450]:
             xmin = 139.35819663152887 
             xmax = 139.70849528054703 
             text = "ī" 
-        intervals [198]:
+        intervals [451]:
             xmin = 139.70849528054703 
             xmax = 140.05134969897708 
             text = "" 
-        intervals [199]:
+        intervals [452]:
             xmin = 140.05134969897708 
             xmax = 140.12860536852054 
             text = "ī" 
-        intervals [200]:
+        intervals [453]:
             xmin = 140.12860536852054 
             xmax = 140.2467610984105 
             text = "" 
-        intervals [201]:
+        intervals [454]:
             xmin = 140.2467610984105 
             xmax = 140.3649168283005 
             text = "án'" 
-        intervals [202]:
+        intervals [455]:
             xmin = 140.3649168283005 
             xmax = 140.45580585129278 
             text = "" 
-        intervals [203]:
+        intervals [456]:
             xmin = 140.45580585129278 
             xmax = 140.75119517601775 
             text = "'àn" 
-        intervals [204]:
+        intervals [457]:
             xmin = 140.75119517601775 
             xmax = 141.7489800924566 
             text = "" 
-        intervals [205]:
+        intervals [458]:
             xmin = 141.7489800924566 
             xmax = 141.92166923614195 
             text = "ī" 
-        intervals [206]:
+        intervals [459]:
             xmin = 141.92166923614195 
             xmax = 142.1761585005204 
             text = "" 
-        intervals [207]:
+        intervals [460]:
             xmin = 142.1761585005204 
             xmax = 142.28976977926075 
             text = "ō" 
-        intervals [208]:
+        intervals [461]:
             xmin = 142.28976977926075 
             xmax = 142.3365424017009 
             text = "" 
-        intervals [209]:
+        intervals [462]:
             xmin = 142.3365424017009 
             xmax = 142.5228648988351 
             text = "â" 
-        intervals [210]:
+        intervals [463]:
             xmin = 142.5228648988351 
             xmax = 142.6046650195282 
             text = "" 
-        intervals [211]:
+        intervals [464]:
             xmin = 142.6046650195282 
             xmax = 142.7273652005678 
             text = "ūn" 
-        intervals [212]:
+        intervals [465]:
             xmin = 142.7273652005678 
             xmax = 142.80916532126085 
             text = "" 
-        intervals [213]:
+        intervals [466]:
             xmin = 142.80916532126085 
             xmax = 142.89550989310354 
             text = "ū" 
-        intervals [214]:
+        intervals [467]:
             xmin = 142.89550989310354 
             xmax = 143.04652689193907 
             text = "" 
-        intervals [215]:
+        intervals [468]:
             xmin = 143.04652689193907 
             xmax = 143.37050474937854 
             text = "ūn'" 
-        intervals [216]:
+        intervals [469]:
             xmin = 143.37050474937854 
             xmax = 143.447889037066 
             text = "" 
-        intervals [217]:
+        intervals [470]:
             xmin = 143.447889037066 
             xmax = 143.66714677896948 
             text = "à" 
-        intervals [218]:
+        intervals [471]:
             xmin = 143.66714677896948 
             xmax = 145.29416295179766 
             text = "" 
-        intervals [219]:
+        intervals [472]:
             xmin = 145.29416295179766 
             xmax = 145.4602151527976 
             text = "à" 
-        intervals [220]:
+        intervals [473]:
             xmin = 145.4602151527976 
             xmax = 145.59950363245693 
             text = "" 
-        intervals [221]:
+        intervals [474]:
             xmin = 145.59950363245693 
             xmax = 145.7246444216163 
             text = "àn" 
-        intervals [222]:
+        intervals [475]:
             xmin = 145.7246444216163 
             xmax = 145.8016541380221 
             text = "" 
-        intervals [223]:
+        intervals [476]:
             xmin = 145.8016541380221 
             xmax = 145.91476215899306 
             text = "à" 
-        intervals [224]:
+        intervals [477]:
             xmin = 145.91476215899306 
             xmax = 146.0361837559486 
             text = "" 
-        intervals [225]:
+        intervals [478]:
             xmin = 146.0361837559486 
             xmax = 146.1348524550935 
             text = "ī" 
-        intervals [226]:
+        intervals [479]:
             xmin = 146.1348524550935 
             xmax = 146.2672129051659 
             text = "" 
-        intervals [227]:
+        intervals [480]:
             xmin = 146.2672129051659 
             xmax = 146.5511862344122 
             text = "āá" 
-        intervals [228]:
+        intervals [481]:
             xmin = 146.5511862344122 
             xmax = 146.74225207119744 
             text = "" 
-        intervals [229]:
+        intervals [482]:
             xmin = 146.74225207119744 
             xmax = 146.80000935850177 
             text = "ā" 
-        intervals [230]:
+        intervals [483]:
             xmin = 146.80000935850177 
             xmax = 146.93477636221186 
             text = "" 
-        intervals [231]:
+        intervals [484]:
             xmin = 146.93477636221186 
             xmax = 147.07194991955964 
             text = "à" 
-        intervals [232]:
+        intervals [485]:
             xmin = 147.07194991955964 
             xmax = 147.17302517234222 
             text = "" 
-        intervals [233]:
+        intervals [486]:
             xmin = 147.17302517234222 
             xmax = 147.2837266396755 
             text = "àn" 
-        intervals [234]:
+        intervals [487]:
             xmin = 147.2837266396755 
             xmax = 147.32101616895378 
             text = "" 
-        intervals [235]:
+        intervals [488]:
             xmin = 147.32101616895378 
             xmax = 147.424497975374 
             text = "à" 
-        intervals [236]:
+        intervals [489]:
             xmin = 147.424497975374 
             xmax = 147.5135404599682 
             text = "" 
-        intervals [237]:
+        intervals [490]:
             xmin = 147.5135404599682 
             xmax = 147.60017639092467 
             text = "e᷄" 
-        intervals [238]:
+        intervals [491]:
             xmin = 147.60017639092467 
             xmax = 147.657933678229 
             text = "" 
-        intervals [239]:
+        intervals [492]:
             xmin = 147.657933678229 
             xmax = 147.73013028735943 
             text = "ī" 
-        intervals [240]:
+        intervals [493]:
             xmin = 147.73013028735943 
             xmax = 147.8552710765188 
             text = "" 
-        intervals [241]:
+        intervals [494]:
             xmin = 147.8552710765188 
             xmax = 147.99966429477962 
             text = "á" 
-        intervals [242]:
+        intervals [495]:
             xmin = 147.99966429477962 
             xmax = 148.0863002257361 
             text = "" 
-        intervals [243]:
+        intervals [496]:
             xmin = 148.0863002257361 
             xmax = 148.2090344612578 
             text = "á" 
-        intervals [244]:
+        intervals [497]:
             xmin = 148.2090344612578 
             xmax = 148.31594382855576 
             text = "" 
-        intervals [245]:
+        intervals [498]:
             xmin = 148.31594382855576 
             xmax = 148.41220597406297 
             text = "ín'" 
-        intervals [246]:
+        intervals [499]:
             xmin = 148.41220597406297 
             xmax = 148.4830170367957 
             text = "" 
-        intervals [247]:
+        intervals [500]:
             xmin = 148.4830170367957 
             xmax = 148.57205952138986 
             text = "ō" 
-        intervals [248]:
+        intervals [501]:
             xmin = 148.57205952138986 
             xmax = 148.65869545234636 
             text = "" 
-        intervals [249]:
+        intervals [502]:
             xmin = 148.65869545234636 
             xmax = 148.887318047926 
             text = "ín" 
-        intervals [250]:
+        intervals [503]:
             xmin = 148.887318047926 
             xmax = 3097.876 
             text = "" 
     item [4]:
         class = "IntervalTier" 
-        name = "Vowel" 
+        name = "Vowel1" 
         xmin = 0 
         xmax = 3097.876 
-        intervals: size = 262 
+        intervals: size = 261 
         intervals [1]:
             xmin = 0 
-            xmax = 28.512785993025012 
-            text = "" 
-        intervals [2]:
-            xmin = 28.512785993025012 
             xmax = 62.92587931680529 
             text = "" 
-        intervals [3]:
+        intervals [2]:
             xmin = 62.92587931680529 
             xmax = 62.98124238746488 
             text = "á" 
-        intervals [4]:
+        intervals [3]:
             xmin = 62.98124238746488 
             xmax = 63.13300444915503 
             text = "" 
-        intervals [5]:
+        intervals [4]:
             xmin = 63.13300444915503 
             xmax = 63.2638626161686 
             text = "ā" 
-        intervals [6]:
+        intervals [5]:
             xmin = 63.2638626161686 
             xmax = 63.39536910884722 
             text = "" 
-        intervals [7]:
+        intervals [6]:
             xmin = 63.39536910884722 
             xmax = 63.4532486827186 
             text = "ā" 
-        intervals [8]:
+        intervals [7]:
             xmin = 63.4532486827186 
             xmax = 63.460798192354005 
             text = "" 
-        intervals [9]:
+        intervals [8]:
             xmin = 63.460798192354005 
             xmax = 63.61682139148557 
             text = "i᷆" 
-        intervals [10]:
+        intervals [9]:
             xmin = 63.61682139148557 
             xmax = 64.12236807848869 
             text = "" 
-        intervals [11]:
+        intervals [10]:
             xmin = 64.12236807848869 
             xmax = 64.21673694893116 
             text = "ā" 
-        intervals [12]:
+        intervals [11]:
             xmin = 64.21673694893116 
             xmax = 64.24945149068455 
             text = "" 
-        intervals [13]:
+        intervals [12]:
             xmin = 64.24945149068455 
             xmax = 64.39037567054531 
             text = "án" 
-        intervals [14]:
+        intervals [13]:
             xmin = 64.39037567054531 
             xmax = 64.48096978617009 
             text = "" 
-        intervals [15]:
+        intervals [14]:
             xmin = 64.48096978617009 
             xmax = 64.63195997887806 
             text = "á" 
-        intervals [16]:
+        intervals [15]:
             xmin = 64.63195997887806 
             xmax = 67.98023911389949 
             text = "" 
-        intervals [17]:
+        intervals [16]:
             xmin = 67.98023911389949 
             xmax = 68.06631248745306 
             text = "àn " 
-        intervals [18]:
+        intervals [17]:
             xmin = 68.06631248745306 
             xmax = 68.09859000253566 
             text = "" 
-        intervals [19]:
+        intervals [18]:
             xmin = 68.09859000253566 
             xmax = 68.15597225157138 
             text = "í" 
-        intervals [20]:
+        intervals [19]:
             xmin = 68.15597225157138 
             xmax = 68.2779095307723 
             text = "" 
-        intervals [21]:
+        intervals [20]:
             xmin = 68.2779095307723 
             xmax = 68.35322373263169 
             text = "ō" 
-        intervals [22]:
+        intervals [21]:
             xmin = 68.35322373263169 
             xmax = 68.44288349675001 
             text = "" 
-        intervals [23]:
+        intervals [22]:
             xmin = 68.44288349675001 
             xmax = 68.4859201835268 
             text = "à" 
-        intervals [24]:
+        intervals [23]:
             xmin = 68.4859201835268 
             xmax = 68.56840716651566 
             text = "" 
-        intervals [25]:
+        intervals [24]:
             xmin = 68.56840716651566 
             xmax = 68.61861663442191 
             text = "à" 
-        intervals [26]:
+        intervals [25]:
             xmin = 68.61861663442191 
             xmax = 68.76224308754227 
             text = "" 
-        intervals [27]:
+        intervals [26]:
             xmin = 68.76224308754227 
             xmax = 68.88128615169515 
             text = "á'" 
-        intervals [28]:
+        intervals [27]:
             xmin = 68.88128615169515 
             xmax = 68.90154880091265 
             text = "" 
-        intervals [29]:
+        intervals [28]:
             xmin = 68.90154880091265 
             xmax = 68.98766506008707 
             text = "'î" 
-        intervals [30]:
+        intervals [29]:
             xmin = 68.98766506008707 
             xmax = 69.11683944884871 
             text = "" 
-        intervals [31]:
+        intervals [30]:
             xmin = 69.11683944884871 
             xmax = 69.17256173419686 
             text = "à" 
-        intervals [32]:
+        intervals [31]:
             xmin = 69.17256173419686 
             xmax = 69.26121082452346 
             text = "" 
-        intervals [33]:
+        intervals [32]:
             xmin = 69.26121082452346 
             xmax = 69.30426895411067 
             text = "à" 
-        intervals [34]:
+        intervals [33]:
             xmin = 69.30426895411067 
             xmax = 69.45273690317657 
             text = "" 
-        intervals [35]:
+        intervals [34]:
             xmin = 69.45273690317657 
             xmax = 69.53358235159543 
             text = "ē" 
-        intervals [36]:
+        intervals [35]:
             xmin = 69.53358235159543 
             xmax = 69.53812423072009 
             text = "" 
-        intervals [37]:
+        intervals [36]:
             xmin = 69.53812423072009 
             xmax = 69.59989378681539 
             text = "á" 
-        intervals [38]:
+        intervals [37]:
             xmin = 69.59989378681539 
             xmax = 69.69678517709706 
             text = "" 
-        intervals [39]:
+        intervals [38]:
             xmin = 69.69678517709706 
             xmax = 69.78308088046549 
             text = "ó" 
-        intervals [40]:
+        intervals [39]:
             xmin = 69.78308088046549 
             xmax = 69.87097038209426 
             text = "" 
-        intervals [41]:
+        intervals [40]:
             xmin = 69.87097038209426 
             xmax = 69.9427320722638 
             text = "ā" 
-        intervals [42]:
+        intervals [41]:
             xmin = 69.9427320722638 
             xmax = 70.04901204378072 
             text = "" 
-        intervals [43]:
+        intervals [42]:
             xmin = 70.04901204378072 
             xmax = 70.14348312957354 
             text = "ún" 
-        intervals [44]:
+        intervals [43]:
             xmin = 70.14348312957354 
             xmax = 70.26291103658642 
             text = "" 
-        intervals [45]:
+        intervals [44]:
             xmin = 70.26291103658642 
             xmax = 70.39280877955154 
             text = "ùn" 
-        intervals [46]:
+        intervals [45]:
             xmin = 70.39280877955154 
             xmax = 73.78573568544626 
             text = "" 
-        intervals [47]:
+        intervals [46]:
             xmin = 73.78573568544626 
             xmax = 74.25152031086732 
             text = "ò" 
-        intervals [48]:
+        intervals [47]:
             xmin = 74.25152031086732 
             xmax = 75.07349317925745 
             text = "" 
-        intervals [49]:
+        intervals [48]:
             xmin = 75.07349317925745 
             xmax = 75.45023074393626 
             text = "à" 
-        intervals [50]:
+        intervals [49]:
             xmin = 75.45023074393626 
             xmax = 75.5962137052819 
             text = "" 
-        intervals [51]:
+        intervals [50]:
             xmin = 75.5962137052819 
             xmax = 75.76639755336011 
             text = "én" 
-        intervals [52]:
+        intervals [51]:
             xmin = 75.76639755336011 
             xmax = 75.85922510685731 
             text = "" 
-        intervals [53]:
+        intervals [52]:
             xmin = 75.85922510685731 
             xmax = 75.95720974665991 
             text = "án" 
-        intervals [54]:
+        intervals [53]:
             xmin = 75.95720974665991 
             xmax = 76.06550855907332 
             text = "" 
-        intervals [55]:
+        intervals [54]:
             xmin = 76.06550855907332 
             xmax = 76.16349319887593 
             text = "ún" 
-        intervals [56]:
+        intervals [55]:
             xmin = 76.16349319887593 
             xmax = 76.27179201128932 
             text = "" 
-        intervals [57]:
+        intervals [56]:
             xmin = 76.27179201128932 
             xmax = 76.39040499631353 
             text = "à" 
-        intervals [58]:
+        intervals [57]:
             xmin = 76.39040499631353 
             xmax = 76.66787069895764 
             text = "" 
-        intervals [59]:
+        intervals [58]:
             xmin = 76.66787069895764 
             xmax = 76.7253708820395 
             text = "án" 
-        intervals [60]:
+        intervals [59]:
             xmin = 76.7253708820395 
             xmax = 76.85269946036077 
             text = "" 
-        intervals [61]:
+        intervals [60]:
             xmin = 76.85269946036077 
             xmax = 76.97292711589556 
             text = "án" 
-        intervals [62]:
+        intervals [61]:
             xmin = 76.97292711589556 
             xmax = 77.0827001926882 
             text = "" 
-        intervals [63]:
+        intervals [62]:
             xmin = 77.0827001926882 
-            xmax = 77.26042803130484 
+            xmax = 77.18700076829275 
             text = "ìn" 
-        intervals [64]:
-            xmin = 77.26042803130484 
+        intervals [63]:
+            xmin = 77.18700076829275 
             xmax = 77.43361450616231 
             text = "" 
-        intervals [65]:
+        intervals [64]:
             xmin = 77.43361450616231 
             xmax = 77.5198647807851 
             text = "à'" 
-        intervals [66]:
+        intervals [65]:
             xmin = 77.5198647807851 
             xmax = 77.6479333703765 
             text = "" 
-        intervals [67]:
+        intervals [66]:
             xmin = 77.6479333703765 
             xmax = 77.91191148361594 
             text = "'à" 
-        intervals [68]:
+        intervals [67]:
             xmin = 77.91191148361594 
             xmax = 78.88851450710953 
             text = "q" 
-        intervals [69]:
+        intervals [68]:
             xmin = 78.88851450710953 
             xmax = 78.99292652037246 
             text = "à'" 
-        intervals [70]:
+        intervals [69]:
             xmin = 78.99292652037246 
             xmax = 79.01612918998646 
             text = "" 
-        intervals [71]:
+        intervals [70]:
             xmin = 79.01612918998646 
             xmax = 79.12634187065288 
             text = "'à" 
-        intervals [72]:
+        intervals [71]:
             xmin = 79.12634187065288 
             xmax = 79.27466573339206 
             text = "" 
-        intervals [73]:
+        intervals [72]:
             xmin = 79.27466573339206 
             xmax = 79.38487841405849 
             text = "ú" 
-        intervals [74]:
+        intervals [73]:
             xmin = 79.38487841405849 
             xmax = 79.56179876986513 
             text = "" 
-        intervals [75]:
+        intervals [74]:
             xmin = 79.56179876986513 
             xmax = 79.69811445384731 
             text = "ì" 
-        intervals [76]:
+        intervals [75]:
             xmin = 79.69811445384731 
             xmax = 79.82572913672422 
             text = "" 
-        intervals [77]:
+        intervals [76]:
             xmin = 79.82572913672422 
             xmax = 80.10996183949555 
             text = "à" 
-        intervals [78]:
+        intervals [77]:
             xmin = 80.10996183949555 
             xmax = 82.20827748891573 
             text = "" 
-        intervals [79]:
+        intervals [78]:
             xmin = 82.20827748891573 
             xmax = 82.3887944697977 
             text = "ūūn" 
-        intervals [80]:
+        intervals [79]:
             xmin = 82.3887944697977 
             xmax = 82.41271840702302 
             text = "" 
-        intervals [81]:
+        intervals [80]:
             xmin = 82.41271840702302 
             xmax = 82.59758519467324 
             text = "ín" 
-        intervals [82]:
+        intervals [81]:
             xmin = 82.59758519467324 
             xmax = 84.55934242168337 
             text = " " 
-        intervals [83]:
+        intervals [82]:
             xmin = 84.55934242168337 
             xmax = 85.18999972588605 
             text = "ī" 
-        intervals [84]:
+        intervals [83]:
             xmin = 85.18999972588605 
             xmax = 86.34365140345496 
             text = "" 
-        intervals [85]:
+        intervals [84]:
             xmin = 86.34365140345496 
             xmax = 86.81766950288983 
             text = "ā" 
-        intervals [86]:
+        intervals [85]:
             xmin = 86.81766950288983 
             xmax = 86.93784310556346 
             text = "" 
-        intervals [87]:
+        intervals [86]:
             xmin = 86.93784310556346 
             xmax = 87.03798777445816 
             text = "ú" 
-        intervals [88]:
+        intervals [87]:
             xmin = 87.03798777445816 
             xmax = 87.17819031091072 
             text = "" 
-        intervals [89]:
+        intervals [88]:
             xmin = 87.17819031091072 
             xmax = 87.24495342350718 
             text = "ī" 
-        intervals [90]:
+        intervals [89]:
             xmin = 87.24495342350718 
             xmax = 87.35098842692156 
             text = "" 
-        intervals [91]:
+        intervals [90]:
             xmin = 87.35098842692156 
             xmax = 87.40375029564366 
             text = "ā" 
-        intervals [92]:
+        intervals [91]:
             xmin = 87.40375029564366 
             xmax = 87.53362566480577 
             text = "" 
-        intervals [93]:
+        intervals [92]:
             xmin = 87.53362566480577 
             xmax = 87.5945047441005 
             text = "" 
-        intervals [94]:
+        intervals [93]:
             xmin = 87.5945047441005 
             xmax = 88.45261958121002 
             text = "" 
-        intervals [95]:
+        intervals [94]:
             xmin = 88.45261958121002 
             xmax = 88.56626052922685 
             text = "īn" 
-        intervals [96]:
+        intervals [95]:
             xmin = 88.56626052922685 
             xmax = 88.59467076623106 
             text = "" 
-        intervals [97]:
+        intervals [96]:
             xmin = 88.59467076623106 
             xmax = 88.69207729310264 
             text = "ín" 
-        intervals [98]:
+        intervals [97]:
             xmin = 88.69207729310264 
             xmax = 88.85036289926896 
             text = "" 
-        intervals [99]:
+        intervals [98]:
             xmin = 88.85036289926896 
             xmax = 89.05329316358475 
             text = "ò'" 
-        intervals [100]:
+        intervals [99]:
             xmin = 89.05329316358475 
             xmax = 89.25622342790054 
             text = "'ò" 
-        intervals [101]:
+        intervals [100]:
             xmin = 89.25622342790054 
             xmax = 89.34551274419948 
             text = "" 
-        intervals [102]:
+        intervals [101]:
             xmin = 89.34551274419948 
             xmax = 89.41856763935317 
             text = "én" 
-        intervals [103]:
+        intervals [102]:
             xmin = 89.41856763935317 
             xmax = 89.49973974507948 
             text = "" 
-        intervals [104]:
+        intervals [103]:
             xmin = 89.49973974507948 
             xmax = 89.58902906137843 
             text = "à" 
-        intervals [105]:
+        intervals [104]:
             xmin = 89.58902906137843 
             xmax = 89.7107872199679 
             text = "" 
-        intervals [106]:
+        intervals [105]:
             xmin = 89.7107872199679 
             xmax = 89.90560027371106 
             text = "ā" 
-        intervals [107]:
+        intervals [106]:
             xmin = 89.90560027371106 
             xmax = 90.01518261644158 
             text = "" 
-        intervals [108]:
+        intervals [107]:
             xmin = 90.01518261644158 
             xmax = 90.11664774859948 
             text = "á" 
-        intervals [109]:
+        intervals [108]:
             xmin = 90.11664774859948 
             xmax = 90.29522638119737 
             text = "" 
-        intervals [110]:
+        intervals [109]:
             xmin = 90.29522638119737 
             xmax = 90.45757059265 
             text = "ù" 
-        intervals [111]:
+        intervals [110]:
             xmin = 90.45757059265 
             xmax = 96.60892580504823 
             text = "" 
-        intervals [112]:
+        intervals [111]:
             xmin = 96.60892580504823 
             xmax = 96.8929762424952 
             text = "ī" 
-        intervals [113]:
+        intervals [112]:
             xmin = 96.8929762424952 
             xmax = 97.08645987379965 
             text = "" 
-        intervals [114]:
+        intervals [113]:
             xmin = 97.08645987379965 
             xmax = 97.22231008301343 
             text = "ān" 
-        intervals [115]:
+        intervals [114]:
             xmin = 97.22231008301343 
             xmax = 97.4487270983697 
             text = "" 
-        intervals [116]:
+        intervals [115]:
             xmin = 97.4487270983697 
             xmax = 97.57634396157052 
             text = "ū" 
-        intervals [117]:
+        intervals [116]:
             xmin = 97.57634396157052 
             xmax = 97.77394426588144 
             text = "" 
-        intervals [118]:
+        intervals [117]:
             xmin = 97.77394426588144 
             xmax = 97.91802782110817 
             text = "í" 
-        intervals [119]:
+        intervals [118]:
             xmin = 97.91802782110817 
             xmax = 98.0785780683608 
             text = "" 
-        intervals [120]:
+        intervals [119]:
             xmin = 98.0785780683608 
             xmax = 98.49024536900858 
             text = "ō" 
-        intervals [121]:
+        intervals [120]:
             xmin = 98.49024536900858 
             xmax = 98.77777948449554 
             text = "" 
-        intervals [122]:
+        intervals [121]:
             xmin = 98.77777948449554 
             xmax = 98.97537978880648 
             text = "ūn" 
-        intervals [123]:
+        intervals [122]:
             xmin = 98.97537978880648 
             xmax = 98.99596315383887 
             text = "" 
-        intervals [124]:
+        intervals [123]:
             xmin = 98.99596315383887 
             xmax = 99.23884686122106 
             text = "ín" 
-        intervals [125]:
+        intervals [124]:
             xmin = 99.23884686122106 
             xmax = 99.34999703239596 
             text = "" 
-        intervals [126]:
+        intervals [125]:
             xmin = 99.34999703239596 
             xmax = 99.53113064468099 
             text = "ū" 
-        intervals [127]:
+        intervals [126]:
             xmin = 99.53113064468099 
             xmax = 100.31627579797865 
             text = "" 
-        intervals [128]:
+        intervals [127]:
             xmin = 100.31627579797865 
             xmax = 100.57562619738675 
             text = "è" 
-        intervals [129]:
+        intervals [128]:
             xmin = 100.57562619738675 
             xmax = 100.68265969555517 
             text = "" 
-        intervals [130]:
+        intervals [129]:
             xmin = 100.68265969555517 
             xmax = 100.98729349803453 
             text = "è" 
-        intervals [131]:
+        intervals [130]:
             xmin = 100.98729349803453 
             xmax = 101.21371051339081 
             text = "" 
-        intervals [132]:
+        intervals [131]:
             xmin = 101.21371051339081 
             xmax = 101.48129425881187 
             text = "è" 
-        intervals [133]:
+        intervals [132]:
             xmin = 101.48129425881187 
             xmax = 101.54652035641742 
             text = "" 
-        intervals [134]:
+        intervals [133]:
             xmin = 101.54652035641742 
             xmax = 101.71392674247137 
             text = "è" 
-        intervals [135]:
+        intervals [134]:
             xmin = 101.71392674247137 
             xmax = 101.7203654496273 
             text = "" 
-        intervals [136]:
+        intervals [135]:
             xmin = 101.7203654496273 
             xmax = 101.87489442136942 
             text = "á" 
-        intervals [137]:
+        intervals [136]:
             xmin = 101.87489442136942 
             xmax = 101.96181696797436 
             text = "" 
-        intervals [138]:
+        intervals [137]:
             xmin = 101.96181696797436 
             xmax = 102.20004913274344 
             text = "ùùn" 
-        intervals [139]:
+        intervals [138]:
             xmin = 102.20004913274344 
             xmax = 102.36798612466936 
             text = "" 
-        intervals [140]:
+        intervals [139]:
             xmin = 102.36798612466936 
             xmax = 102.53086089809103 
             text = "ìn" 
-        intervals [141]:
+        intervals [140]:
             xmin = 102.53086089809103 
             xmax = 102.8635045952898 
             text = "" 
-        intervals [142]:
+        intervals [141]:
             xmin = 102.8635045952898 
             xmax = 102.99127837776417 
             text = "ūūn" 
-        intervals [143]:
+        intervals [142]:
             xmin = 102.99127837776417 
             xmax = 103.09775652982617 
             text = "" 
-        intervals [144]:
+        intervals [143]:
             xmin = 103.09775652982617 
             xmax = 103.20914905813717 
             text = "á" 
-        intervals [145]:
+        intervals [144]:
             xmin = 103.20914905813717 
             xmax = 103.3924239761873 
             text = "" 
-        intervals [146]:
+        intervals [145]:
             xmin = 103.3924239761873 
             xmax = 103.57097964656818 
             text = "ī" 
-        intervals [147]:
+        intervals [146]:
             xmin = 103.57097964656818 
             xmax = 105.04983939910723 
             text = "" 
-        intervals [148]:
+        intervals [147]:
             xmin = 105.04983939910723 
             xmax = 105.11209680354214 
             text = "á" 
-        intervals [149]:
+        intervals [148]:
             xmin = 105.11209680354214 
             xmax = 105.22508246344256 
             text = "" 
-        intervals [150]:
+        intervals [149]:
             xmin = 105.22508246344256 
             xmax = 105.32423314457965 
             text = "ā" 
-        intervals [151]:
+        intervals [150]:
             xmin = 105.32423314457965 
             xmax = 105.41869889409888 
             text = "" 
-        intervals [152]:
+        intervals [151]:
             xmin = 105.41869889409888 
             xmax = 105.50410477891256 
             text = "àn" 
-        intervals [153]:
+        intervals [152]:
             xmin = 105.50410477891256 
             xmax = 105.60383723767892 
             text = "" 
-        intervals [154]:
+        intervals [153]:
             xmin = 105.60383723767892 
             xmax = 105.69209447727829 
             text = "à" 
-        intervals [155]:
+        intervals [154]:
             xmin = 105.69209447727829 
             xmax = 105.72594656917941 
             text = "" 
-        intervals [156]:
+        intervals [155]:
             xmin = 105.72594656917941 
             xmax = 105.81662181534317 
             text = "à" 
-        intervals [157]:
+        intervals [156]:
             xmin = 105.81662181534317 
             xmax = 106.12565796221054 
             text = "" 
-        intervals [158]:
+        intervals [157]:
             xmin = 106.12565796221054 
             xmax = 106.1840375902618 
             text = "ī" 
-        intervals [159]:
+        intervals [158]:
             xmin = 106.1840375902618 
             xmax = 106.32748467633063 
             text = "" 
-        intervals [160]:
+        intervals [159]:
             xmin = 106.32748467633063 
             xmax = 106.47593573051813 
             text = "á" 
-        intervals [161]:
+        intervals [160]:
             xmin = 106.47593573051813 
             xmax = 106.5860230291291 
             text = "" 
-        intervals [162]:
+        intervals [161]:
             xmin = 106.5860230291291 
             xmax = 106.68276641275692 
             text = "á" 
-        intervals [163]:
+        intervals [162]:
             xmin = 106.68276641275692 
             xmax = 106.82683369441715 
             text = "" 
-        intervals [164]:
+        intervals [163]:
             xmin = 106.82683369441715 
             xmax = 106.88889159187606 
             text = "í'n" 
-        intervals [165]:
+        intervals [164]:
             xmin = 106.88889159187606 
             xmax = 107.02222924720027 
             text = "" 
-        intervals [166]:
+        intervals [165]:
             xmin = 107.02222924720027 
             xmax = 107.06101543311209 
             text = "ò" 
-        intervals [167]:
+        intervals [166]:
             xmin = 107.06101543311209 
             xmax = 107.17282361209587 
             text = "" 
-        intervals [168]:
+        intervals [167]:
             xmin = 107.17282361209587 
             xmax = 107.30469664419607 
             text = "ín" 
-        intervals [169]:
+        intervals [168]:
             xmin = 107.30469664419607 
             xmax = 108.4611369279069 
             text = "" 
-        intervals [170]:
+        intervals [169]:
             xmin = 108.4611369279069 
             xmax = 108.53978374684849 
             text = "ī" 
-        intervals [171]:
+        intervals [170]:
             xmin = 108.53978374684849 
             xmax = 108.54961459921618 
             text = "" 
-        intervals [172]:
+        intervals [171]:
             xmin = 108.54961459921618 
             xmax = 108.6806926307855 
             text = "àn" 
-        intervals [173]:
+        intervals [172]:
             xmin = 108.6806926307855 
             xmax = 108.8202279863715 
             text = "" 
-        intervals [174]:
+        intervals [173]:
             xmin = 108.8202279863715 
             xmax = 109.00865265675239 
             text = "āà" 
-        intervals [175]:
+        intervals [174]:
             xmin = 109.00865265675239 
             xmax = 109.12828234193843 
             text = "" 
-        intervals [176]:
+        intervals [175]:
             xmin = 109.12828234193843 
             xmax = 109.20037525930157 
             text = "ī" 
-        intervals [177]:
+        intervals [176]:
             xmin = 109.20037525930157 
             xmax = 109.24133714416698 
             text = "" 
-        intervals [178]:
+        intervals [177]:
             xmin = 109.24133714416698 
             xmax = 109.29212988140009 
             text = "ī" 
-        intervals [179]:
+        intervals [178]:
             xmin = 109.29212988140009 
             xmax = 109.29540683218931 
             text = "" 
-        intervals [180]:
+        intervals [179]:
             xmin = 109.29540683218931 
             xmax = 109.35603042179012 
             text = "ó" 
-        intervals [181]:
+        intervals [180]:
             xmin = 109.35603042179012 
             xmax = 109.85706234061227 
             text = "" 
-        intervals [182]:
+        intervals [181]:
             xmin = 109.85706234061227 
             xmax = 109.94226306113232 
             text = "ī" 
-        intervals [183]:
+        intervals [182]:
             xmin = 109.94226306113232 
             xmax = 110.15690333782709 
             text = "" 
-        intervals [184]:
+        intervals [183]:
             xmin = 110.15690333782709 
             xmax = 110.27978899242332 
             text = "í'" 
-        intervals [185]:
+        intervals [184]:
             xmin = 110.27978899242332 
             xmax = 110.39233488194367 
             text = "" 
-        intervals [186]:
+        intervals [185]:
             xmin = 110.39233488194367 
             xmax = 110.51358206114529 
             text = "ān" 
-        intervals [187]:
+        intervals [186]:
             xmin = 110.51358206114529 
             xmax = 110.62991381416305 
             text = "" 
-        intervals [188]:
+        intervals [187]:
             xmin = 110.62991381416305 
             xmax = 110.73641471481312 
             text = "ā" 
-        intervals [189]:
+        intervals [188]:
             xmin = 110.73641471481312 
             xmax = 110.9033440325323 
             text = "" 
-        intervals [190]:
+        intervals [189]:
             xmin = 110.9033440325323 
             xmax = 111.1605846694871 
             text = "í'" 
-        intervals [191]:
+        intervals [190]:
             xmin = 111.1605846694871 
             xmax = 111.30045474662869 
             text = "" 
-        intervals [192]:
+        intervals [191]:
             xmin = 111.30045474662869 
             xmax = 111.43480972898723 
             text = "ū'" 
-        intervals [193]:
+        intervals [192]:
             xmin = 111.43480972898723 
             xmax = 111.73301225080743 
             text = "" 
-        intervals [194]:
+        intervals [193]:
             xmin = 111.73301225080743 
             xmax = 111.79691279119747 
             text = "í'" 
-        intervals [195]:
+        intervals [194]:
             xmin = 111.79691279119747 
             xmax = 111.9465649275738 
             text = "" 
-        intervals [196]:
+        intervals [195]:
             xmin = 111.9465649275738 
             xmax = 112.0760044837485 
             text = "ā" 
-        intervals [197]:
+        intervals [196]:
             xmin = 112.0760044837485 
             xmax = 112.30165396863026 
             text = "" 
-        intervals [198]:
+        intervals [197]:
             xmin = 112.30165396863026 
             xmax = 112.36719298441493 
             text = "ìn" 
-        intervals [199]:
+        intervals [198]:
             xmin = 112.36719298441493 
             xmax = 112.47205540967038 
             text = "" 
-        intervals [200]:
+        intervals [199]:
             xmin = 112.47205540967038 
             xmax = 112.71127281728438 
             text = "à" 
-        intervals [201]:
+        intervals [200]:
             xmin = 112.71127281728438 
             xmax = 112.8718434059568 
             text = "" 
-        intervals [202]:
+        intervals [201]:
             xmin = 112.8718434059568 
             xmax = 112.95868260187147 
             text = "ū'" 
-        intervals [203]:
+        intervals [202]:
             xmin = 112.95868260187147 
             xmax = 113.11629266769911 
             text = "" 
-        intervals [204]:
+        intervals [203]:
             xmin = 113.11629266769911 
             xmax = 113.26896765559022 
             text = "'ū" 
-        intervals [205]:
+        intervals [204]:
             xmin = 113.26896765559022 
             xmax = 113.32406840309979 
             text = "" 
-        intervals [206]:
+        intervals [205]:
             xmin = 113.32406840309979 
             xmax = 113.40557159212436 
             text = "ā" 
-        intervals [207]:
+        intervals [206]:
             xmin = 113.40557159212436 
             xmax = 116.22981167199534 
             text = "" 
-        intervals [208]:
+        intervals [207]:
             xmin = 116.22981167199534 
             xmax = 116.67933738322827 
             text = "ī" 
-        intervals [209]:
+        intervals [208]:
             xmin = 116.67933738322827 
             xmax = 120.0178378310057 
             text = "" 
-        intervals [210]:
+        intervals [209]:
             xmin = 120.0178378310057 
             xmax = 120.17248574575487 
             text = "ūn" 
-        intervals [211]:
+        intervals [210]:
             xmin = 120.17248574575487 
             xmax = 120.34163190251175 
             text = "" 
-        intervals [212]:
+        intervals [211]:
             xmin = 120.34163190251175 
             xmax = 120.61226575332279 
             text = "ún'" 
-        intervals [213]:
+        intervals [212]:
             xmin = 120.61226575332279 
             xmax = 120.6605932266819 
             text = "" 
-        intervals [214]:
+        intervals [213]:
             xmin = 120.6605932266819 
             xmax = 120.92639433015701 
             text = "à" 
-        intervals [215]:
+        intervals [214]:
             xmin = 120.92639433015701 
             xmax = 122.19792453483875 
             text = "" 
-        intervals [216]:
+        intervals [215]:
             xmin = 122.19792453483875 
             xmax = 122.37190343893155 
             text = "á" 
-        intervals [217]:
+        intervals [216]:
             xmin = 122.37190343893155 
             xmax = 122.5265513536807 
             text = "" 
-        intervals [218]:
+        intervals [217]:
             xmin = 122.5265513536807 
             xmax = 122.53205546173612 
             text = "" 
-        intervals [219]:
+        intervals [218]:
             xmin = 122.53205546173612 
             xmax = 122.65511127872355 
             text = "á" 
-        intervals [220]:
+        intervals [219]:
             xmin = 122.65511127872355 
             xmax = 122.74227581575632 
             text = "" 
-        intervals [221]:
+        intervals [220]:
             xmin = 122.74227581575632 
             xmax = 123.10289772387226 
             text = "án" 
-        intervals [222]:
+        intervals [221]:
             xmin = 123.10289772387226 
             xmax = 124.1481580178696 
             text = "" 
-        intervals [223]:
+        intervals [222]:
             xmin = 124.1481580178696 
             xmax = 124.2045586006555 
             text = "ú" 
-        intervals [224]:
+        intervals [223]:
             xmin = 124.2045586006555 
             xmax = 124.33786906905856 
             text = "" 
-        intervals [225]:
+        intervals [224]:
             xmin = 124.33786906905856 
             xmax = 124.46434310318452 
             text = "ī" 
-        intervals [226]:
+        intervals [225]:
             xmin = 124.46434310318452 
             xmax = 124.58227159446415 
             text = "" 
-        intervals [227]:
+        intervals [226]:
             xmin = 124.58227159446415 
             xmax = 124.68823632575888 
             text = "ā" 
-        intervals [228]:
+        intervals [227]:
             xmin = 124.68823632575888 
             xmax = 124.76172799423748 
             text = "" 
-        intervals [229]:
+        intervals [228]:
             xmin = 124.76172799423748 
             xmax = 124.87623826837856 
             text = "ā" 
-        intervals [230]:
+        intervals [229]:
             xmin = 124.87623826837856 
             xmax = 124.98526414161394 
             text = "" 
-        intervals [231]:
+        intervals [230]:
             xmin = 124.98526414161394 
             xmax = 125.38519554682308 
             text = "ú" 
-        intervals [232]:
+        intervals [231]:
             xmin = 125.38519554682308 
             xmax = 125.63424500532844 
             text = "" 
-        intervals [233]:
+        intervals [232]:
             xmin = 125.63424500532844 
             xmax = 125.73508241091535 
             text = "ī" 
-        intervals [234]:
+        intervals [233]:
             xmin = 125.73508241091535 
             xmax = 125.7778101251471 
             text = "" 
-        intervals [235]:
+        intervals [234]:
             xmin = 125.7778101251471 
             xmax = 125.88890218214964 
             text = "ī" 
-        intervals [236]:
+        intervals [235]:
             xmin = 125.88890218214964 
             xmax = 126.03075819339904 
             text = "" 
-        intervals [237]:
+        intervals [236]:
             xmin = 126.03075819339904 
             xmax = 126.16235955323282 
             text = "í" 
-        intervals [238]:
+        intervals [237]:
             xmin = 126.16235955323282 
             xmax = 126.34900104358856 
             text = "" 
-        intervals [239]:
+        intervals [238]:
             xmin = 126.34900104358856 
             xmax = 126.43103825491352 
             text = "ò" 
-        intervals [240]:
+        intervals [239]:
             xmin = 126.43103825491352 
             xmax = 126.51646755484556 
             text = "" 
-        intervals [241]:
+        intervals [240]:
             xmin = 126.51646755484556 
             xmax = 126.66827282173614 
             text = "â" 
-        intervals [242]:
+        intervals [241]:
             xmin = 126.66827282173614 
             xmax = 127.58239831876925 
             text = "" 
-        intervals [243]:
+        intervals [242]:
             xmin = 127.58239831876925 
             xmax = 127.72018847208074 
             text = "ī" 
-        intervals [244]:
+        intervals [243]:
             xmin = 127.72018847208074 
             xmax = 127.86624603459092 
             text = "" 
-        intervals [245]:
+        intervals [244]:
             xmin = 127.86624603459092 
             xmax = 127.96545494497518 
             text = "ò" 
-        intervals [246]:
+        intervals [245]:
             xmin = 127.96545494497518 
             xmax = 128.06466385535944 
             text = "" 
-        intervals [247]:
+        intervals [246]:
             xmin = 128.06466385535944 
             xmax = 128.14182634121389 
             text = "á" 
-        intervals [248]:
+        intervals [247]:
             xmin = 128.14182634121389 
             xmax = 128.23001203933325 
             text = "" 
-        intervals [249]:
+        intervals [248]:
             xmin = 128.23001203933325 
             xmax = 128.29890711598898 
             text = "án" 
-        intervals [250]:
+        intervals [249]:
             xmin = 128.29890711598898 
             xmax = 128.42567405703554 
             text = "" 
-        intervals [251]:
+        intervals [250]:
             xmin = 128.42567405703554 
             xmax = 128.56622001341327 
             text = "à'" 
-        intervals [252]:
+        intervals [251]:
             xmin = 128.56622001341327 
             xmax = 128.6048012563405 
             text = "" 
-        intervals [253]:
+        intervals [252]:
             xmin = 128.6048012563405 
             xmax = 128.70676596979098 
             text = "'à" 
-        intervals [254]:
+        intervals [253]:
             xmin = 128.70676596979098 
             xmax = 128.8087306832415 
             text = "" 
-        intervals [255]:
+        intervals [254]:
             xmin = 128.8087306832415 
             xmax = 128.90793959362574 
             text = "à" 
-        intervals [256]:
+        intervals [255]:
             xmin = 128.90793959362574 
             xmax = 129.06226456533463 
             text = "" 
-        intervals [257]:
+        intervals [256]:
             xmin = 129.06226456533463 
             xmax = 129.23312435544088 
             text = "ī" 
-        intervals [258]:
+        intervals [257]:
             xmin = 129.23312435544088 
             xmax = 129.35716145052015 
             text = "" 
-        intervals [259]:
+        intervals [258]:
             xmin = 129.35716145052015 
             xmax = 129.50046320996412 
             text = "ī" 
-        intervals [260]:
+        intervals [259]:
             xmin = 129.50046320996412 
             xmax = 129.62723015101068 
             text = "" 
-        intervals [261]:
+        intervals [260]:
             xmin = 129.62723015101068 
             xmax = 129.88351983617005 
             text = "'á" 
-        intervals [262]:
+        intervals [261]:
             xmin = 129.88351983617005 
             xmax = 3097.876 
             text = "" 

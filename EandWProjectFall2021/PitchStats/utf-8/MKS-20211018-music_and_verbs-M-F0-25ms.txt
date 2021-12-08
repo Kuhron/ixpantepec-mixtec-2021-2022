@@ -1,0 +1,1679 @@
+start
+7 = MKS-20211018-music_and_verbs-M
+4 = MKS-20211018-music_and_verbs-M_mono
+Pitch object already exists
+Pitch object ID is 6
+4 tiers
+Tier number 1 is named IU
+Tier number 2 is named word
+Tier number 3 is named Vowel
+Tier number 4 is named Vowel1
+The vowel tier has number 3
+interval #2	label: ì	start: 28.7792031355525	end: 28.8463229397771
+step #1/2	fMin: 101.58587125950956	fMax: 102.3910653395692	fMean: 102.04275903242667	stdev: 0.3338938366181176
+step #2/2	fMin: 99.83812567245086	fMax: 102.29117794296273	fMean: 101.18964390129989	stdev: 0.8446952531969263
+interval #4	label: ì	start: 28.901841790185102	end: 28.96979023396803
+step #1/2	fMin: 179.5504981327016	fMax: 183.7126621560357	fMean: 182.8200216883551	stdev: 1.1238898030493036
+step #2/2	fMin: 181.31700726046085	fMax: 184.1445384083376	fMean: 182.05466785449147	stdev: 0.8426997445290937
+interval #6	label: í	start: 29.058374812752785	end: 29.15201108284389
+step #1/3	fMin: 236.8319711636621	fMax: 263.4122355278931	fMean: 259.4941883625767	stdev: 6.845226756935154
+step #2/3	fMin: 263.28342153665557	fMax: 264.0309121667939	fMean: 263.74626103704435	stdev: 0.22786833541401733
+step #3/3	fMin: 259.03732049526803	fMax: 263.2834215366547	fMean: 261.08964136268116	stdev: 1.3877386219233123
+interval #8	label: ī	start: 29.284982854974803	end: 29.424194300773973
+step #1/5	fMin: 240.1080161884529	fMax: 249.3249309198016	fMean: 243.24230183432647	stdev: 3.5803174536815834
+step #2/5	fMin: 236.78610117163328	fMax: 240.21178727685887	fMean: 238.54574480707453	stdev: 1.1904126431941688
+step #3/5	fMin: 234.81616407684365	fMax: 236.78610117163328	fMean: 235.60319473037214	stdev: 0.5548712956400964
+step #4/5	fMin: 231.25242302149195	fMax: 234.81616407684365	fMean: 233.02209883427344	stdev: 1.1278876837322485
+step #5/5	fMin: 224.2200763120367	fMax: 231.25242302149195	fMean: 228.08597595645676	stdev: 2.1110642098129038
+interval #11	label: ān	start: 32.2865383336993	end: 32.385086763971216
+step #1/3	fMin: 189.88897232296847	fMax: 205.84476951999775	fMean: 196.8168597107684	stdev: 5.099808738526676
+step #2/3	fMin: 175.14518665207845	fMax: 189.88897232296847	fMean: 182.3702712612417	stdev: 4.614030323262606
+step #3/3	fMin: 166.32291628823592	fMax: 175.14518665207845	fMean: 170.2776157294854	stdev: 2.7411927912759
+interval #13	label: 'òn	start: 32.449652976907984	end: 32.60597117664964
+step #1/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #4/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #5/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #6/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #15	label: 'ón	start: 32.77248404159184	end: 32.96278445866864
+step #1/7	fMin: 186.41411177855377	fMax: 189.75733945415993	fMean: 188.0798277825187	stdev: 1.4447468751672814
+step #2/7	fMin: 185.54356049314455	fMax: 186.59777718562626	fMean: 186.06839781267513	stdev: 0.3615546594598478
+step #3/7	fMin: 186.02861568299838	fMax: 187.54576301536318	fMean: 186.97409341696718	stdev: 0.4745311749268021
+step #4/7	fMin: 185.87861754638476	fMax: 187.2592943315474	fMean: 186.7559513357111	stdev: 0.46447333458817164
+step #5/7	fMin: 182.50984053485723	fMax: 185.87861754638476	fMean: 184.5286365930215	stdev: 1.0534117297268144
+step #6/7	fMin: 177.59760650214403	fMax: 182.50984053485723	fMean: 180.0854924579636	stdev: 1.640966316098427
+step #7/7	fMin: 172.3155687086014	fMax: 177.59760650214403	fMean: 174.95588801976695	stdev: 1.810260590155161
+interval #17	label: ī	start: 33.2142528669487	end: 33.39096039709143
+step #1/7	fMin: 148.75812364318602	fMax: 148.93840269480222	fMean: 148.82417966770421	stdev: 0.07222803526949662
+step #2/7	fMin: 148.41055440014188	fMax: 149.22907967608757	fMean: 149.00982763817217	stdev: 0.23450629171255533
+step #3/7	fMin: 147.12250483974978	fMax: 148.41055440014188	fMean: 147.44830858210344	stdev: 0.369231798374996
+step #4/7	fMin: 147.68953503498727	fMax: 148.05518633554658	fMean: 147.8348010779903	stdev: 0.1411650728916615
+step #5/7	fMin: 147.71546506320038	fMax: 147.92639545956138	fMean: 147.79054577867996	stdev: 0.0838436511346073
+step #6/7	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #7/7	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #19	label: ō	start: 34.03641513557132	end: 34.10777779197512
+step #1/2	fMin: 166.40638106798704	fMax: 188.3736814447803	fMean: 173.3433934967622	stdev: 9.10915481153327
+step #2/2	fMin: 184.04376256915916	fMax: 189.96580029296925	fMean: 187.85298208265618	stdev: 1.9195233347668987
+interval #21	label: ú	start: 34.298078209051916	end: 34.423812413191946
+step #1/5	fMin: 252.31126483634384	fMax: 267.7404291229941	fMean: 262.2341293539588	stdev: 5.636421597257724
+step #2/5	fMin: 267.16772899802015	fMax: 269.09803661270314	fMean: 268.0494456693719	stdev: 0.7408066771088068
+step #3/5	fMin: 269.09803661270314	fMax: 270.96632842737455	fMean: 269.90224984934775	stdev: 0.5467897326745574
+step #4/5	fMin: 270.9663284273755	fMax: 271.56227659986473	fMean: 271.3528104623165	stdev: 0.17318774406470677
+step #5/5	fMin: 264.6464649882028	fMax: 271.0647077021484	fMean: 268.70227140713746	stdev: 2.1780785772845195
+interval #23	label: én	start: 34.5801306129336	end: 34.673310415715356
+step #1/3	fMin: 267.9595150182179	fMax: 270.2487155284511	fMean: 268.8755907382408	stdev: 0.8339577857906934
+step #2/3	fMin: 268.03955440983157	fMax: 269.8095160915157	fMean: 268.9652711478551	stdev: 0.4985281384084738
+step #3/3	fMin: 269.8095160915157	fMax: 270.5365479620315	fMean: 270.16401221681326	stdev: 0.25671376885423497
+interval #25	label: á	start: 35.03212143903292	end: 35.076312361095745
+step #1/1	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #27	label: à'	start: 35.178697720037526	end: 35.29450841234011
+step #1/4	fMin: 238.09726831234266	fMax: 268.88510333337933	fMean: 249.70651320594382	stdev: 9.059900230773332
+step #2/4	fMin: 215.7779847287607	fMax: 238.09726831234266	fMean: 227.1245179396351	stdev: 7.337580247804744
+step #3/4	fMin: 190.17579944550613	fMax: 215.7779847287607	fMean: 203.42910448448225	stdev: 8.061832100336046
+step #4/4	fMin: 169.05260714916363	fMax: 190.17579944549828	fMean: 179.92266799764246	stdev: 6.8162553293337504
+interval #29	label: ē	start: 35.334343882285786	end: 35.42196381396208
+step #1/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #31	label: ī	start: 36.73379972405548	end: 36.8135662243679
+step #1/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #33	label: één	start: 36.91432390897306	end: 37.067559554310066
+step #1/6	fMin: 215.07294296060562	fMax: 230.5166044472418	fMean: 218.98275644525228	stdev: 5.363302628332473
+step #2/6	fMin: 230.5166044472418	fMax: 243.9612139912622	fMean: 239.4477040396328	stdev: 3.7322191849813318
+step #3/6	fMin: 243.9612139912622	fMax: 248.21204271354605	fMean: 246.5664480329087	stdev: 1.2307511550550516
+step #4/6	fMin: 248.21204271354685	fMax: 250.94405552050804	fMean: 249.52137733915959	stdev: 0.8600241572970223
+step #5/6	fMin: 250.94405552050804	fMax: 252.9170869340033	fMean: 251.93757022954813	stdev: 0.6729873683100037
+step #6/6	fMin: 110.70483379158037	fMax: 265.25152958128143	fMean: 227.67818224378018	stdev: 52.18090487408773
+interval #35	label: á	start: 37.16621812048595	end: 37.294264344671674
+step #1/5	fMin: 261.66507204911994	fMax: 264.23175014629084	fMean: 263.19987195796534	stdev: 0.7666665125769636
+step #2/5	fMin: 260.81029405343315	fMax: 261.66507204911994	fMean: 260.98700392575927	stdev: 0.2467178617003882
+step #3/5	fMin: 260.9303679236319	fMax: 263.14733497822016	fMean: 262.2271244147953	stdev: 0.7944194391911613
+step #4/5	fMin: 262.9630678942174	fMax: 263.34491283309103	fMean: 263.150094034008	stdev: 0.1338720898794966
+step #5/5	fMin: 259.51349314762393	fMax: 263.15894982629356	fMean: 261.9374019411722	stdev: 1.2450185028426528
+interval #38	label: á'	start: 39.045813785468745	end: 39.15971243011175
+step #1/4	fMin: 288.4094469834988	fMax: 294.27511409203004	fMean: 291.21626879343853	stdev: 2.5763158626557785
+step #2/4	fMin: 294.27511409203004	fMax: 298.03672849254133	fMean: 296.9584153794566	stdev: 1.0300341723376834
+step #3/4	fMin: 289.7716571049129	fMax: 296.3861038122805	fMean: 294.24696980297483	stdev: 2.1325202312949707
+step #4/4	fMin: 287.1567881819913	fMax: 289.77165710490954	fMean: 287.8912577056013	stdev: 0.9917412694163102
+interval #40	label: 'àn	start: 39.2664154599011	end: 39.58851615351607
+step #1/12	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/12	fMin: 90.20426802721474	fMax: 90.37820397278989	fMean: 90.28944871512707	stdev: 0.08456984919252351
+step #3/12	fMin: 84.04204850461849	fMax: 90.96327328163738	fMean: 86.09576825452386	stdev: 1.8763669806010195
+step #4/12	fMin: 82.6143637064844	fMax: 84.04204850461804	fMean: 83.2060025376264	stdev: 0.41624547159973574
+step #5/12	fMin: 80.65796221486303	fMax: 82.6143637064844	fMean: 81.65877523751021	stdev: 0.6734295270831019
+step #6/12	fMin: 79.22182477146002	fMax: 80.65796221486303	fMean: 79.73125715349673	stdev: 0.490493388536608
+step #7/12	fMin: 78.68806897678371	fMax: 79.40920927617148	fMean: 79.2393183258506	stdev: 0.179323644683761
+step #8/12	fMin: 78.06738730153143	fMax: 78.68806897678371	fMean: 78.37731428265242	stdev: 0.3382737580016698
+step #9/12	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #10/12	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #11/12	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #12/12	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #42	label: ín'	start: 40.882943143567616	end: 41.04082624593716
+step #1/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #4/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #5/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #6/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #44	label: 'ín	start: 41.12341125333046	end: 41.27400744328295
+step #1/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #4/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #5/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #6/6	fMin: 242.18922495148172	fMax: 248.7268147470126	fMean: 246.0691844734753	stdev: 2.2481970749053843
+interval #46	label: á'	start: 41.520694432485044	end: 41.61785326471246
+step #1/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/3	fMin: 243.2178808412953	fMax: 251.85413308830118	fMean: 245.9365026219738	stdev: 3.6319825856088896
+interval #48	label: 'í	start: 41.773307396276316	end: 42.057496980541494
+step #1/11	fMin: 89.46290351221934	fMax: 89.49568750634856	fMean: 89.47102639006106	stdev: --undefined--
+step #2/11	fMin: 89.48607320123789	fMax: 92.92413564867819	fMean: 90.16076223320148	stdev: 1.0399553414333798
+step #3/11	fMin: 92.26708071112823	fMax: 98.05075729786317	fMean: 95.44698007573926	stdev: 1.928736850322743
+step #4/11	fMin: 90.4284574572949	fMax: 92.38044426904634	fMean: 91.90593254199955	stdev: 0.6699437407345965
+step #5/11	fMin: 90.35304175445316	fMax: 90.43055543136605	fMean: 90.39583229269033	stdev: 0.0425768383870026
+step #6/11	fMin: 90.28176695731729	fMax: 90.44807468116562	fMean: 90.35941794753879	stdev: 0.05446494121679608
+step #7/11	fMin: 90.12841720441943	fMax: 91.25589012792581	fMean: 90.4309601137962	stdev: 0.3634738739397583
+step #8/11	fMin: 91.25589012792581	fMax: 91.75078851692236	fMean: 91.5791075871305	stdev: 0.17322451202448594
+step #9/11	fMin: 91.2405398956923	fMax: 91.70162441407076	fMean: 91.52839280103848	stdev: 0.14815732336390472
+step #10/11	fMin: 90.5035805419973	fMax: 91.2405398956923	fMean: 91.01986369732766	stdev: 0.2520042721689278
+step #11/11	fMin: 89.7291185858213	fMax: 90.5035805419973	fMean: 90.09092090309882	stdev: 0.31322872858001377
+interval #50	label: ā	start: 43.2612485394619	end: 43.349722547579496
+step #1/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/3	fMin: 247.777836083426	fMax: 264.0658443681001	fMean: 253.9404985874177	stdev: 5.4783701305892
+step #3/3	fMin: 264.0658443681001	fMax: 269.2298493971006	fMean: 267.9535627080899	stdev: 1.3826986354488815
+interval #52	label: ín	start: 43.534363955824915	end: 43.69592518803966
+step #1/6	fMin: 340.17535303993463	fMax: 343.4729098895062	fMean: 342.32160851953597	stdev: 1.1990196232453922
+step #2/6	fMin: 334.66641179958634	fMax: 342.6364131946516	fMean: 338.7808684698485	stdev: 2.5875368241903294
+step #3/6	fMin: 324.92199358336313	fMax: 334.66641179958634	fMean: 329.5924176230711	stdev: 2.926291777229562
+step #4/6	fMin: 311.0873310108549	fMax: 324.92199358336086	fMean: 318.3341712218771	stdev: 4.488224494046111
+step #5/6	fMin: 281.5610555663287	fMax: 311.0873310108549	fMean: 300.21891682700516	stdev: 10.083415494804907
+step #6/6	fMin: 262.95584834104835	fMax: 283.69985572546227	fMean: 276.10360469728516	stdev: 7.478412318906593
+interval #54	label: ōn	start: 43.772859108141915	end: 43.88056659628508
+step #1/4	fMin: 183.09892539934626	fMax: 184.26273621239454	fMean: 183.8939711584257	stdev: 0.3704472049865208
+step #2/4	fMin: 182.32586726807347	fMax: 183.09892539934626	fMean: 182.7078802837817	stdev: 0.20022824599316197
+step #3/4	fMin: 182.58407837476298	fMax: 183.43800637147734	fMean: 183.04287066670582	stdev: 0.3128910889903204
+step #4/4	fMin: 183.34391959581305	fMax: 183.81070365955634	fMean: 183.70184832852675	stdev: 0.12182893056325692
+interval #56	label: āā	start: 44.080165125404044	end: 44.522535165992025
+step #1/17	fMin: 251.15517131997544	fMax: 261.39252607499947	fMean: 256.40565535369257	stdev: 4.086724728144459
+step #2/17	fMin: 256.1341867892229	fMax: 262.0217308358654	fMean: 260.32303652540367	stdev: 1.7048388684186255
+step #3/17	fMin: 246.1760994335076	fMax: 256.1341867892229	fMean: 249.81304786947877	stdev: 2.938984585608631
+step #4/17	fMin: 235.2432521372095	fMax: 246.1760994335058	fMean: 241.3187752027358	stdev: 3.640818428154672
+step #5/17	fMin: 227.46033776332268	fMax: 235.2432521372095	fMean: 230.90734581387952	stdev: 2.311359755930027
+step #6/17	fMin: 221.87874882047237	fMax: 227.46033776332268	fMean: 224.48893592695833	stdev: 1.7011114659068491
+step #7/17	fMin: 216.8690982456121	fMax: 221.87874882047237	fMean: 219.5296639983193	stdev: 1.6868998002387439
+step #8/17	fMin: 105.42853325959618	fMax: 216.8690982456121	fMean: 154.9291129881247	stdev: 58.703819638255425
+step #9/17	fMin: 103.52489722206049	fMax: 105.42853325959605	fMean: 104.38111047488864	stdev: 0.6672654059701157
+step #10/17	fMin: 102.9032061171992	fMax: 103.52489722206049	fMean: 103.17509327162398	stdev: 0.15563435871656453
+step #11/17	fMin: 102.7113637472438	fMax: 102.97795708499035	fMean: 102.85882555953135	stdev: 0.08043285268296886
+step #12/17	fMin: 89.79204272456401	fMax: 217.90536597070468	fMean: 172.75455550732516	stdev: 50.88462065001422
+step #13/17	fMin: 203.81703650556315	fMax: 204.38728185492187	fMean: 204.1125953423707	stdev: 0.2039807023108552
+step #14/17	fMin: 202.59915410789864	fMax: 204.02744637952392	fMean: 203.0556158008524	stdev: 0.43387315745348976
+step #15/17	fMin: 202.28848469179908	fMax: 202.82894350391257	fMean: 202.59594514188734	stdev: 0.2085588705977428
+step #16/17	fMin: 201.85975996598557	fMax: 202.8051760183411	fMean: 202.37413386851577	stdev: 0.3194281771762927
+step #17/17	fMin: 199.09174942936104	fMax: 202.2076486395867	fMean: 201.2294716626041	stdev: 0.9815734378854197
+interval #58	label: ā	start: 45.457776681268946	end: 45.55009738539166
+step #1/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/3	fMin: 266.55867064722617	fMax: 271.26371716550216	fMean: 268.4340234918027	stdev: 1.7673243929851046
+step #3/3	fMin: 271.0380360786309	fMax: 272.4623132965753	fMean: 271.7894207872471	stdev: 0.5285221469105621
+interval #60	label: è	start: 45.82321280175467	end: 45.9193802018825
+step #1/3	fMin: 187.76862836625295	fMax: 191.22885999901217	fMean: 189.6572987326843	stdev: 1.2546587833905338
+step #2/3	fMin: 173.8708781975304	fMax: 189.13426213077298	fMean: 181.08959205073552	stdev: 5.212776163536155
+step #3/3	fMin: 158.99688187959273	fMax: 173.8708781975304	fMean: 168.14080853252528	stdev: 3.8169316100079502
+interval #62	label: 'ón	start: 46.08478813010235	end: 46.56947182674658
+step #1/19	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/19	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/19	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #4/19	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #5/19	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #6/19	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #7/19	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #8/19	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #9/19	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #10/19	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #11/19	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #12/19	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #13/19	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #14/19	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #15/19	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #16/19	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #17/19	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #18/19	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #19/19	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #64	label: āā	start: 46.8650014803219	end: 47.280444648874095
+step #1/16	fMin: 219.03772995040214	fMax: 220.07595879372138	fMean: 219.52848845078697	stdev: 0.47018582560328664
+step #2/16	fMin: 217.1907590508021	fMax: 219.03772995040214	fMean: 218.07317092836664	stdev: 0.5977795520330431
+step #3/16	fMin: 213.67611344714643	fMax: 217.1907590508021	fMean: 215.75190942882358	stdev: 1.2118785872691011
+step #4/16	fMin: 209.64116140783165	fMax: 213.67611344714504	fMean: 212.04177379155158	stdev: 1.1938782934304304
+step #5/16	fMin: 206.20910193344332	fMax: 209.64116140783165	fMean: 207.572110129772	stdev: 1.2507392845928331
+step #6/16	fMin: 205.93016301984622	fMax: 207.73109885951607	fMean: 206.5349126330975	stdev: 0.697495683476545
+step #7/16	fMin: 207.2889631287378	fMax: 208.1390450155214	fMean: 207.79894435717836	stdev: 0.27485920059019275
+step #8/16	fMin: 206.8911688478503	fMax: 207.81305674541068	fMean: 207.4565881267809	stdev: 0.27728225677697216
+step #9/16	fMin: 206.61009244373366	fMax: 206.9471303647421	fMean: 206.80561174911398	stdev: 0.11646448416448575
+step #10/16	fMin: 206.3227819766608	fMax: 206.7561166143207	fMean: 206.52185848411486	stdev: 0.20985449373999462
+step #11/16	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #12/16	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #13/16	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #14/16	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #15/16	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #16/16	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #66	label: ī	start: 50.04177723313067	end: 50.592561316387794
+step #1/22	fMin: 220.77310881893857	fMax: 231.82738367626882	fMean: 223.9565024637466	stdev: 3.222047862582225
+step #2/22	fMin: 217.18063840659966	fMax: 220.87535432562288	fMean: 219.22481632213433	stdev: 1.3536892588015812
+step #3/22	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #4/22	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #5/22	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #6/22	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #7/22	fMin: 102.69695569865124	fMax: 103.95720708506285	fMean: 103.21582817720648	stdev: 0.44603027615577717
+step #8/22	fMin: 103.95720708506285	fMax: 104.17026487878694	fMean: 104.08818334090289	stdev: 0.08737989440581279
+step #9/22	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #10/22	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #11/22	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #12/22	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #13/22	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #14/22	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #15/22	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #16/22	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #17/22	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #18/22	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #19/22	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #20/22	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #21/22	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #22/22	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #68	label: á	start: 50.71335296725621	end: 50.7894123849432
+step #1/3	fMin: 224.7108807429945	fMax: 244.6915240362929	fMean: 236.34695842226546	stdev: 6.320189947833636
+step #2/3	fMin: 244.6915240362929	fMax: 255.908742228508	fMean: 249.6849325667916	stdev: 3.6057417047780964
+step #3/3	fMin: 255.908742228508	fMax: 257.7006046728161	fMean: 257.193810095934	stdev: --undefined--
+interval #70	label: án	start: 50.92720312442714	end: 51.0341282030126
+step #1/4	fMin: 232.84808292530644	fMax: 233.97894918158266	fMean: 233.3767429825952	stdev: 0.467072761392706
+step #2/4	fMin: 228.97658300095443	fMax: 234.12072087431204	fMean: 232.18058448653838	stdev: 1.836564721528577
+step #3/4	fMin: 225.59504789839923	fMax: 228.97658300095443	fMean: 227.93683655480896	stdev: 0.9995042225138221
+step #4/4	fMin: 224.44725844999473	fMax: 225.59504789839824	fMean: 225.013227595492	stdev: 0.28797074009088514
+interval #72	label: ī	start: 51.12161235821888	end: 51.204236282580375
+step #1/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #74	label: à	start: 51.32806740309617	end: 51.38240942415154
+step #1/2	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/2	fMin: 249.25819947053034	fMax: 265.41081028145555	fMean: 258.3913983827408	stdev: 5.572471112558627
+interval #76	label: ì	start: 51.46211105503276	end: 51.55268109012505
+step #1/3	fMin: 243.23766380070953	fMax: 256.829131114146	fMean: 250.43939696764514	stdev: 4.4999958425376425
+step #2/3	fMin: 229.4430472905073	fMax: 243.23766380070953	fMean: 236.7627103071235	stdev: 4.3305241712542575
+step #3/3	fMin: 216.73867928263974	fMax: 229.4430472905073	fMean: 223.6833506306772	stdev: 4.260601073817938
+interval #78	label: íín	start: 51.57079509714351	end: 51.639628323813646
+step #1/2	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/2	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #80	label: ī	start: 51.72295275609856	end: 51.770049174346546
+step #1/1	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #82	label: ī	start: 51.9185840318979	end: 51.994662861375424
+step #1/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #84	label: í	start: 52.06349608804557	end: 52.10696970488987
+step #1/1	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #86	label: à'	start: 52.21203094559693	end: 52.346074597533516
+step #1/5	fMin: 223.03180082990727	fMax: 242.57511709113282	fMean: 231.40949341323028	stdev: 8.00269807720097
+step #2/5	fMin: 215.42419987682248	fMax: 223.03180082990727	fMean: 219.22419121848463	stdev: 2.6851142986135135
+step #3/5	fMin: 206.14040948978752	fMax: 215.42419987682248	fMean: 210.24505477297637	stdev: 3.1482270817992495
+step #4/5	fMin: 204.633411244901	fMax: 206.14040948978635	fMean: 205.09788239040353	stdev: 0.387235269748454
+step #5/5	fMin: 204.62116468296176	fMax: 205.26590397878016	fMean: 204.91330911039339	stdev: 0.28111199111973906
+interval #88	label: 'īn	start: 52.48022054780041	end: 52.55629937727793
+step #1/3	fMin: 226.27304995999552	fMax: 228.71179393970644	fMean: 227.79480211313683	stdev: --undefined--
+step #2/3	fMin: 220.07063185803617	fMax: 226.27304995999552	fMean: 223.1488090564582	stdev: 2.14476569533915
+step #3/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #90	label: ìn'	start: 52.71570263904036	end: 52.828009482554805
+step #1/4	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/4	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/4	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #4/4	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #92	label: 'àn	start: 52.91133391483971	end: 53.085228382216904
+step #1/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/6	fMin: 131.08548567766397	fMax: 132.02713470570671	fMean: 131.5301644044056	stdev: 0.4230425398639765
+step #3/6	fMin: 131.483925827014	fMax: 132.57116122895468	fMean: 132.18679916697576	stdev: 0.36940459761093214
+step #4/6	fMin: 131.37394141581422	fMax: 132.01910130857735	fMean: 131.71536404088536	stdev: 0.2271997858729127
+step #5/6	fMin: 131.59943670324006	fMax: 131.95982898319738	fMean: 131.84086176427385	stdev: 0.12499728934573552
+step #6/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #94	label: òn	start: 56.41025627570883	end: 56.502104255015674
+step #1/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #96	label: ú	start: 56.657249112855496	end: 56.76929817685093
+step #1/4	fMin: 249.59074713266457	fMax: 265.9245815803208	fMean: 257.12421764094023	stdev: 5.5350279159917015
+step #2/4	fMin: 265.9245815803208	fMax: 276.6588088612076	fMean: 271.98164180932935	stdev: 3.5957395323637873
+step #3/4	fMin: 276.6588088612076	fMax: 282.2394967942222	fMean: 279.6764368067379	stdev: 1.8870668007382216
+step #4/4	fMin: 276.3101138058573	fMax: 282.9048692155147	fMean: 280.625249217263	stdev: 2.5155961754696565
+interval #98	label: ān'	start: 56.912950822998916	end: 56.97041188145811
+step #1/2	fMin: 213.72012598447466	fMax: 218.56382174650568	fMean: 217.02621829274096	stdev: 1.6374816882195684
+step #2/2	fMin: 196.15331010476177	fMax: 213.72012598447466	fMean: 205.59590650548054	stdev: 5.478525371964472
+interval #100	label: 'īn	start: 56.98765019899587	end: 57.11693758052906
+step #1/5	fMin: 169.85144935868914	fMax: 182.42232304642496	fMean: 175.49216153197872	stdev: 4.39631786445345
+step #2/5	fMin: 169.85144935868914	fMax: 169.85144935868914	fMean: 169.85144935868914	stdev: --undefined--
+step #3/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #4/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #5/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #102	label: a	start: 57.22324053867857	end: 57.34678181436584
+step #1/4	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/4	fMin: 180.2964841631644	fMax: 180.2964841631644	fMean: 180.2964841631644	stdev: --undefined--
+step #3/4	fMin: 180.2964841631644	fMax: 193.5546858726833	fMean: 186.34928137044855	stdev: 4.858241019749406
+step #4/4	fMin: 193.5546858726833	fMax: 210.56089781004908	fMean: 202.58524100389582	stdev: 5.7503053030077185
+interval #104	label: ú	start: 58.030796797918725	end: 58.11411533268456
+step #1/3	fMin: 274.7213979253034	fMax: 278.0929312307428	fMean: 276.04085585279216	stdev: 1.1228110905220259
+step #2/3	fMin: 278.0929312307428	fMax: 285.27768461377906	fMean: 282.31729603944774	stdev: 2.241165202606804
+step #3/3	fMin: 280.95463330108925	fMax: 285.4453076888489	fMean: 283.95906202065106	stdev: 1.4416160985468338
+interval #106	label: í	start: 58.295117666831025	end: 58.3755631486739
+step #1/3	fMin: 250.15931469651628	fMax: 299.39695256401455	fMean: 269.0057127982777	stdev: 17.67268309289872
+step #2/3	fMin: 224.10856367465524	fMax: 250.15931469651628	fMean: 238.0859963189078	stdev: 7.710776652534965
+step #3/3	fMin: 222.5886438401129	fMax: 224.10856367465524	fMean: 223.07016895677563	stdev: --undefined--
+interval #108	label: ò	start: 58.524961900667805	end: 58.616899594202515
+step #1/3	fMin: 169.27879519353695	fMax: 177.33849606834758	fMean: 172.90687278673818	stdev: 2.842873469242834
+step #2/3	fMin: 159.8368875682466	fMax: 169.27879519353695	fMean: 164.72570511129626	stdev: 2.9871378568605302
+step #3/3	fMin: 152.37606208453116	fMax: 159.8368875682466	fMean: 156.33863817366603	stdev: 2.764787840544707
+interval #110	label: í	start: 58.80082980270443	end: 58.87840223162434
+step #1/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #112	label: íh	start: 59.03760306291064	end: 59.130567709333974
+step #1/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #114	label: ō	start: 59.14709475758701	end: 59.24005940401035
+step #1/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #116	label: í	start: 59.46937219852125	end: 59.54580979669155
+step #1/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #118	label: ú	start: 59.626379156925104	end: 59.73173908953822
+step #1/4	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/4	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/4	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #4/4	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #120	label: ī	start: 59.88668016691045	end: 59.98997421849194
+step #1/4	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/4	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/4	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #4/4	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #122	label: ò	start: 60.118245776023855	end: 60.176090444909484
+step #1/2	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/2	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #123	label:  	start: 60.176090444909484	end: 62.92587931680529
+step #1/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #4/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #5/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #6/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #7/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #8/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #9/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #10/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #11/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #12/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #13/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #14/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #15/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #16/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #17/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #18/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #19/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #20/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #21/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #22/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #23/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #24/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #25/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #26/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #27/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #28/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #29/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #30/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #31/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #32/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #33/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #34/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #35/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #36/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #37/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #38/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #39/109	fMin: 173.64321712822746	fMax: 178.66975797857316	fMean: 175.91536799941838	stdev: 1.9980153936710139
+step #40/109	fMin: 171.73294949728668	fMax: 174.5039196730216	fMean: 173.46388762979936	stdev: 0.9496336686143286
+step #41/109	fMin: 167.69382927757135	fMax: 171.73294949728668	fMean: 169.7710748361421	stdev: 1.2892027995283735
+step #42/109	fMin: 164.2376034616382	fMax: 167.69382927757135	fMean: 165.51255760460924	stdev: 1.13701399114518
+step #43/109	fMin: 164.2376034616382	fMax: 164.2376034616382	fMean: 164.2376034616382	stdev: --undefined--
+step #44/109	fMin: 167.86710975614628	fMax: 168.89926658388478	fMean: 168.12933413910477	stdev: 0.36158056323782223
+step #45/109	fMin: 168.89926658388478	fMax: 170.93626202804563	fMean: 170.19232464727705	stdev: 0.5999938218488251
+step #46/109	fMin: 170.93626202804563	fMax: 172.55344651322872	fMean: 171.9999216549208	stdev: 0.5316165728135683
+step #47/109	fMin: 170.12756247682404	fMax: 172.61712301302978	fMean: 171.6606944567351	stdev: 0.8828937835795467
+step #48/109	fMin: 166.82508342406894	fMax: 170.12756247682404	fMean: 168.60774115411616	stdev: 1.115860783836436
+step #49/109	fMin: 165.8310704625851	fMax: 166.82508342406797	fMean: 166.0583747992585	stdev: 0.38514007881066414
+step #50/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #51/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #52/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #53/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #54/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #55/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #56/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #57/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #58/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #59/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #60/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #61/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #62/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #63/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #64/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #65/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #66/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #67/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #68/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #69/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #70/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #71/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #72/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #73/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #74/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #75/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #76/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #77/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #78/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #79/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #80/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #81/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #82/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #83/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #84/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #85/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #86/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #87/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #88/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #89/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #90/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #91/109	fMin: 204.44716500093267	fMax: 205.63682436647105	fMean: 205.00765954196245	stdev: 0.6353340183516649
+step #92/109	fMin: 205.63682436647105	fMax: 207.91237165430766	fMean: 206.67241394111218	stdev: 0.5902092995600033
+step #93/109	fMin: 207.91237165430766	fMax: 210.96874013749755	fMean: 210.16871638527113	stdev: 0.9774464673399111
+step #94/109	fMin: 210.4883940800072	fMax: 211.3801022771533	fMean: 210.77282048188576	stdev: 0.2767982409232005
+step #95/109	fMin: 209.53307541022195	fMax: 211.70887095362764	fMean: 210.4426843815866	stdev: 0.9083670175433881
+step #96/109	fMin: 209.42512378129075	fMax: 210.80896517963606	fMean: 210.1725188255879	stdev: 0.5509302361459671
+step #97/109	fMin: 210.65487245772815	fMax: 211.91979259538715	fMean: 211.38180104607454	stdev: 0.3538268574696919
+step #98/109	fMin: 211.1438166650371	fMax: 212.7194282098592	fMean: 211.9894377297575	stdev: 0.46903412363928204
+step #99/109	fMin: 212.3406980627516	fMax: 212.981610655295	fMean: 212.64182868906926	stdev: 0.22772170894876997
+step #100/109	fMin: 212.05530581114488	fMax: 212.57275901586195	fMean: 212.35562016618445	stdev: 0.18452854390165555
+step #101/109	fMin: 211.47413352691143	fMax: 212.98089343204188	fMean: 212.49630406825912	stdev: 0.4835647307431611
+step #102/109	fMin: 205.8987169168488	fMax: 211.47413352691143	fMean: 208.5316076322773	stdev: 1.8568378846687752
+step #103/109	fMin: 205.29846792933742	fMax: 205.8987169168488	fMean: 205.43273744096382	stdev: 0.3432366867722326
+step #104/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #105/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #106/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #107/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #108/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #109/109	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #124	label: á	start: 62.92587931680529	end: 62.98124238746488
+step #1/2	fMin: 210.60442827990641	fMax: 219.70675128279882	fMean: 217.6346473993153	stdev: 2.58820229071054
+step #2/2	fMin: 210.96539698749723	fMax: 219.7763560821397	fMean: 216.26015920395196	stdev: 3.3037922313752084
+interval #126	label: ā	start: 63.13300444915503	end: 63.2638626161686
+step #1/5	fMin: 190.36111017945018	fMax: 202.56518672139256	fMean: 195.65774306441307	stdev: 4.378321631541694
+step #2/5	fMin: 184.12503425975902	fMax: 190.36111017945018	fMean: 186.86436064346037	stdev: 1.9872224204933957
+step #3/5	fMin: 182.1771686808103	fMax: 184.2510553562047	fMean: 182.99571597777356	stdev: 0.7625131443523894
+step #4/5	fMin: 180.40533583024856	fMax: 182.40842726994592	fMean: 181.59345835993022	stdev: 0.5868610997252176
+step #5/5	fMin: 177.99915988798682	fMax: 180.40533583024856	fMean: 179.01829397506648	stdev: 0.8502860383392029
+interval #128	label: á	start: 63.39536910884722	end: 63.4532486827186
+step #1/2	fMin: 164.87251557383172	fMax: 171.47647003812395	fMean: 167.12040394490631	stdev: 1.8361956412665463
+step #2/2	fMin: 169.3360655665337	fMax: 176.22685684436365	fMean: 172.9885965801587	stdev: 2.212856538300761
+interval #130	label: ì	start: 63.460798192354005	end: 63.61682139148557
+step #1/6	fMin: 181.20632370513795	fMax: 186.0014046657161	fMean: 184.70726542017934	stdev: 1.5270778958108597
+step #2/6	fMin: 178.89199223080968	fMax: 185.75034016392405	fMean: 182.97825147474754	stdev: 2.4547495372407973
+step #3/6	fMin: 176.08755058552185	fMax: 178.89199223080968	fMean: 177.2655247043609	stdev: 1.2302258065228886
+step #4/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #5/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #6/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #132	label: ā	start: 64.12236807848869	end: 64.21673694893116
+step #1/3	fMin: 164.4629955208162	fMax: 165.36523313029784	fMean: 164.8748054600328	stdev: 0.31729341475639616
+step #2/3	fMin: 165.1282430126626	fMax: 167.11778074754886	fMean: 165.6850617001125	stdev: 0.6224766802751268
+step #3/3	fMin: 167.11778074754426	fMax: 173.72712654597854	fMean: 170.9664559203732	stdev: 2.2761160435584897
+interval #134	label: án	start: 64.24945149068455	end: 64.39037567054531
+step #1/5	fMin: 192.59736667219636	fMax: 198.37280385365307	fMean: 195.1298417300307	stdev: 1.7517414172857615
+step #2/5	fMin: 198.37280385365307	fMax: 200.82578261247667	fMean: 199.7439858977726	stdev: 0.8279406298927948
+step #3/5	fMin: 200.82578261247477	fMax: 208.93109307491932	fMean: 204.48960226477314	stdev: 2.6700659432507186
+step #4/5	fMin: 208.93109307491932	fMax: 220.91695016522274	fMean: 215.05510895782956	stdev: 4.162260279039492
+step #5/5	fMin: 220.9169501652188	fMax: 226.8833126156509	fMean: 224.75395564382998	stdev: 1.996808103771533
+interval #136	label: á	start: 64.48096978617009	end: 64.63195997887806
+step #1/6	fMin: 229.96115937544397	fMax: 234.64327905805652	fMean: 232.53942396187404	stdev: 1.830773228517684
+step #2/6	fMin: 234.64327905805652	fMax: 235.42937543605467	fMean: 235.05198451222248	stdev: 0.2864943729115026
+step #3/6	fMin: 233.43540461953023	fMax: 235.27259177976063	fMean: 234.37113650080587	stdev: 0.5791505182555629
+step #4/6	fMin: 231.66082202959993	fMax: 233.43540461953023	fMean: 232.52409651125726	stdev: 0.6463206865807545
+step #5/6	fMin: 231.386409874056	fMax: 232.0811730793807	fMean: 231.72483188569265	stdev: 0.2648999290313256
+step #6/6	fMin: 231.85647535366243	fMax: 232.1277245505045	fMean: 232.0057396609201	stdev: 0.13274252382806356
+interval #138	label: àn	start: 67.98023911389949	end: 68.06631248745306
+step #1/3	fMin: 169.79929793086802	fMax: 171.7701945680839	fMean: 170.32352215494484	stdev: 1.01653111347895
+step #2/3	fMin: 171.02179330850282	fMax: 173.04692088106793	fMean: 172.22119344668556	stdev: 0.647657402534514
+step #3/3	fMin: 168.81629624382472	fMax: 171.02179330850433	fMean: 170.00469244684177	stdev: 0.9019140381430351
+interval #140	label: í	start: 68.09859000253566	end: 68.15597225157138
+step #1/2	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/2	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #142	label: ō	start: 68.2779095307723	end: 68.35322373263169
+step #1/3	fMin: 186.6927682842013	fMax: 196.1165475049036	fMean: 192.01851057130992	stdev: 2.952950983031657
+step #2/3	fMin: 179.938943677388	fMax: 186.6927682842013	fMean: 183.07540373630027	stdev: 2.258752459368647
+step #3/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #144	label: à	start: 68.44288349675001	end: 68.4859201835268
+step #1/1	fMin: 171.9663712321243	fMax: 183.47783752168706	fMean: 177.12880869932448	stdev: 3.397762558807543
+interval #146	label: à	start: 68.56840716651566	end: 68.61861663442191
+step #1/2	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/2	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #148	label: á'	start: 68.76224308754227	end: 68.88128615169515
+step #1/4	fMin: 191.49878816176573	fMax: 203.10377034656628	fMean: 197.22069809498925	stdev: 4.210665171718184
+step #2/4	fMin: 180.53295368559571	fMax: 191.49878816176573	fMean: 185.00546539100785	stdev: 3.627846695014069
+step #3/4	fMin: 180.22578774411969	fMax: 188.71174676952012	fMean: 184.15950477235066	stdev: 3.171559033198515
+step #4/4	fMin: 184.33889173243435	fMax: 189.9986993130093	fMean: 188.33543962411048	stdev: 1.928658526517231
+interval #150	label: 'íì	start: 68.90154880091265	end: 68.98766506008707
+step #1/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #152	label: à	start: 69.11683944884871	end: 69.17256173419686
+step #1/2	fMin: 160.35561905970246	fMax: 169.96315112142742	fMean: 165.87152311401042	stdev: 3.389043622923373
+step #2/2	fMin: 154.09484315541934	fMax: 160.35561905970246	fMean: 156.67188986105975	stdev: 2.3083190476138316
+interval #154	label: à	start: 69.26121082452346	end: 69.30426895411067
+step #1/1	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #156	label: ē	start: 69.45273690317657	end: 69.53358235159543
+step #1/3	fMin: 178.3607782307277	fMax: 181.02490089683903	fMean: 179.7337758249448	stdev: 0.8548879914329324
+step #2/3	fMin: 180.21276703216012	fMax: 181.57066006479957	fMean: 180.58868657210706	stdev: 0.4107922250867121
+step #3/3	fMin: 181.24976851581292	fMax: 183.14870556293437	fMean: 182.00443450078905	stdev: 0.6587770612025058
+interval #158	label: á	start: 69.53812423072009	end: 69.59989378681539
+step #1/2	fMin: 183.90525295110265	fMax: 194.43804962661963	fMean: 189.14184283321083	stdev: 3.95043400340986
+step #2/2	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #160	label: ó	start: 69.69678517709706	end: 69.78308088046549
+step #1/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #162	label: ā	start: 69.87097038209426	end: 69.9427320722638
+step #1/2	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/2	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #164	label: ún	start: 70.04901204378072	end: 70.14348312957354
+step #1/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #166	label: ùn	start: 70.26291103658642	end: 70.39280877955154
+step #1/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #4/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #5/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #168	label: ò	start: 73.78573568544626	end: 74.25152031086732
+step #1/18	fMin: 211.9324277362987	fMax: 215.90861611185656	fMean: 213.98683685591072	stdev: 2.0288880662057243
+step #2/18	fMin: 210.92892142138552	fMax: 212.23559202144247	fMean: 211.75649224825315	stdev: 0.42564287482906044
+step #3/18	fMin: 207.39708274847155	fMax: 210.92892142138697	fMean: 209.29899803148095	stdev: 1.1242694281947692
+step #4/18	fMin: 204.3133321474843	fMax: 207.39708274847155	fMean: 205.73488185862925	stdev: 0.9802390926113116
+step #5/18	fMin: 203.45726733878303	fMax: 204.31333214748503	fMean: 203.9154255613832	stdev: 0.19418032747054517
+step #6/18	fMin: 203.33159342207762	fMax: 204.55132447591288	fMean: 203.75179168763492	stdev: 0.4002266658181875
+step #7/18	fMin: 204.55132447591288	fMax: 205.36484347183523	fMean: 205.12909372253392	stdev: 0.25130446343840673
+step #8/18	fMin: 204.83688126015224	fMax: 205.11268182927674	fMean: 204.89923036274794	stdev: 0.08035781844970158
+step #9/18	fMin: 204.81862481454024	fMax: 206.2957732317006	fMean: 205.54886672338347	stdev: 0.5518354410311811
+step #10/18	fMin: 204.71200925068453	fMax: 206.3202317605504	fMean: 205.6897482314254	stdev: 0.5324504904350658
+step #11/18	fMin: 201.13407360457384	fMax: 204.71200925068453	fMean: 202.9125960655651	stdev: 1.177242436518032
+step #12/18	fMin: 200.46159202404166	fMax: 201.13407360457384	fMean: 200.66084821900725	stdev: 0.20181577779831714
+step #13/18	fMin: 200.89384920137138	fMax: 203.32415857088262	fMean: 201.97472758176457	stdev: 0.6617982118203674
+step #14/18	fMin: 203.32415857088262	fMax: 205.92874439988515	fMean: 204.777915516219	stdev: 0.7982059653624621
+step #15/18	fMin: 205.92874439988427	fMax: 208.09951584390114	fMean: 207.30523444045107	stdev: 0.7682472901258338
+step #16/18	fMin: 204.8505457439345	fMax: 208.04593057058244	fMean: 206.44438370719098	stdev: 1.1463935050143883
+step #17/18	fMin: 204.44274666873676	fMax: 204.94812696942472	fMean: 204.72717028020347	stdev: 0.20996206103968645
+step #18/18	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #170	label: à	start: 75.07349317925745	end: 75.45023074393626
+step #1/15	fMin: 168.39628000950876	fMax: 171.48619093011732	fMean: 169.93536114637493	stdev: 0.9472177901056351
+step #2/15	fMin: 164.40623189915516	fMax: 168.39628000950876	fMean: 166.11266367473596	stdev: 1.3201598516400754
+step #3/15	fMin: 161.83912228232398	fMax: 164.4062318991561	fMean: 163.86924398209078	stdev: 0.7867611658272561
+step #4/15	fMin: 157.2087573431844	fMax: 161.83912228232398	fMean: 159.34465375964066	stdev: 1.6607584869179954
+step #5/15	fMin: 153.83534911770218	fMax: 157.2087573431855	fMean: 155.81727102237446	stdev: 1.0571158833152487
+step #6/15	fMin: 150.71741720631852	fMax: 153.83534911770218	fMean: 152.14654573810253	stdev: 1.0006433009815356
+step #7/15	fMin: 149.2454208238367	fMax: 150.71741720631852	fMean: 149.86216828912245	stdev: 0.48514836612965423
+step #8/15	fMin: 148.57335470919554	fMax: 149.24542082383846	fMean: 148.77498103859148	stdev: 0.1579238645908967
+step #9/15	fMin: 148.79481641888106	fMax: 149.4780675842876	fMean: 148.99396575166944	stdev: 0.18891965606690334
+step #10/15	fMin: 149.47806758428698	fMax: 150.2401922096211	fMean: 149.93403919415601	stdev: 0.2299693678551751
+step #11/15	fMin: 148.4535700101147	fMax: 150.24465157991858	fMean: 149.34659298629674	stdev: 0.7080335608036615
+step #12/15	fMin: 148.37687836370418	fMax: 148.5521169705727	fMean: 148.4376469340922	stdev: 0.06748837392849397
+step #13/15	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #14/15	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #15/15	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #172	label: én	start: 75.62186885861973	end: 75.76639755336011
+step #1/5	fMin: 160.1692365722986	fMax: 169.39752328057676	fMean: 163.76729828028994	stdev: 3.7058496325042207
+step #2/5	fMin: 169.39752328057676	fMax: 178.48654303926972	fMean: 174.22474091273597	stdev: 3.444660600881481
+step #3/5	fMin: 169.41233852218735	fMax: 177.5186737776027	fMean: 173.09442331775458	stdev: 2.8074626569776258
+step #4/5	fMin: 167.8610478574542	fMax: 169.41233852218735	fMean: 168.37207318541036	stdev: 0.44905742371559765
+step #5/5	fMin: 168.65463215205835	fMax: 172.90813394643473	fMean: 170.5425846951562	stdev: 1.592013506294323
+interval #174	label: á	start: 75.85922510685731	end: 75.95720974665991
+step #1/3	fMin: 192.44779269906448	fMax: 198.74288571120817	fMean: 195.88046510161857	stdev: 2.003164971791881
+step #2/3	fMin: 198.74288571120817	fMax: 206.26273376941367	fMean: 202.25953059803516	stdev: 2.525503667173867
+step #3/3	fMin: 206.2627337694103	fMax: 210.64624901316648	fMean: 209.045008251395	stdev: 1.4474807686941744
+interval #176	label: ún	start: 76.06550855907332	end: 76.16349319887593
+step #1/3	fMin: 263.77677452085504	fMax: 270.1628996019447	fMean: 266.49455368148324	stdev: 1.9500519640946385
+step #2/3	fMin: 269.2587648013985	fMax: 271.3995646278086	fMean: 270.6817684917959	stdev: 0.6901480152420602
+step #3/3	fMin: 266.11045743994896	fMax: 269.2587648013994	fMean: 268.0990375355257	stdev: 0.9403428292221668
+interval #178	label: à	start: 76.27179201128932	end: 76.39040499631353
+step #1/4	fMin: 168.26316601076255	fMax: 185.14858354605565	fMean: 177.50027694227836	stdev: 6.162373971278048
+step #2/4	fMin: 161.94279298721034	fMax: 168.26316601076255	fMean: 165.0963394939597	stdev: 1.9708861750931401
+step #3/4	fMin: 160.9158387546245	fMax: 161.94279298721136	fMean: 161.32820048135892	stdev: 0.31853932036278865
+step #4/4	fMin: 159.16409867503785	fMax: 160.9158387546245	fMean: 160.36873278288223	stdev: 0.5695245547505712
+interval #180	label: á	start: 76.66787069895764	end: 76.7253708820395
+step #1/2	fMin: 198.84953066548474	fMax: 206.3489434457688	fMean: 202.45218163641442	stdev: 2.6314376406405358
+step #2/2	fMin: 198.32045275618515	fMax: 198.84953066548474	fMean: 198.46808828964234	stdev: 0.22186451881949473
+interval #182	label: án	start: 76.85269946036077	end: 76.97292711589556
+step #1/4	fMin: 239.24903829846872	fMax: 241.93605857147313	fMean: 239.88144619646175	stdev: 0.7618428284745876
+step #2/4	fMin: 232.78921444228536	fMax: 239.24903829846872	fMean: 236.61222996430124	stdev: 2.0095241220359856
+step #3/4	fMin: 216.10950973505416	fMax: 232.78921444229016	fMean: 225.50480416226554	stdev: 5.238228690842457
+step #4/4	fMin: 198.06328437136906	fMax: 216.10950973505416	fMean: 207.55876792042721	stdev: 6.073546528506132
+interval #184	label: ìn	start: 77.0827001926882	end: 77.18700076829275
+step #1/4	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/4	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/4	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #4/4	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #186	label: à'	start: 77.43361450616231	end: 77.5198647807851
+step #1/3	fMin: 165.1732255197393	fMax: 184.40391982650914	fMean: 174.0444442105014	stdev: 7.1816157947468335
+step #2/3	fMin: 150.25730229865246	fMax: 165.1732255197393	fMean: 158.3646383091097	stdev: 5.365601945738614
+step #3/3	fMin: 141.2108521173317	fMax: 150.25730229865474	fMean: 145.19708908085494	stdev: 2.850439240634619
+interval #188	label: 'à	start: 77.6479333703765	end: 77.91191148361594
+step #1/10	fMin: 143.8520055761386	fMax: 144.54246619102886	fMean: 144.2813843771873	stdev: 0.307251580086783
+step #2/10	fMin: 142.82514193085046	fMax: 143.8520055761386	fMean: 143.09750246356396	stdev: 0.3003531325706558
+step #3/10	fMin: 142.7938343787093	fMax: 144.92930032045285	fMean: 144.2193786223741	stdev: 0.7398985973293046
+step #4/10	fMin: 144.92930032045285	fMax: 146.68931171935256	fMean: 146.19148914381725	stdev: 0.6236653733711823
+step #5/10	fMin: 146.66209363945927	fMax: 148.07480402429178	fMean: 147.3334919058978	stdev: 0.4816305724314773
+step #6/10	fMin: 147.93222260196708	fMax: 148.6593332024092	fMean: 148.35148201926418	stdev: 0.2229483501083165
+step #7/10	fMin: 147.91629054823719	fMax: 148.73571482050545	fMean: 148.29706000117193	stdev: 0.27036327666455195
+step #8/10	fMin: 148.7357148205048	fMax: 150.7889006426758	fMean: 149.7401215673547	stdev: 0.6293950495634454
+step #9/10	fMin: 150.7889006426758	fMax: 156.25359253249323	fMean: 153.3704461914257	stdev: 1.8311251209762875
+step #10/10	fMin: 156.2535925324895	fMax: 163.01466580990183	fMean: 159.75946697160094	stdev: 2.2888731421996087
+interval #190	label: à'	start: 78.88851450710953	end: 78.99292652037246
+step #1/4	fMin: 207.36349183664953	fMax: 213.9113842983845	fMean: 211.93290959122248	stdev: 2.7227927865118406
+step #2/4	fMin: 184.15392458439382	fMax: 207.36349183664953	fMean: 196.71618094700287	stdev: 7.411931434961695
+step #3/4	fMin: 160.28169204059037	fMax: 184.15392458439885	fMean: 172.28875126965718	stdev: 7.517389769294386
+step #4/4	fMin: 151.94241398435426	fMax: 160.28169204059037	fMean: 156.09173176006905	stdev: 2.2607783965542665
+interval #192	label: 'à	start: 79.01612918998646	end: 79.12634187065288
+step #1/4	fMin: 137.00151866966797	fMax: 150.20483320869118	fMean: 138.87478070077225	stdev: 3.520922665745712
+step #2/4	fMin: 150.20483320869118	fMax: 154.32775959290126	fMean: 152.7811990924346	stdev: 1.4355513854213706
+step #3/4	fMin: 150.48291172277195	fMax: 153.61361729433796	fMean: 151.63761042449187	stdev: 1.1502993015920882
+step #4/4	fMin: 153.61361729433796	fMax: 156.24623889714394	fMean: 155.51354368250182	stdev: 0.7920568797196167
+interval #194	label: ú	start: 79.27466573339206	end: 79.38487841405849
+step #1/4	fMin: 181.81409055190565	fMax: 205.35150851511787	fMean: 192.29719112993845	stdev: 7.27342389157725
+step #2/4	fMin: 205.35150851511787	fMax: 224.6882720400143	fMean: 214.42765613954168	stdev: 5.4823676740424245
+step #3/4	fMin: 224.6882720399983	fMax: 245.03178544816876	fMean: 236.102249648665	stdev: 7.169874655162556
+step #4/4	fMin: 245.03178544816876	fMax: 251.37979219337754	fMean: 249.7076941803387	stdev: 2.0331757125376297
+interval #196	label: ì	start: 79.56179876986513	end: 79.69811445384731
+step #1/5	fMin: 80.07927264584802	fMax: 85.90112634599771	fMean: 82.45901333251274	stdev: 2.174106944428996
+step #2/5	fMin: 74.15472084037282	fMax: 119.10253652262375	fMean: 95.73466340615511	stdev: 18.38808996630633
+step #3/5	fMin: 103.03638441535826	fMax: 111.14609714600304	fMean: 105.89544654266264	stdev: 3.0634830904788712
+step #4/5	fMin: 80.75051063501911	fMax: 106.19206875260913	fMean: 96.21731111024314	stdev: 11.530086008534395
+step #5/5	fMin: 78.62718259787194	fMax: 89.83954911522127	fMean: 80.23140013433567	stdev: 3.2246157109836364
+interval #198	label: à	start: 79.82572913672422	end: 80.10996183949555
+step #1/11	fMin: 174.36990218108653	fMax: 188.80114360279126	fMean: 181.26496674337554	stdev: 5.03348612894065
+step #2/11	fMin: 161.6156357485536	fMax: 174.36990218108653	fMean: 167.1283840628565	stdev: 4.062856306196374
+step #3/11	fMin: 150.91929267021874	fMax: 161.6156357485613	fMean: 155.6710114879509	stdev: 3.5808578382684444
+step #4/11	fMin: 149.73013308996283	fMax: 150.97654860954967	fMean: 150.19360125328004	stdev: 0.3892480549705539
+step #5/11	fMin: 150.97654860954603	fMax: 157.017656140911	fMean: 154.12685997181003	stdev: 1.9617873192267274
+step #6/11	fMin: 157.017656140911	fMax: 160.68905068552738	fMean: 158.96982499817435	stdev: 1.150000855204746
+step #7/11	fMin: 160.68905068552738	fMax: 162.3301197838858	fMean: 161.28258631562667	stdev: 0.578920211358909
+step #8/11	fMin: 161.25544961996084	fMax: 162.36887433279833	fMean: 162.04039702087604	stdev: 0.2946650656981038
+step #9/11	fMin: 155.75355857128923	fMax: 161.25544961996084	fMean: 158.5718243670746	stdev: 1.8313395129167447
+step #10/11	fMin: 153.566491373212	fMax: 155.75355857129082	fMean: 154.2599070267443	stdev: 0.727080916914333
+step #11/11	fMin: 153.5335719481105	fMax: 155.23269953984098	fMean: 154.48710717005054	stdev: 0.5987958139407318
+interval #200	label: ūn	start: 82.20827748891573	end: 82.3887944697977
+step #1/7	fMin: 183.9418998221423	fMax: 187.4606965661255	fMean: 185.85781659079444	stdev: 1.0969543096460421
+step #2/7	fMin: 187.3312851701394	fMax: 188.8863713267753	fMean: 187.89879808678072	stdev: 0.48255119412746467
+step #3/7	fMin: 188.88637132677377	fMax: 190.12777026070603	fMean: 189.76352871573778	stdev: 0.37549964532865837
+step #4/7	fMin: 188.68769217608863	fMax: 190.02747801242765	fMean: 189.41619461039477	stdev: 0.47694534183290227
+step #5/7	fMin: 188.4420521973338	fMax: 189.1678381538565	fMean: 188.71580289573572	stdev: 0.23563079991913966
+step #6/7	fMin: 189.1678381538565	fMax: 192.14712077010552	fMean: 190.18003466886915	stdev: 0.82694949390047
+step #7/7	fMin: 191.916294619531	fMax: 192.66852579006007	fMean: 192.2384842736793	stdev: 0.3025069848504816
+interval #202	label: ín	start: 82.41271840702302	end: 82.59758519467324
+step #1/7	fMin: 190.55606525269178	fMax: 192.44707089519412	fMean: 191.6975618673938	stdev: 0.5616864846976745
+step #2/7	fMin: 188.76493877008988	fMax: 190.55606525269178	fMean: 189.72417210530463	stdev: 0.7034862076169863
+step #3/7	fMin: 187.7977409493374	fMax: 188.95316206702446	fMean: 188.47451704583645	stdev: 0.37117004737169745
+step #4/7	fMin: 184.70658102162542	fMax: 187.7977409493374	fMean: 186.75105715609934	stdev: 0.9753025781521772
+step #5/7	fMin: 174.23178381050226	fMax: 184.70658102162975	fMean: 180.657926303278	stdev: 2.921331159861211
+step #6/7	fMin: 171.35183894042723	fMax: 174.23178381050226	fMean: 172.33117451554838	stdev: --undefined--
+step #7/7	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #204	label: ī	start: 84.55934242168337	end: 85.18999972588605
+step #1/25	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/25	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/25	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #4/25	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #5/25	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #6/25	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #7/25	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #8/25	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #9/25	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #10/25	fMin: 93.96445294987977	fMax: 94.43453155010886	fMean: 94.22802845989801	stdev: 0.17783979556717588
+step #11/25	fMin: 93.83194052086091	fMax: 93.96445294987977	fMean: 93.87987386025615	stdev: 0.03847994544013498
+step #12/25	fMin: 93.85278900365687	fMax: 94.01482122566803	fMean: 93.92205317433366	stdev: 0.060569341236082666
+step #13/25	fMin: 93.88655746014022	fMax: 95.0678196002443	fMean: 94.27012197390503	stdev: 0.37598079298429077
+step #14/25	fMin: 93.89880795693276	fMax: 95.13747955658403	fMean: 94.62290188240151	stdev: 0.4354256394345546
+step #15/25	fMin: 93.65736774115614	fMax: 94.07150470351178	fMean: 93.82514143684554	stdev: 0.13235519997608283
+step #16/25	fMin: 94.02336674065215	fMax: 94.2629005526596	fMean: 94.2074682449767	stdev: 0.06049375722889745
+step #17/25	fMin: 94.15795901997497	fMax: 94.58364777404859	fMean: 94.32232020238088	stdev: 0.16609045126087307
+step #18/25	fMin: 94.21652881279516	fMax: 94.58766332021868	fMean: 94.35236793675364	stdev: 0.11748633006422461
+step #19/25	fMin: 92.56369488787685	fMax: 94.21652881279516	fMean: 93.43381724993458	stdev: 0.5797617731507868
+step #20/25	fMin: 91.53248179779526	fMax: 92.5636948878776	fMean: 91.91630339939564	stdev: 0.4196151429064824
+step #21/25	fMin: 91.19914093133372	fMax: 91.53248179779526	fMean: 91.36173715610039	stdev: 0.12796521953194298
+step #22/25	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #23/25	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #24/25	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #25/25	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #206	label: ā	start: 86.34365140345496	end: 86.81766950288983
+step #1/18	fMin: 184.31758151400024	fMax: 190.52864642291593	fMean: 187.71576094629125	stdev: 2.114258484100132
+step #2/18	fMin: 179.64593424736657	fMax: 184.31758151400024	fMean: 181.756301112898	stdev: 1.4071380724608988
+step #3/18	fMin: 177.69930638036524	fMax: 179.645934247369	fMean: 178.34100931260247	stdev: 0.6217407610152854
+step #4/18	fMin: 175.64699789349382	fMax: 178.36959932235945	fMean: 177.15905628927382	stdev: 0.8902867322820603
+step #5/18	fMin: 173.0054552051453	fMax: 175.64699789349564	fMean: 174.3706293967929	stdev: 0.7678073779597517
+step #6/18	fMin: 170.59848345730262	fMax: 173.0054552051453	fMean: 171.72881039352347	stdev: 0.7451949594326412
+step #7/18	fMin: 167.03759349039908	fMax: 170.59848345730262	fMean: 168.6136815980532	stdev: 1.2061947833589441
+step #8/18	fMin: 164.6376212897013	fMax: 167.03759349039998	fMean: 165.6540704533905	stdev: 0.8558904670011801
+step #9/18	fMin: 160.63102842617212	fMax: 164.6376212897013	fMean: 162.84533840027447	stdev: 1.3120668317707909
+step #10/18	fMin: 159.17336670526362	fMax: 160.63102842617377	fMean: 159.72291416318592	stdev: 0.4227532503970963
+step #11/18	fMin: 157.224536394375	fMax: 159.17336670526362	fMean: 158.22780781367385	stdev: 0.6358452589640089
+step #12/18	fMin: 155.66098814429074	fMax: 157.224536394375	fMean: 156.52711318428814	stdev: 0.5188017582166443
+step #13/18	fMin: 152.96040713318055	fMax: 155.6609881442911	fMean: 154.63762360721512	stdev: 0.901763504294084
+step #14/18	fMin: 151.40667987896384	fMax: 152.96040713318055	fMean: 152.11278968455235	stdev: 0.45561705164311433
+step #15/18	fMin: 149.96201958095872	fMax: 151.40667987896506	fMean: 150.5022415748945	stdev: 0.45146047687828056
+step #16/18	fMin: 148.479130384418	fMax: 149.96201958095872	fMean: 149.18529926994574	stdev: 0.41780614779901776
+step #17/18	fMin: 148.29765716450373	fMax: 148.71626413029927	fMean: 148.53843405869475	stdev: 0.14115923798360255
+step #18/18	fMin: 148.27944931390775	fMax: 148.67798757184306	fMean: 148.3976950468744	stdev: 0.11936786256691967
+interval #208	label: ú	start: 86.93784310556346	end: 87.03798777445816
+step #1/4	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/4	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/4	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #4/4	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #210	label: ī	start: 87.17819031091072	end: 87.24495342350718
+step #1/2	fMin: 266.3817576699435	fMax: 286.24281658495505	fMean: 276.6643411895067	stdev: 6.377958256838068
+step #2/2	fMin: 253.58918545111501	fMax: 266.3817576699435	fMean: 258.51304957806315	stdev: 4.844441219167708
+interval #212	label: ā	start: 87.35098842692156	end: 87.40375029564366
+step #1/2	fMin: 169.7517030177635	fMax: 196.6984188411662	fMean: 183.46037562589785	stdev: 9.572067778720443
+step #2/2	fMin: 157.62623678835038	fMax: 169.7517030177635	fMean: 163.49077603313103	stdev: 3.7222167492043257
+interval #214	label: īn	start: 88.45261958121002	end: 88.56626052922685
+step #1/4	fMin: 264.62733766026105	fMax: 268.73732961745185	fMean: 267.30235118430227	stdev: 2.0148980110200037
+step #2/4	fMin: 263.4514004838343	fMax: 264.8243958933489	fMean: 264.0071246819349	stdev: 0.4361537144414805
+step #3/4	fMin: 263.680579412878	fMax: 267.4450427588713	fMean: 265.3657539097452	stdev: 1.299256386533918
+step #4/4	fMin: 267.4435460956031	fMax: 268.75792215670714	fMean: 268.2608471282898	stdev: 0.43626100939591317
+interval #216	label: ín	start: 88.59467076623106	end: 88.69207729310264
+step #1/3	fMin: 264.56700905434934	fMax: 268.96120179382774	fMean: 266.2528857254101	stdev: 1.55593291973824
+step #2/3	fMin: 264.1454654406275	fMax: 275.63366645404705	fMean: 271.86899151266687	stdev: 4.277724719612435
+step #3/3	fMin: 272.8281533923069	fMax: 275.62784380210087	fMean: 274.88384354093006	stdev: 0.7983253857044572
+interval #218	label: ò'	start: 88.85036289926896	end: 89.05329316358475
+step #1/8	fMin: 219.0384940201348	fMax: 237.8133829260269	fMean: 230.1523476559581	stdev: 6.21091814443133
+step #2/8	fMin: 202.03126170737997	fMax: 219.0384940201348	fMean: 210.72443894338295	stdev: 5.255002995818084
+step #3/8	fMin: 186.18439867357299	fMax: 202.0312617073894	fMean: 193.83971501915892	stdev: 5.022358326404639
+step #4/8	fMin: 176.30508011940026	fMax: 186.18439867357299	fMean: 181.73474974853426	stdev: 2.987813421446439
+step #5/8	fMin: 165.5228702293094	fMax: 176.30508011940825	fMean: 170.99779433325062	stdev: 3.435726281869731
+step #6/8	fMin: 151.0642760467172	fMax: 165.5228702293094	fMean: 160.16295861390378	stdev: 4.433579756458564
+step #7/8	fMin: 132.6034851704838	fMax: 151.0642760467172	fMean: 140.55630868723264	stdev: 6.331283517310251
+step #8/8	fMin: 117.49998064922025	fMax: 132.60348517048973	fMean: 124.74009936618451	stdev: 4.9803465846209605
+interval #219	label: 'ò	start: 89.05329316358475	end: 89.25622342790054
+step #1/8	fMin: 116.81989088634153	fMax: 126.66328768565018	fMean: 120.08423571265473	stdev: 3.1631764327696783
+step #2/8	fMin: 126.66328768565018	fMax: 149.8449560082393	fMean: 137.19893278278542	stdev: 13.569990830526308
+step #3/8	fMin: 149.84495600823328	fMax: 166.93067313175752	fMean: 157.26243361420353	stdev: 5.0558128108693134
+step #4/8	fMin: 166.93067313175752	fMax: 181.99880948313128	fMean: 177.67330508774756	stdev: 5.094848980019205
+step #5/8	fMin: 181.70032781605602	fMax: 184.1484695981558	fMean: 182.8513960422797	stdev: 0.836426062044177
+step #6/8	fMin: 181.6976376840162	fMax: 183.42247338885497	fMean: 182.5984088392006	stdev: 0.701211310694091
+step #7/8	fMin: 181.8565833927564	fMax: 182.62572487397614	fMean: 182.33595146992528	stdev: 0.30882217276046164
+step #8/8	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #221	label: én	start: 89.34551274419948	end: 89.41856763935317
+step #1/2	fMin: 187.3585510882989	fMax: 188.84959380712797	fMean: 188.0307723262329	stdev: 0.6085211607628318
+step #2/2	fMin: 187.38537096201603	fMax: 190.6745690059398	fMean: 188.49015021628213	stdev: 0.9819290214647479
+interval #223	label: à	start: 89.49973974507948	end: 89.58902906137843
+step #1/3	fMin: 229.84190451947802	fMax: 236.6172357002424	fMean: 234.86862322417923	stdev: 1.9894464251877504
+step #2/3	fMin: 232.93697401051728	fMax: 236.3475045983247	fMean: 235.39934102298395	stdev: 0.988120968144533
+step #3/3	fMin: 220.49942075357922	fMax: 232.93697401052162	fMean: 227.8363868684382	stdev: 3.838601463143437
+interval #225	label: ā	start: 89.7107872199679	end: 89.90560027371106
+step #1/7	fMin: 192.32991382923382	fMax: 195.34279882814027	fMean: 193.96923569092368	stdev: 1.263222671377392
+step #2/7	fMin: 187.144735238584	fMax: 195.19642437589354	fMean: 192.40483045957788	stdev: 2.845201172657025
+step #3/7	fMin: 176.95050539727268	fMax: 187.14473523858769	fMean: 182.63128994567333	stdev: 3.3670843929168894
+step #4/7	fMin: 172.2299483340818	fMax: 176.95050539727268	fMean: 173.57069253256083	stdev: 1.6304287448352595
+step #5/7	fMin: 172.25739173844548	fMax: 174.6894306019089	fMean: 173.13615245346313	stdev: 0.684637264563614
+step #6/7	fMin: 174.6894306019089	fMax: 175.6530502298608	fMean: 175.38915224171	stdev: 0.22857724181429243
+step #7/7	fMin: 173.25078070517097	fMax: 175.31211753883048	fMean: 174.32304181915887	stdev: 0.7252454812126362
+interval #227	label: á	start: 90.01518261644158	end: 90.11664774859948
+step #1/4	fMin: 191.58525440909577	fMax: 206.9320251511151	fMean: 200.11855377579528	stdev: 5.21360035526502
+step #2/4	fMin: 183.20679384765256	fMax: 191.58525440909577	fMean: 185.59753997974715	stdev: 2.812622686552673
+step #3/4	fMin: 183.643338533517	fMax: 193.45492845191438	fMean: 188.25069283607826	stdev: 3.1935620262498174
+step #4/4	fMin: 193.45492845191438	fMax: 203.71763965130702	fMean: 199.7228608017672	stdev: 3.7187927620989334
+interval #229	label: ù	start: 90.29522638119737	end: 90.45757059265
+step #1/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #4/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #5/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #6/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #231	label: ē	start: 91.23883926343659	end: 91.35169241169193
+step #1/4	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/4	fMin: 194.7760382933628	fMax: 195.22418452027148	fMean: 195.0764188580163	stdev: --undefined--
+step #3/4	fMin: 194.2178262244669	fMax: 194.7760382933646	fMean: 194.35321462996944	stdev: 0.18570455312128492
+step #4/4	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #233	label: ī	start: 91.50216327603236	end: 91.53650988637094
+step #1/1	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #235	label: én	start: 91.64609192887973	end: 91.79656279322016
+step #1/6	fMin: 188.72084888556694	fMax: 193.7322835463348	fMean: 192.44841862121783	stdev: 1.3920512165599341
+step #2/6	fMin: 193.4313053497247	fMax: 196.4278299867787	fMean: 194.66267340220944	stdev: 1.0063124191237847
+step #3/6	fMin: 196.42782998677401	fMax: 200.90219401623582	fMean: 198.3567582780287	stdev: 1.4022504873823647
+step #4/6	fMin: 200.90219401623582	fMax: 204.62727658376758	fMean: 203.53371795192143	stdev: 1.1636026391349736
+step #5/6	fMin: 204.62727658376724	fMax: 206.47036654078767	fMean: 205.62568919169584	stdev: 0.6355089218857312
+step #6/6	fMin: 206.47036654078767	fMax: 206.58902138941204	fMean: 206.54636207720236	stdev: 0.052282507943422735
+interval #237	label: á	start: 91.91222776646468	end: 92.01853870322694
+step #1/4	fMin: 207.16945116043524	fMax: 210.75496107177565	fMean: 209.61453276261207	stdev: 1.2432862889499645
+step #2/4	fMin: 203.06247435311116	fMax: 207.16945116043524	fMean: 204.92652272317116	stdev: 1.4249161845230176
+step #3/4	fMin: 202.33690322633106	fMax: 203.06247435311226	fMean: 202.59957199242407	stdev: 0.27292583131455106
+step #4/4	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #239	label: á	start: 92.0823252652843	end: 92.17064512044064
+step #1/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #241	label: ú	start: 92.26257022633429	end: 92.34434786999756
+step #1/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #243	label: ì	start: 92.37705892746288	end: 92.43757438377371
+step #1/2	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/2	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #244	label: ū	start: 92.43757438377371	end: 92.6674148815204
+step #1/9	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/9	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/9	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #4/9	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #5/9	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #6/9	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #7/9	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #8/9	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #9/9	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #245	label: ún	start: 92.6674148815204	end: 92.76881915966287
+step #1/4	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/4	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/4	fMin: 95.55308198783116	fMax: 97.21039460452874	fMean: 96.24474278683232	stdev: 0.5611554287211072
+step #4/4	fMin: 97.21039460452874	fMax: 98.16545297391542	fMean: 97.83412516031183	stdev: 0.2636779064150724
+interval #247	label: ā	start: 92.84732569757962	end: 92.9765343745676
+step #1/5	fMin: 196.3978532939551	fMax: 200.48804874095424	fMean: 198.6922868967234	stdev: 1.4243101862847682
+step #2/5	fMin: 195.59902313295754	fMax: 196.3978532939551	fMean: 195.90929821171568	stdev: 0.31411097116738007
+step #3/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #4/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #5/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #249	label: ū	start: 93.15208845087017	end: 93.1978839313216
+step #1/1	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #251	label: ún	start: 93.30092376233733	end: 93.42686133357878
+step #1/5	fMin: 201.21265995677226	fMax: 201.7789458977289	fMean: 201.65131765389683	stdev: 0.23039638057013062
+step #2/5	fMin: 198.22394222650183	fMax: 201.21265995677226	fMean: 199.1219890376759	stdev: 1.007780408790047
+step #3/5	fMin: 196.39147970078236	fMax: 198.28154753911457	fMean: 197.20129805506005	stdev: 0.6674890107646481
+step #4/5	fMin: 196.35107056477636	fMax: 198.38438537130673	fMean: 197.32870850833478	stdev: 0.6589179823966038
+step #5/5	fMin: 198.38438537130537	fMax: 198.56368980464143	fMean: 198.47944215521534	stdev: 0.06251543798945304
+interval #253	label: ā	start: 93.48590830951169	end: 93.5611437416819
+step #1/3	fMin: 189.67493646420397	fMax: 192.57056103978547	fMean: 191.83243354267702	stdev: 0.8747067528564326
+step #2/3	fMin: 182.755110709585	fMax: 189.67493646420397	fMean: 186.3811320123541	stdev: 2.114021454363391
+step #3/3	fMin: 181.9902061899116	fMax: 182.75511070958945	fMean: 182.20305763566333	stdev: --undefined--
+interval #255	label: ā	start: 93.64556613783896	end: 93.69953938265672
+step #1/2	fMin: 170.39237503817006	fMax: 174.1533746286436	fMean: 172.7339732793208	stdev: 1.3887468957303288
+step #2/2	fMin: 166.21439979540432	fMax: 170.39237503817006	fMean: 167.97788105313415	stdev: 1.513478606557004
+interval #257	label: á	start: 93.77641036770021	end: 93.84183248263082
+step #1/2	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/2	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #259	label: á'	start: 93.95152377398625	end: 94.0255740004759
+step #1/2	fMin: 197.18099954825183	fMax: 208.06885633271042	fMean: 203.07809638343772	stdev: 3.6009763607832674
+step #2/2	fMin: 182.21095293867353	fMax: 197.18099954825183	fMean: 188.62893100497905	stdev: 4.968676348131132
+interval #261	label: 'á	start: 94.03637299183897	end: 94.1096518618027
+step #1/2	fMin: 163.79857730732695	fMax: 174.24879325471858	fMean: 169.2911110628506	stdev: 4.323670213759029
+step #2/2	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #263	label: ā	start: 94.1960437927073	end: 94.27240808877475
+step #1/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #265	label: ì	start: 94.45227179476915	end: 94.48466876885837
+step #1/1	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #267	label: én	start: 94.57568883891857	end: 94.7245606484238
+step #1/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #4/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #5/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #269	label: á	start: 94.83761385278041	end: 94.95177461861863
+step #1/4	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/4	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/4	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #4/4	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #271	label: ī	start: 96.60892580504823	end: 96.8929762424952
+step #1/11	fMin: 182.07425867293327	fMax: 188.80663249650888	fMean: 185.98907358114687	stdev: 2.3825657514580754
+step #2/11	fMin: 177.43976245603224	fMax: 182.07425867293327	fMean: 179.61301945225955	stdev: 1.388153361642911
+step #3/11	fMin: 175.53988538665968	fMax: 177.43976245603858	fMean: 176.340388333767	stdev: 1.0398412938249773
+step #4/11	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #5/11	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #6/11	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #7/11	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #8/11	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #9/11	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #10/11	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #11/11	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #273	label: ān	start: 97.08645987379965	end: 97.22231008301343
+step #1/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #4/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #5/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #275	label: ū	start: 97.4487270983697	end: 97.57634396157052
+step #1/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #4/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #5/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #277	label: í	start: 97.77394426588144	end: 97.91802782110817
+step #1/5	fMin: 230.34345443452568	fMax: 236.4048994207144	fMean: 233.59303687265742	stdev: 2.954222479069193
+step #2/5	fMin: 224.59310254093612	fMax: 230.34345443452568	fMean: 227.30949570871482	stdev: 2.373574302180238
+step #3/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #4/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #5/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #279	label: ō	start: 98.0785780683608	end: 98.49024536900858
+step #1/16	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/16	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/16	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #4/16	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #5/16	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #6/16	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #7/16	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #8/16	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #9/16	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #10/16	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #11/16	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #12/16	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #13/16	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #14/16	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #15/16	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #16/16	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #281	label: ūn	start: 98.77777948449554	end: 98.97537978880648
+step #1/7	fMin: 181.98150175294919	fMax: 182.36368792449557	fMean: 182.20521819384473	stdev: 0.09044189435431256
+step #2/7	fMin: 180.54812702495678	fMax: 181.98150175294919	fMean: 181.24883129926812	stdev: 0.494929236879679
+step #3/7	fMin: 177.74745263350567	fMax: 180.73638530999116	fMean: 179.7458939988659	stdev: 0.9931317542830471
+step #4/7	fMin: 176.96260794673913	fMax: 177.74745263350567	fMean: 177.22000703913213	stdev: 0.33486239813134167
+step #5/7	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #6/7	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #7/7	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #283	label: ín	start: 98.99596315383887	end: 99.23884686122106
+step #1/9	fMin: 87.07774644168052	fMax: 87.56727441138283	fMean: 87.2351174996704	stdev: 0.16685549725129645
+step #2/9	fMin: 87.16728500979995	fMax: 87.53460201764285	fMean: 87.38558560594659	stdev: 0.12817493530555965
+step #3/9	fMin: 87.47849705092231	fMax: 87.65048730965567	fMean: 87.5728983915346	stdev: 0.06594123541116707
+step #4/9	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #5/9	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #6/9	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #7/9	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #8/9	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #9/9	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #285	label: ū	start: 99.34999703239596	end: 99.53113064468099
+step #1/7	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/7	fMin: 184.92647334793833	fMax: 185.95591258559085	fMean: 185.30105588490855	stdev: 0.5610245663988913
+step #3/7	fMin: 185.95591258558824	fMax: 192.2022257641753	fMean: 188.69652547405337	stdev: 1.9066686507729267
+step #4/7	fMin: 192.2022257641753	fMax: 193.34224876095135	fMean: 192.97568342321833	stdev: --undefined--
+step #5/7	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #6/7	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #7/7	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #287	label: è	start: 100.31627579797865	end: 100.57562619738675
+step #1/10	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/10	fMin: 198.7237452046226	fMax: 235.9459952492236	fMean: 219.17862913590668	stdev: 12.169395509027582
+step #3/10	fMin: 187.41985891786396	fMax: 198.72374520462571	fMean: 192.8672020453684	stdev: 4.37734633709425
+step #4/10	fMin: 182.63530697317748	fMax: 187.41985891786396	fMean: 184.32254021216937	stdev: 1.3456463110943806
+step #5/10	fMin: 180.25666561756424	fMax: 182.63530697318083	fMean: 181.81636393629626	stdev: 0.5678164447935349
+step #6/10	fMin: 177.68505558410064	fMax: 180.25666561756424	fMean: 178.23830944628014	stdev: 0.7288243880967022
+step #7/10	fMin: 176.5306633592323	fMax: 177.94855319595365	fMean: 177.57473421887167	stdev: 0.43282173381191696
+step #8/10	fMin: 166.87547879944245	fMax: 176.5306633592341	fMean: 171.5578922794917	stdev: 3.322309863800972
+step #9/10	fMin: 162.99847362888556	fMax: 166.87547879944245	fMean: 164.67064792088166	stdev: 1.1803076287808498
+step #10/10	fMin: 159.9191080860835	fMax: 162.99847362888676	fMean: 160.89743245759146	stdev: 1.4611927047276447
+interval #289	label: è	start: 100.68265969555517	end: 100.98729349803453
+step #1/12	fMin: 160.80323429322004	fMax: 162.87671995384486	fMean: 161.93124181246932	stdev: 0.9565269994988268
+step #2/12	fMin: 154.21286161996161	fMax: 162.0169869658108	fMean: 158.1754418318572	stdev: 2.5766503422561806
+step #3/12	fMin: 151.433221116406	fMax: 154.21286161997034	fMean: 152.31845913796286	stdev: 0.8281786526973186
+step #4/12	fMin: 149.3398292105625	fMax: 151.47955156223244	fMean: 150.24299540899605	stdev: 0.8698310807129633
+step #5/12	fMin: 149.04254033312696	fMax: 149.37075232100034	fMean: 149.24428212901432	stdev: 0.10738723161291473
+step #6/12	fMin: 149.00682852495285	fMax: 149.37596423515117	fMean: 149.19175544825362	stdev: 0.15434880562801484
+step #7/12	fMin: 149.0744867595251	fMax: 149.47300833172102	fMean: 149.27901715493513	stdev: 0.13572730104434663
+step #8/12	fMin: 145.87842914586872	fMax: 149.08368824610073	fMean: 147.63408803448445	stdev: 1.1385825316593314
+step #9/12	fMin: 145.87842914586872	fMax: 145.87842914586872	fMean: 145.87842914586872	stdev: --undefined--
+step #10/12	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #11/12	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #12/12	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #291	label: è	start: 101.21371051339081	end: 101.48129425881187
+step #1/10	fMin: 203.90698984533947	fMax: 211.28167864205344	fMean: 208.77437669042743	stdev: --undefined--
+step #2/10	fMin: 190.4009778576106	fMax: 205.80328222812736	fMean: 199.29950830278833	stdev: 4.839471184065449
+step #3/10	fMin: 181.92684451913993	fMax: 190.40097785762313	fMean: 183.66156903894787	stdev: 2.3443498730696914
+step #4/10	fMin: 180.39328535212692	fMax: 181.92684451913993	fMean: 181.2566773999197	stdev: 0.3766917066976987
+step #5/10	fMin: 176.05577534998602	fMax: 180.3932853521293	fMean: 178.24722907178477	stdev: 1.433813211683002
+step #6/10	fMin: 175.11830015165899	fMax: 176.630106986217	fMean: 175.66383140542223	stdev: 0.47850038673137874
+step #7/10	fMin: 171.29147192159064	fMax: 175.11830015165899	fMean: 172.92042739454374	stdev: 1.2758907413201712
+step #8/10	fMin: 166.03763748711592	fMax: 171.29147192159292	fMean: 168.80990656365998	stdev: 1.8049350335429444
+step #9/10	fMin: 161.97346806518027	fMax: 166.03763748711592	fMean: 164.1789599940379	stdev: 1.5472247026788803
+step #10/10	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #293	label: è	start: 101.54652035641742	end: 101.71392674247137
+step #1/6	fMin: 156.0275360274742	fMax: 159.76201005803836	fMean: 158.4285050122709	stdev: 1.398602412208607
+step #2/6	fMin: 150.67967802416686	fMax: 157.72266666955673	fMean: 153.9019778289407	stdev: 2.1311999101462886
+step #3/6	fMin: 144.0714285553504	fMax: 150.67967802417033	fMean: 146.76337350212964	stdev: 2.2327206425740576
+step #4/6	fMin: 136.2344032682822	fMax: 144.0714285553504	fMean: 141.06951630132596	stdev: 2.7644357744543795
+step #5/6	fMin: 128.29104333854733	fMax: 136.23440326828702	fMean: 132.16956227966077	stdev: 3.0566313503366604
+step #6/6	fMin: 129.23785974128353	fMax: 130.94265363571282	fMean: 130.1582348533617	stdev: 0.579217440853723
+interval #295	label: á	start: 101.7203654496273	end: 101.87489442136942
+step #1/6	fMin: 144.71378199886314	fMax: 153.98557077649755	fMean: 150.17696076047218	stdev: 2.570308747440285
+step #2/6	fMin: 153.98557077649755	fMax: 163.56350411068482	fMean: 159.1919778694634	stdev: 2.3731153420341213
+step #3/6	fMin: 163.5635041106659	fMax: 178.07238854697292	fMean: 171.17034772199932	stdev: 4.6543164769706395
+step #4/6	fMin: 178.07238854697292	fMax: 198.44647189106448	fMean: 188.35193058658282	stdev: 6.210989988212888
+step #5/6	fMin: 198.4464718910534	fMax: 206.437088756058	fMean: 203.51465783845475	stdev: 3.6688807856211105
+step #6/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #297	label: ùn	start: 101.96181696797436	end: 102.20004913274344
+step #1/9	fMin: 98.08031269944568	fMax: 110.30649395761023	fMean: 103.52674911259518	stdev: 5.363797953787047
+step #2/9	fMin: 98.53546529326367	fMax: 100.95691057805556	fMean: 100.05412315435439	stdev: 0.7509264901302731
+step #3/9	fMin: 97.20277553276824	fMax: 107.84586355915174	fMean: 100.90180913478886	stdev: 3.7801402219165343
+step #4/9	fMin: 107.84586355915174	fMax: 112.6744439060757	fMean: 111.69783695097853	stdev: 1.3318864589641857
+step #5/9	fMin: 110.28056550794204	fMax: 112.47375880699053	fMean: 111.12380474572309	stdev: 0.6505313227218625
+step #6/9	fMin: 108.05260330127128	fMax: 110.80142417536415	fMean: 109.74046799751416	stdev: 1.0534499781033615
+step #7/9	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #8/9	fMin: 182.8019144658386	fMax: 193.3011034584704	fMean: 187.82051184178698	stdev: 3.91417576424268
+step #9/9	fMin: 173.00546120242623	fMax: 182.8019144658386	fMean: 176.09037957616846	stdev: 3.4444332356811094
+interval #299	label: ìn	start: 102.36798612466936	end: 102.53086089809103
+step #1/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #4/6	fMin: 137.0624197551348	fMax: 137.7641643156299	fMean: 137.52317653649598	stdev: 0.24128686335797686
+step #5/6	fMin: 136.7658073758814	fMax: 137.06241975513564	fMean: 136.88813272775027	stdev: 0.10301469923994484
+step #6/6	fMin: 136.77233005040696	fMax: 137.06822411972252	fMean: 136.8298254353429	stdev: 0.07530501841270021
+interval #301	label: ūn	start: 102.8635045952898	end: 102.99127837776417
+step #1/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #4/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #5/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #303	label: á	start: 103.09775652982617	end: 103.20914905813717
+step #1/4	fMin: 171.16588097933513	fMax: 171.53977382532793	fMean: 171.39150891739695	stdev: 0.15946757274266052
+step #2/4	fMin: 169.14829915381662	fMax: 171.36678995888215	fMean: 170.23917384842312	stdev: 0.6719948695224967
+step #3/4	fMin: 165.91408034304936	fMax: 169.14829915381776	fMean: 167.67202337405382	stdev: 1.053655781538195
+step #4/4	fMin: 160.37112833692	fMax: 165.91408034304936	fMean: 162.94508781658544	stdev: 2.022907426725498
+interval #305	label: ī	start: 103.3924239761873	end: 103.57097964656818
+step #1/7	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/7	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/7	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #4/7	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #5/7	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #6/7	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #7/7	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #307	label: á	start: 105.04983939910723	end: 105.11209680354214
+step #1/2	fMin: 206.0439257950939	fMax: 213.69581419265802	fMean: 209.06395166254703	stdev: 2.3466782872531398
+step #2/2	fMin: 213.69581419265802	fMax: 224.87937336946558	fMean: 221.11239110660978	stdev: 3.746833176332388
+interval #309	label: ā	start: 105.22508246344256	end: 105.32423314457965
+step #1/3	fMin: 200.4340419341444	fMax: 214.33447816860047	fMean: 208.9584448605384	stdev: 5.053678818746842
+step #2/3	fMin: 186.8999292185257	fMax: 200.4340419341444	fMean: 193.36958298444947	stdev: 4.2257765824615525
+step #3/3	fMin: 184.05776223023167	fMax: 186.89992921852965	fMean: 184.68477972648847	stdev: 0.8619440331166651
+interval #311	label: à	start: 105.41869889409888	end: 105.50410477891256
+step #1/3	fMin: 178.8796750644719	fMax: 197.81684554606306	fMean: 187.37281637809926	stdev: 7.3833993737997545
+step #2/3	fMin: 175.08975985753676	fMax: 178.8796750644719	fMean: 175.9467784277829	stdev: 1.162423978098052
+step #3/3	fMin: 174.7097795120142	fMax: 175.72570093641448	fMean: 175.29661383378024	stdev: 0.27835898642595036
+interval #313	label: à	start: 105.60383723767892	end: 105.69209447727829
+step #1/3	fMin: 172.08188380118597	fMax: 173.20355837825946	fMean: 172.9142874127014	stdev: 0.3568973490762466
+step #2/3	fMin: 170.10512288294967	fMax: 172.08188380118597	fMean: 171.15048708720863	stdev: 0.607009028756515
+step #3/3	fMin: 75.30345690805473	fMax: 181.65104494234163	fMean: 128.2938549338748	stdev: 45.39963792937353
+interval #315	label: à	start: 105.72594656917941	end: 105.81662181534317
+step #1/3	fMin: 90.42608485937984	fMax: 110.24296025407189	fMean: 103.84610810035088	stdev: 5.204900082721746
+step #2/3	fMin: 88.30458748222367	fMax: 90.42608485937984	fMean: 89.46534205354696	stdev: --undefined--
+step #3/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #317	label: ī	start: 106.12565796221054	end: 106.1840375902618
+step #1/2	fMin: 192.78116249748243	fMax: 194.43009020725765	fMean: 193.68454344467855	stdev: 0.7804326634291325
+step #2/2	fMin: 187.64765822121146	fMax: 194.3263200029889	fMean: 191.74181922846878	stdev: 2.149096966053806
+interval #319	label: á	start: 106.32748467633063	end: 106.47593573051813
+step #1/5	fMin: 196.05298054095022	fMax: 220.45782925963445	fMean: 206.04836840093017	stdev: 8.935944552775215
+step #2/5	fMin: 194.22010723338613	fMax: 196.53986059881237	fMean: 194.97674833133354	stdev: 0.7734038118495087
+step #3/5	fMin: 196.53986059880995	fMax: 202.13319716717388	fMean: 200.02117304171986	stdev: 1.7581962471448236
+step #4/5	fMin: 202.13319716717388	fMax: 204.90626296424298	fMean: 203.60634086150657	stdev: 0.9291542713675988
+step #5/5	fMin: 204.90626296424225	fMax: 208.77303388469753	fMean: 206.8974759723355	stdev: 1.276452361600451
+interval #321	label: á	start: 106.5860230291291	end: 106.68276641275692
+step #1/3	fMin: 218.44616643377856	fMax: 220.479677368442	fMean: 219.76886242788072	stdev: 0.5234440157373976
+step #2/3	fMin: 213.30753538007238	fMax: 218.44616643377856	fMean: 215.73463710249268	stdev: 1.6754291414819322
+step #3/3	fMin: 213.03981067455658	fMax: 213.91802361219501	fMean: 213.48505710938997	stdev: 0.34307315713656866
+interval #323	label: í'n	start: 106.82683369441715	end: 106.88889159187606
+step #1/2	fMin: 111.75876749178504	fMax: 115.70433748276058	fMean: 113.60866082537498	stdev: 1.6084202822691198
+step #2/2	fMin: 108.05404586740389	fMax: 111.75876749178504	fMean: 109.64549242188909	stdev: 1.2544884213842968
+interval #325	label: ò	start: 107.02222924720027	end: 107.06101543311209
+step #1/1	fMin: 182.02295772717923	fMax: 184.68085558862273	fMean: 183.09697871344355	stdev: 0.8444854383362493
+interval #327	label: ín	start: 107.17282361209587	end: 107.30469664419607
+step #1/5	fMin: 216.08642739771844	fMax: 223.6915399656051	fMean: 220.273706924642	stdev: 2.960252916912582
+step #2/5	fMin: 223.6915399656051	fMax: 227.48207139206843	fMean: 225.60492660375766	stdev: 1.2607944788132
+step #3/5	fMin: 226.54353650028742	fMax: 228.4197334516201	fMean: 227.81882113315407	stdev: 0.5348948922211172
+step #4/5	fMin: 220.5259748658019	fMax: 226.54353650028742	fMean: 224.0560329334726	stdev: 1.8946691332403507
+step #5/5	fMin: 219.1064892531796	fMax: 220.52597486580828	fMean: 219.46822865372485	stdev: 0.789336204422284
+interval #329	label: ī	start: 108.4611369279069	end: 108.53978374684849
+step #1/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #331	label: àn	start: 108.54961459921618	end: 108.6806926307855
+step #1/5	fMin: 155.46664721727402	fMax: 164.3046405927509	fMean: 159.6744921048055	stdev: 3.0489767707263082
+step #2/5	fMin: 155.07301006416793	fMax: 158.8771286817189	fMean: 156.55285609227695	stdev: 1.3208840568613318
+step #3/5	fMin: 158.8771286817178	fMax: 165.26948287466348	fMean: 162.8453661782989	stdev: 2.1966354311369902
+step #4/5	fMin: 162.8095188897396	fMax: 165.2979686601227	fMean: 164.3864105039214	stdev: 0.9869164805400518
+step #5/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #333	label: āà	start: 108.8202279863715	end: 109.00865265675239
+step #1/7	fMin: 165.4953989453504	fMax: 172.6329311267716	fMean: 168.06976414149617	stdev: 2.3230229371313915
+step #2/7	fMin: 172.6329311267716	fMax: 183.63478503824138	fMean: 178.00245596953368	stdev: 3.542992135976282
+step #3/7	fMin: 183.63478503822947	fMax: 189.28623452288943	fMean: 187.0908275891609	stdev: 1.661947380979649
+step #4/7	fMin: 189.28623452288943	fMax: 193.8952423161418	fMean: 191.63216621195943	stdev: 1.4149445470852078
+step #5/7	fMin: 193.89524231613996	fMax: 196.587197882938	fMean: 194.77154811790706	stdev: 0.737894437454144
+step #6/7	fMin: 196.587197882938	fMax: 199.31560934035184	fMean: 197.72489816281617	stdev: 0.7440267877176407
+step #7/7	fMin: 199.31560934035184	fMax: 200.11246292709532	fMean: 199.78959616414343	stdev: 0.22465411814696415
+interval #335	label: ī	start: 109.12828234193843	end: 109.20037525930157
+step #1/2	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/2	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #337	label: ī	start: 109.24133714416698	end: 109.29212988140009
+step #1/2	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/2	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #339	label: ó	start: 109.29540683218931	end: 109.35603042179012
+step #1/2	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/2	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #341	label: ī	start: 109.85706234061227	end: 109.94226306113232
+step #1/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/3	fMin: 188.2991758345566	fMax: 189.51962325666875	fMean: 188.92720393444137	stdev: 0.5203112927477345
+step #3/3	fMin: 181.09180029316855	fMax: 188.96415030965366	fMean: 185.09332766087317	stdev: 2.9167144143099213
+interval #343	label: í	start: 110.15690333782709	end: 110.27978899242332
+step #1/4	fMin: 238.01866367528743	fMax: 240.04429335620028	fMean: 239.22601652164573	stdev: 0.6972809461040621
+step #2/4	fMin: 233.88699365228953	fMax: 238.7561474160093	fMean: 236.20519269252668	stdev: 1.5434026188809444
+step #3/4	fMin: 229.7075625705188	fMax: 233.8869936522922	fMean: 232.0363895732845	stdev: 1.4020702170438082
+step #4/4	fMin: 225.36517707972408	fMax: 229.7075625705188	fMean: 228.0354504099036	stdev: 1.4033009862694845
+interval #345	label: ān	start: 110.39233488194367	end: 110.51358206114529
+step #1/4	fMin: 194.37721365505905	fMax: 224.68794224738238	fMean: 210.26707511141487	stdev: 9.440771513705748
+step #2/4	fMin: 179.39903599767433	fMax: 194.37721365505905	fMean: 184.717521695302	stdev: 4.069995232115804
+step #3/4	fMin: 177.74295067374695	fMax: 179.39903599768138	fMean: 178.1250216133546	stdev: 0.4349256069562519
+step #4/4	fMin: 178.2626671700826	fMax: 183.37569061582252	fMean: 181.01372678597667	stdev: 1.9269985475130613
+interval #347	label: ā	start: 110.62991381416305	end: 110.73641471481312
+step #1/4	fMin: 168.38606653696442	fMax: 173.09619604964644	fMean: 170.67631026414145	stdev: 1.4530774251633782
+step #2/4	fMin: 164.18895609403108	fMax: 168.38606653696442	fMean: 165.46362843669672	stdev: 1.2582555589246447
+step #3/4	fMin: 163.851241480339	fMax: 164.18895609403404	fMean: 164.0336236256304	stdev: 0.1420232093255159
+step #4/4	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #349	label: í'	start: 110.9033440325323	end: 111.1605846694871
+step #1/10	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/10	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/10	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #4/10	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #5/10	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #6/10	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #7/10	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #8/10	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #9/10	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #10/10	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #351	label: ū'	start: 111.30045474662869	end: 111.43480972898723
+step #1/5	fMin: 208.15463173150363	fMax: 208.649916333982	fMean: 208.41160810615526	stdev: 0.2552205463253707
+step #2/5	fMin: 200.38384578565535	fMax: 208.4552012540261	fMean: 205.16247171818824	stdev: 2.68655636360683
+step #3/5	fMin: 190.47783132600347	fMax: 200.3838457856641	fMean: 195.56075799974138	stdev: 3.2448072590241908
+step #4/5	fMin: 190.24517722698383	fMax: 193.6889906094438	fMean: 192.03252600712906	stdev: 1.3663717147925132
+step #5/5	fMin: 179.95082837643582	fMax: 192.49854092850745	fMean: 186.07651150396507	stdev: 4.727603345977167
+interval #353	label: í'	start: 111.73301225080743	end: 111.79691279119747
+step #1/2	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/2	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #355	label: à	start: 111.9465649275738	end: 112.0760044837485
+step #1/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/5	fMin: 167.34944818171732	fMax: 178.96180250133162	fMean: 172.2621645262615	stdev: 3.985696432829911
+step #3/5	fMin: 162.73081033231082	fMax: 167.3494481817293	fMean: 164.91693788617732	stdev: 1.3617762247194547
+step #4/5	fMin: 155.46597035182046	fMax: 162.73081033231082	fMean: 159.9501776674333	stdev: 2.300635862043167
+step #5/5	fMin: 154.1266807795418	fMax: 155.46597035183794	fMean: 154.3890220358583	stdev: --undefined--
+interval #357	label: ìn	start: 112.30165396863026	end: 112.36719298441493
+step #1/2	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/2	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #359	label: à	start: 112.47205540967038	end: 112.71127281728438
+step #1/9	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/9	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/9	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #4/9	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #5/9	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #6/9	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #7/9	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #8/9	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #9/9	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #361	label: ū'	start: 112.8718434059568	end: 112.95868260187147
+step #1/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #363	label: 'ū	start: 113.11629266769911	end: 113.26896765559022
+step #1/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #4/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #5/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #6/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #365	label: ā	start: 113.32406840309979	end: 113.40557159212436
+step #1/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #367	label: ī	start: 116.22981167199534	end: 116.67933738322827
+step #1/17	fMin: 93.47967567612439	fMax: 98.08602849062909	fMean: 96.1362974416796	stdev: 1.8160479382531585
+step #2/17	fMin: 89.94035251374038	fMax: 93.47967567612439	fMean: 91.81363811739334	stdev: 1.1466168422444887
+step #3/17	fMin: 87.97850840011598	fMax: 91.04749142819905	fMean: 89.92221726610538	stdev: 1.0168547809138635
+step #4/17	fMin: 88.3001635309393	fMax: 88.77186064599722	fMean: 88.56897918110917	stdev: 0.16681157324779497
+step #5/17	fMin: 88.62377966904839	fMax: 88.80032555497763	fMean: 88.70082056428548	stdev: 0.06366596569823851
+step #6/17	fMin: 77.10639263128132	fMax: 186.48255242559677	fMean: 123.58895246906727	stdev: 45.843464790431184
+step #7/17	fMin: 173.07855775007238	fMax: 174.66344423833237	fMean: 173.69836024191463	stdev: 0.5506795430416829
+step #8/17	fMin: 171.167042028496	fMax: 173.71472407517805	fMean: 172.9642496544599	stdev: 0.8592904616688808
+step #9/17	fMin: 167.29008332270377	fMax: 171.167042028496	fMean: 168.7292853701667	stdev: 1.4008841348279253
+step #10/17	fMin: 167.22461864970407	fMax: 168.47101196235857	fMean: 167.6077487724223	stdev: 0.45688392075398265
+step #11/17	fMin: 168.47101196235857	fMax: 170.4032985309395	fMean: 169.45213210776143	stdev: 0.6781920650141731
+step #12/17	fMin: 170.4032985309395	fMax: 172.45206135478082	fMean: 171.3875137965204	stdev: 0.6934448752597855
+step #13/17	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #14/17	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #15/17	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #16/17	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #17/17	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #369	label: ūn	start: 120.0178378310057	end: 120.17248574575487
+step #1/6	fMin: 183.70255959868268	fMax: 185.07351720131615	fMean: 184.32474729893002	stdev: 0.6950588509933904
+step #2/6	fMin: 183.18953937065837	fMax: 184.77647797047678	fMean: 184.23672230215956	stdev: 0.4573658631037945
+step #3/6	fMin: 179.07747522977374	fMax: 183.18953937066493	fMean: 181.33168261163848	stdev: 1.4105863440560897
+step #4/6	fMin: 176.1590568300864	fMax: 179.07747522977374	fMean: 177.70662737373084	stdev: 0.8082251722163906
+step #5/6	fMin: 174.6472965904832	fMax: 176.1590568300864	fMean: 175.2108881481352	stdev: 0.4288738134952301
+step #6/6	fMin: 175.56774160584885	fMax: 175.71686552430631	fMean: 175.67785494522582	stdev: --undefined--
+interval #371	label: ún'	start: 120.34163190251175	end: 120.61226575332279
+step #1/10	fMin: 278.4491585958938	fMax: 299.90385382352935	fMean: 291.7850226751524	stdev: 6.362877928000257
+step #2/10	fMin: 296.6275639989819	fMax: 306.00550909444286	fMean: 302.68651897222276	stdev: 2.7438654455463407
+step #3/10	fMin: 277.49269526988155	fMax: 296.62756399900934	fMean: 286.8296347831701	stdev: 5.449210366119014
+step #4/10	fMin: 251.9601900761093	fMax: 277.49269526988155	fMean: 265.058024282572	stdev: 8.340598139916594
+step #5/10	fMin: 219.73710618280552	fMax: 251.96019007612495	fMean: 236.27160864654874	stdev: 11.179246411915523
+step #6/10	fMin: 196.57270333263997	fMax: 219.73710618280552	fMean: 209.6014592514647	stdev: --undefined--
+step #7/10	fMin: 186.1573059180772	fMax: 196.57270333263997	fMean: 190.73138660335792	stdev: 3.637032096212195
+step #8/10	fMin: 182.54698315336944	fMax: 186.40415832764836	fMean: 184.8373776605715	stdev: 1.1055215066240371
+step #9/10	fMin: 178.04484706770901	fMax: 182.54698315336944	fMean: 180.47143654948016	stdev: 1.1629658322958938
+step #10/10	fMin: 176.44966985500506	fMax: 178.04484706771632	fMean: 177.0577408699928	stdev: --undefined--
+interval #373	label: à	start: 120.6605932266819	end: 120.92639433015701
+step #1/10	fMin: 161.01495453286915	fMax: 164.16580721432163	fMean: 162.5127749772341	stdev: 1.1246127893363587
+step #2/10	fMin: 158.55567516161312	fMax: 161.01495453286915	fMean: 159.59578756242936	stdev: 0.8722073983845164
+step #3/10	fMin: 157.46757596032086	fMax: 158.55567516161312	fMean: 158.04794815707442	stdev: 0.3523175565968699
+step #4/10	fMin: 154.898153634811	fMax: 157.46757596032086	fMean: 156.00455526494991	stdev: 0.7917691089339763
+step #5/10	fMin: 152.75409525417865	fMax: 154.898153634811	fMean: 153.64768381513923	stdev: 0.587108547520972
+step #6/10	fMin: 151.36424333224224	fMax: 152.75409525417865	fMean: 151.9692277361853	stdev: 0.42290266526868475
+step #7/10	fMin: 149.28745689093478	fMax: 151.36424333224224	fMean: 150.19060985387972	stdev: 0.7351771310254469
+step #8/10	fMin: 148.73190441320216	fMax: 149.49345698782534	fMean: 149.01207425985035	stdev: 0.2614122028938719
+step #9/10	fMin: 149.49345698782534	fMax: 150.75399002158673	fMean: 150.38275552569885	stdev: 0.3714922043864422
+step #10/10	fMin: 149.01736706301946	fMax: 150.20009998234858	fMean: 149.728925490989	stdev: 0.35888297352124027
+interval #375	label: á	start: 122.19792453483875	end: 122.37190343893155
+step #1/6	fMin: 222.60407909498647	fMax: 225.15604947974467	fMean: 223.8840293005832	stdev: 0.8834792300708305
+step #2/6	fMin: 223.36363236242303	fMax: 225.91515050115237	fMean: 224.62045451322388	stdev: 0.986771706630326
+step #3/6	fMin: 217.4742568125959	fMax: 223.3636323624248	fMean: 220.99200344560586	stdev: 1.9286313512045992
+step #4/6	fMin: 211.0189547897199	fMax: 217.4742568125959	fMean: 214.46043430704822	stdev: 1.906245211682732
+step #5/6	fMin: 207.97871126929002	fMax: 211.01895478972918	fMean: 209.0943379506976	stdev: 0.9455124777104789
+step #6/6	fMin: 207.98372126283988	fMax: 208.90799104964847	fMean: 208.38920423858502	stdev: 0.23763560102056933
+interval #377	label: án	start: 122.53205546173612	end: 122.65511127872355
+step #1/4	fMin: 209.80519253710503	fMax: 231.77109904970445	fMean: 217.584909204714	stdev: 6.528743733420237
+step #2/4	fMin: 203.84796623078552	fMax: 209.80519253710503	fMean: 206.53940170088424	stdev: 1.987419026158374
+step #3/4	fMin: 203.74478449506435	fMax: 204.32642872438637	fMean: 204.04636324539374	stdev: 0.19625977475508175
+step #4/4	fMin: 204.2490611876883	fMax: 207.8757584218416	fMean: 205.44313881668165	stdev: 1.2907127488409837
+interval #379	label: á	start: 122.74227581575632	end: 123.10289772387226
+step #1/14	fMin: 210.2830119517705	fMax: 212.57302202648475	fMean: 212.00727646763616	stdev: 0.9467953585006386
+step #2/14	fMin: 205.83353403924738	fMax: 211.9680311191727	fMean: 209.02054154411084	stdev: 1.9576920715637824
+step #3/14	fMin: 203.51841928172485	fMax: 205.83353403925125	fMean: 204.36974090178646	stdev: 0.7749759023284627
+step #4/14	fMin: 203.46684851810951	fMax: 205.74261709968758	fMean: 204.38356768257293	stdev: 0.8453532519278543
+step #5/14	fMin: 205.74261709968647	fMax: 206.24184084673607	fMean: 205.98110460998927	stdev: 0.13311513922907728
+step #6/14	fMin: 204.86869520070334	fMax: 206.18267649606756	fMean: 205.41313848169017	stdev: 0.43337407891104607
+step #7/14	fMin: 204.05933668147708	fMax: 204.86869520070334	fMean: 204.25634806874186	stdev: 0.2501534350630549
+step #8/14	fMin: 203.50111896851254	fMax: 204.16101465325687	fMean: 203.88581397946035	stdev: 0.23895301370503458
+step #9/14	fMin: 203.27124239468105	fMax: 203.73910629066248	fMean: 203.5574347908536	stdev: 0.1246511061479457
+step #10/14	fMin: 201.91298989015579	fMax: 203.27124239468213	fMean: 202.59518373903796	stdev: 0.46513086889076855
+step #11/14	fMin: 201.03388353763768	fMax: 201.9576866739769	fMean: 201.52850496645289	stdev: 0.3562461361980859
+step #12/14	fMin: 201.05801690357364	fMax: 202.21071544834922	fMean: 201.70478928395218	stdev: 0.31492111761448904
+step #13/14	fMin: 202.21071544834794	fMax: 203.19858451500866	fMean: 202.54903720759157	stdev: 0.3306273594385561
+step #14/14	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #381	label: ú	start: 124.1481580178696	end: 124.2045586006555
+step #1/2	fMin: 272.0835046788167	fMax: 279.19705583623096	fMean: 276.97080609411296	stdev: 1.9762212626404776
+step #2/2	fMin: 279.19705583623096	fMax: 281.773643094099	fMean: 280.83040760725095	stdev: 0.8488920828883194
+interval #383	label: ī	start: 124.33786906905856	end: 124.46434310318452
+step #1/5	fMin: 261.54209895058153	fMax: 283.28466407418955	fMean: 270.1236850052404	stdev: 8.283253399553447
+step #2/5	fMin: 242.17426196386762	fMax: 261.54209895058153	fMean: 251.3531498600938	stdev: 6.172602750409711
+step #3/5	fMin: 222.912640700411	fMax: 242.17426196386762	fMean: 233.23250615323434	stdev: 6.047995696105553
+step #4/5	fMin: 209.53031109562988	fMax: 222.912640700411	fMean: 215.68551206591528	stdev: 4.3584298843805165
+step #5/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #385	label: ā	start: 124.58227159446415	end: 124.68823632575888
+step #1/4	fMin: 182.00719834292713	fMax: 199.11387429892193	fMean: 189.7327125093322	stdev: 7.262003438803715
+step #2/4	fMin: 169.48572695209987	fMax: 182.00719834292713	fMean: 175.21191674336106	stdev: 4.38901244441523
+step #3/4	fMin: 163.35229734457252	fMax: 169.48572695210578	fMean: 166.4786145193749	stdev: 1.9151139414645175
+step #4/4	fMin: 158.73497102739418	fMax: 163.35229734457252	fMean: 160.67051126206863	stdev: 1.4487079132471443
+interval #387	label: ā	start: 124.76172799423748	end: 124.87623826837856
+step #1/4	fMin: 163.05966864057584	fMax: 166.48329080396636	fMean: 164.34329789509263	stdev: 1.0296459371471844
+step #2/4	fMin: 163.29850334015828	fMax: 165.00656911824325	fMean: 163.77107144215657	stdev: 0.5579882929154824
+step #3/4	fMin: 165.00656911824325	fMax: 172.57443458971193	fMean: 168.47616218724718	stdev: 2.2397466505347
+step #4/4	fMin: 172.57443458971193	fMax: 174.5385224891113	fMean: 173.86103057091313	stdev: --undefined--
+interval #389	label: ú	start: 124.98526414161394	end: 125.38519554682308
+step #1/15	fMin: 239.031501621614	fMax: 241.2245881001935	fMean: 240.03911444444458	stdev: 1.031366909778768
+step #2/15	fMin: 239.6823459944284	fMax: 242.7955066026646	fMean: 241.16822667507344	stdev: 0.8717295946772042
+step #3/15	fMin: 242.79550660266398	fMax: 247.0065661675789	fMean: 244.82909522523295	stdev: 1.4575915060536733
+step #4/15	fMin: 247.0065661675789	fMax: 250.96188080070462	fMean: 248.70861979851216	stdev: 1.2316413628267844
+step #5/15	fMin: 250.96188080070462	fMax: 254.21026241459418	fMean: 252.77653262907737	stdev: 1.0467374207516593
+step #6/15	fMin: 254.21026241459418	fMax: 257.51904857616535	fMean: 255.7449535381442	stdev: 1.1233702104377845
+step #7/15	fMin: 257.51904857616535	fMax: 258.4609114335331	fMean: 258.06617080498853	stdev: 0.21763593099814346
+step #8/15	fMin: 258.4609114335303	fMax: 259.40824507639866	fMean: 259.05200305866026	stdev: 0.30734167194859435
+step #9/15	fMin: 259.40824507639866	fMax: 260.1439336044545	fMean: 259.7909260364984	stdev: 0.2222011599580625
+step #10/15	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #11/15	fMin: 268.67615059869826	fMax: 268.67615059869826	fMean: 268.67615059869826	stdev: --undefined--
+step #12/15	fMin: 268.67615059869826	fMax: 272.13637048792646	fMean: 270.27078963704565	stdev: 1.235259160339422
+step #13/15	fMin: 272.136370487925	fMax: 275.479261616673	fMean: 273.8405224064165	stdev: 1.092223303356239
+step #14/15	fMin: 275.479261616673	fMax: 280.37376421054006	fMean: 277.77661229038034	stdev: 1.5550376243666328
+step #15/15	fMin: 280.37376421054006	fMax: 282.7849124175124	fMean: 281.8705859483992	stdev: 0.6829614630819227
+interval #391	label: ī	start: 125.63424500532844	end: 125.73508241091535
+step #1/4	fMin: 234.15834676396204	fMax: 240.56573083484022	fMean: 237.30609460023092	stdev: 3.166691438974975
+step #2/4	fMin: 230.8759453323052	fMax: 234.36762884028593	fMean: 232.75427129650217	stdev: 1.2065190388768685
+step #3/4	fMin: 228.18561435040448	fMax: 230.8759453323052	fMean: 229.2774034075551	stdev: 0.7047743736806484
+step #4/4	fMin: 223.93650835366415	fMax: 228.18561435040448	fMean: 226.2016745176758	stdev: 1.6535635044356838
+interval #393	label: ī	start: 125.7778101251471	end: 125.88890218214964
+step #1/4	fMin: 217.27381090688377	fMax: 238.890310973744	fMean: 231.78143099148411	stdev: 8.759380716022738
+step #2/4	fMin: 235.85936251870962	fMax: 238.91565953844295	fMean: 237.53715248780887	stdev: 1.1025718506257722
+step #3/4	fMin: 233.35219531212303	fMax: 235.8593625187127	fMean: 234.34807315667067	stdev: 0.7710183703631883
+step #4/4	fMin: 230.61056592228	fMax: 233.35219531212303	fMean: 232.77215254112502	stdev: 0.7759999761206396
+interval #395	label: í	start: 126.03075819339904	end: 126.16235955323282
+step #1/5	fMin: 232.4682229438882	fMax: 251.05626307705867	fMean: 246.42386901011807	stdev: 6.041507765211465
+step #2/5	fMin: 246.9462437405313	fMax: 250.5505587966624	fMean: 248.7068207789045	stdev: 1.2485622443366133
+step #3/5	fMin: 242.66062159656528	fMax: 246.94624374053438	fMean: 244.87764322393136	stdev: 1.3546811421562988
+step #4/5	fMin: 235.83981624051302	fMax: 242.66062159656528	fMean: 239.1813600576913	stdev: 2.2323481673945693
+step #5/5	fMin: 218.70876955557063	fMax: 235.8398162405174	fMean: 228.11003706003922	stdev: 5.126576655684236
+interval #397	label: ò	start: 126.34900104358856	end: 126.43103825491352
+step #1/3	fMin: 170.89284246198483	fMax: 179.29717719958867	fMean: 175.7334869799902	stdev: 2.6566419405593433
+step #2/3	fMin: 157.6462636518435	fMax: 170.89284246198483	fMean: 164.30879598571022	stdev: 4.239245769099618
+step #3/3	fMin: 156.38119459271738	fMax: 157.6462636518435	fMean: 156.75010428931162	stdev: --undefined--
+interval #399	label: áà	start: 126.51646755484556	end: 126.66827282173614
+step #1/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #4/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #5/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #6/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #401	label: ī	start: 127.58239831876925	end: 127.72018847208074
+step #1/5	fMin: 222.92465698603985	fMax: 232.1740787626573	fMean: 228.8674033518418	stdev: 3.4870192355155685
+step #2/5	fMin: 229.05959792650265	fMax: 232.0272895577721	fMean: 230.4702625340744	stdev: 1.1097844854257155
+step #3/5	fMin: 225.1549003951631	fMax: 229.05959792650265	fMean: 227.47805218237505	stdev: 1.2954673489792852
+step #4/5	fMin: 215.79549191277346	fMax: 225.1549003951631	fMean: 220.50367061874803	stdev: 3.000141386079779
+step #5/5	fMin: 212.993998857962	fMax: 215.79549191277346	fMean: 214.2358817722706	stdev: 1.6082015901824678
+interval #403	label: ò	start: 127.86624603459092	end: 127.96545494497518
+step #1/3	fMin: 183.48266625799877	fMax: 193.58568412181972	fMean: 187.06379808577768	stdev: 3.2024134847268453
+step #2/3	fMin: 175.64469478235193	fMax: 183.48266625799877	fMean: 179.3111625414582	stdev: 2.4553779238691855
+step #3/3	fMin: 171.9506763552672	fMax: 175.64469478235648	fMean: 174.02043819404372	stdev: 1.1564599549788461
+interval #405	label: á	start: 128.06466385535944	end: 128.14182634121389
+step #1/3	fMin: 184.1077528930216	fMax: 187.36826955594495	fMean: 185.4198850112128	stdev: 1.430545360046734
+step #2/3	fMin: 184.12973648388086	fMax: 194.431020445558	fMean: 188.42351726966032	stdev: 3.7129160253646734
+step #3/3	fMin: 194.431020445558	fMax: 204.45200730987364	fMean: 200.3559291062234	stdev: 3.9091019932661424
+interval #407	label: án	start: 128.23001203933325	end: 128.29890711598898
+step #1/2	fMin: 243.17057521970906	fMax: 263.85998670895947	fMean: 251.3682980805829	stdev: 7.8686452645350204
+step #2/2	fMin: 241.88367377902836	fMax: 243.17057521970906	fMean: 242.14389606180558	stdev: 0.3410323236024063
+interval #409	label: à'	start: 128.42567405703554	end: 128.56622001341327
+step #1/5	fMin: 250.44661518111843	fMax: 269.1204233470801	fMean: 263.0352230739602	stdev: 5.135273836653698
+step #2/5	fMin: 246.65874467588966	fMax: 262.6417255322575	fMean: 254.1965182305283	stdev: 5.286467416832441
+step #3/5	fMin: 226.40845312811985	fMax: 246.65874467588966	fMean: 236.7815730658293	stdev: 6.684414310916798
+step #4/5	fMin: 211.57681188108194	fMax: 842.2304363698371	fMean: 390.7121724789414	stdev: 302.64870630597176
+step #5/5	fMin: 822.3695133457264	fMax: 843.8687287535975	fMean: 834.3120742060474	stdev: 7.801715104412703
+interval #411	label: 'à	start: 128.6048012563405	end: 128.70676596979098
+step #1/4	fMin: 820.6723409442466	fMax: 836.9460906118541	fMean: 831.4406801353626	stdev: 5.9528227107775535
+step #2/4	fMin: 823.8227394190424	fMax: 848.2375615201693	fMean: 836.8276145708955	stdev: 7.758825280354337
+step #3/4	fMin: 82.038996661872	fMax: 848.2375615201693	fMean: 136.7777982480663	stdev: 213.35186075550882
+step #4/4	fMin: 83.56988420560158	fMax: 83.63586828010294	fMean: 83.6199865520832	stdev: --undefined--
+interval #413	label: à	start: 128.8087306832415	end: 128.90793959362574
+step #1/3	fMin: 226.65270599336688	fMax: 228.09892403132355	fMean: 227.57654795955142	stdev: 0.39969772555490907
+step #2/3	fMin: 218.48113875746424	fMax: 226.65270599336688	fMean: 222.92883309532766	stdev: 2.5130091652555078
+step #3/3	fMin: 201.25779156045675	fMax: 218.48113875746424	fMean: 211.02496820119424	stdev: 5.3357388933034535
+interval #415	label: ī	start: 129.06226456533463	end: 129.23312435544088
+step #1/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/6	fMin: 185.01136918764152	fMax: 186.14020598126797	fMean: 185.42394281102142	stdev: 0.44759877777427953
+step #3/6	fMin: 186.14020598126797	fMax: 188.43930555371173	fMean: 187.27336769028764	stdev: 0.7485303542772358
+step #4/6	fMin: 187.3636980981649	fMax: 188.47245141961452	fMean: 187.99223390291556	stdev: 0.38900464526637324
+step #5/6	fMin: 186.85884019684062	fMax: 187.3636980981649	fMean: 187.13936224604842	stdev: 0.1363624353602252
+step #6/6	fMin: 183.1882677019866	fMax: 186.85884019684062	fMean: 184.5840176929579	stdev: 1.1915218037018698
+interval #417	label: ī	start: 129.35716145052015	end: 129.50046320996412
+step #1/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #4/5	fMin: 221.93322029573116	fMax: 224.4548709950405	fMean: 222.824880038751	stdev: 1.2954745773434535
+step #5/5	fMin: 224.4548709950405	fMax: 228.33605529012692	fMean: 226.90238152320865	stdev: 1.0879381764214162
+interval #419	label: 'á	start: 129.62723015101068	end: 129.88351983617005
+step #1/10	fMin: 207.4863511088498	fMax: 215.38060830268333	fMean: 212.06140854268142	stdev: 3.0398495198283575
+step #2/10	fMin: 212.13322029799374	fMax: 215.69492917232807	fMean: 214.49031722189386	stdev: 1.2295180521967422
+step #3/10	fMin: 209.88743445104384	fMax: 212.13322029799374	fMean: 210.72803960988313	stdev: 0.6300570890183315
+step #4/10	fMin: 209.6951827651668	fMax: 210.57338944958684	fMean: 210.1363110851331	stdev: 0.267869037918019
+step #5/10	fMin: 210.1393201898047	fMax: 211.1368013614044	fMean: 210.62418793993774	stdev: 0.32836412596712167
+step #6/10	fMin: 210.3499202569705	fMax: 210.97113751549193	fMean: 210.67609112685534	stdev: 0.23851029040714053
+step #7/10	fMin: 210.7802031901962	fMax: 212.87493737514654	fMean: 211.94103970382264	stdev: 0.8272368731459312
+step #8/10	fMin: 212.69573156091974	fMax: 213.9880277439852	fMean: 213.58420575997752	stdev: 0.4205158233724882
+step #9/10	fMin: 213.70966956607953	fMax: 214.49723459748893	fMean: 214.10102666779483	stdev: 0.3022601155030738
+step #10/10	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #422	label: á	start: 130.71202833557152	end: 130.90807953665777
+step #1/7	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/7	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/7	fMin: 194.40614599975575	fMax: 196.9729287385664	fMean: 195.87610129354698	stdev: 1.2477319915624274
+step #4/7	fMin: 195.4993201277636	fMax: 200.60545388191693	fMean: 198.99242627440026	stdev: 1.732595764809122
+step #5/7	fMin: 200.60545388191693	fMax: 205.18560497429021	fMean: 202.97357361563493	stdev: 1.3089845702558058
+step #6/7	fMin: 205.18560497429021	fMax: 213.27906848151852	fMean: 208.26400918305612	stdev: 2.38859360087219
+step #7/7	fMin: 213.27906848151852	fMax: 222.03512066729488	fMean: 219.07445699299802	stdev: 3.0315599599338072
+interval #424	label: á	start: 131.02571025730953	end: 131.37076037122137
+step #1/13	fMin: 219.09669622483798	fMax: 225.0788003420737	fMean: 221.93701979316702	stdev: 1.9573679925454404
+step #2/13	fMin: 217.49052486290188	fMax: 219.09669622483798	fMean: 218.06875230067612	stdev: 0.5629618074193553
+step #3/13	fMin: 217.94244886574205	fMax: 218.63165550642054	fMean: 218.24198938986027	stdev: 0.20805788434458491
+step #4/13	fMin: 217.67586209783732	fMax: 218.35729285075405	fMean: 217.99705104308597	stdev: 0.21431750430721913
+step #5/13	fMin: 215.87167156872232	fMax: 217.67586209783732	fMean: 216.6988306691231	stdev: 0.5959402404953134
+step #6/13	fMin: 215.32101305930428	fMax: 216.04659784051205	fMean: 215.56478928134408	stdev: 0.23795354636726612
+step #7/13	fMin: 216.04659784051205	fMax: 217.949495434738	fMean: 217.03659473406333	stdev: 0.5555319682166535
+step #8/13	fMin: 217.949495434738	fMax: 219.00151246327056	fMean: 218.48373160964314	stdev: 0.34350312983316217
+step #9/13	fMin: 217.50069343560287	fMax: 219.18992093732024	fMean: 218.59623417900286	stdev: 0.5147695564679637
+step #10/13	fMin: 216.85133606485562	fMax: 217.63409860689387	fMean: 217.38232880838115	stdev: 0.20307914053091558
+step #11/13	fMin: 214.28764443948265	fMax: 216.85133606485562	fMean: 215.51234171084218	stdev: 0.7983097667819271
+step #12/13	fMin: 212.03263895360138	fMax: 214.28764443948265	fMean: 212.91955873750504	stdev: 0.6650137038287401
+step #13/13	fMin: 204.80401688408583	fMax: 212.03263895360138	fMean: 208.92148106906023	stdev: 2.463027063857777
+interval #426	label: í	start: 131.50407518796	end: 131.89617759013254
+step #1/15	fMin: 112.32058918456775	fMax: 114.43185700358791	fMean: 113.22263437118055	stdev: 0.743822844131237
+step #2/15	fMin: 111.64606169188013	fMax: 112.866173525676	fMean: 112.3918133254045	stdev: 0.43490049006658144
+step #3/15	fMin: 110.15185122778382	fMax: 111.64606169188013	fMean: 110.82036607593481	stdev: 0.444014640312375
+step #4/15	fMin: 110.00733487138045	fMax: 110.15185122778537	fMean: 110.04890870195378	stdev: --undefined--
+step #5/15	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #6/15	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #7/15	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #8/15	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #9/15	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #10/15	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #11/15	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #12/15	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #13/15	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #14/15	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #15/15	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #428	label: à	start: 132.02949240687119	end: 132.36670047273958
+step #1/13	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/13	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/13	fMin: 165.99217646775844	fMax: 166.7128190785834	fMean: 166.45176545388495	stdev: 0.34734621773053337
+step #4/13	fMin: 162.94928251337618	fMax: 165.99217646776162	fMean: 164.61461537697286	stdev: 0.9105925053433445
+step #5/13	fMin: 157.8380020469965	fMax: 162.94928251337618	fMean: 160.7242440637326	stdev: 1.4700225411910341
+step #6/13	fMin: 153.28368959850636	fMax: 157.8380020469965	fMean: 155.53486813068147	stdev: 1.408400071878505
+step #7/13	fMin: 149.8869056775537	fMax: 153.28368959850636	fMean: 151.07613457338365	stdev: 1.1567851684593933
+step #8/13	fMin: 146.37282090993386	fMax: 149.8869056775537	fMean: 148.33173704501627	stdev: 1.166503475962837
+step #9/13	fMin: 141.58555949293665	fMax: 146.3728209099349	fMean: 143.91459837270773	stdev: 1.532611084833231
+step #10/13	fMin: 141.1716939806279	fMax: 141.79517939594706	fMean: 141.50532197554173	stdev: 0.24241053229125767
+step #11/13	fMin: 139.03715698872756	fMax: 141.76065834745984	fMean: 140.6580386263429	stdev: 0.8010752345964411
+step #12/13	fMin: 135.179426520113	fMax: 139.03715698872756	fMean: 137.27142485905037	stdev: 1.5304044681573525
+step #13/13	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #430	label: ùn	start: 132.56275167382583	end: 132.71959263469486
+step #1/6	fMin: 206.473251951628	fMax: 207.60937321865543	fMean: 207.24056189331625	stdev: --undefined--
+step #2/6	fMin: 205.84156882871338	fMax: 207.41518130591368	fMean: 206.65174946981008	stdev: 0.4907942989586886
+step #3/6	fMin: 199.26476177304195	fMax: 205.84156882871338	fMean: 202.8766712769232	stdev: 1.9497938411874984
+step #4/6	fMin: 187.10081289515782	fMax: 199.2647617730526	fMean: 191.82134108327088	stdev: 4.861437101533917
+step #5/6	fMin: 182.18465989778664	fMax: 187.39407978271265	fMean: 183.75101161027217	stdev: 1.8040096193953998
+step #6/6	fMin: 180.99906745065707	fMax: 182.62991810654026	fMean: 181.8165441144778	stdev: 0.7627350660931478
+interval #432	label: è	start: 132.82131502472473	end: 132.98070173388345
+step #1/6	fMin: 198.27802948315656	fMax: 199.15895707485183	fMean: 198.690666581731	stdev: 0.3102585426723135
+step #2/6	fMin: 187.8384460386258	fMax: 199.06508109216114	fMean: 193.49422270330072	stdev: 3.829161809964821
+step #3/6	fMin: 184.39017439220083	fMax: 187.8384460386258	fMean: 185.59595558405383	stdev: 1.1572921255274482
+step #4/6	fMin: 184.7206183985842	fMax: 185.07812300883847	fMean: 184.93346657704936	stdev: 0.08300144392710493
+step #5/6	fMin: 184.01328999273315	fMax: 185.65069516611587	fMean: 185.17329819447235	stdev: 0.5117927820468896
+step #6/6	fMin: 183.26994606386364	fMax: 184.01328999273315	fMean: 183.48463516635337	stdev: 0.18688513917410807
+interval #434	label: á	start: 133.00726618540992	end: 133.20649957185836
+step #1/7	fMin: 186.56202780639288	fMax: 194.12706760020126	fMean: 190.1750702238802	stdev: 2.375609667717149
+step #2/7	fMin: 194.12706760020126	fMax: 203.17506696648968	fMean: 199.0609146396047	stdev: 2.9030852154239914
+step #3/7	fMin: 203.17506696648968	fMax: 210.8557810655785	fMean: 207.10975197075456	stdev: 2.29587522238676
+step #4/7	fMin: 210.8557810655715	fMax: 215.49835785277827	fMean: 213.34108620720392	stdev: 1.3756493257588915
+step #5/7	fMin: 215.49835785277827	fMax: 217.38832337265083	fMean: 216.73587637553075	stdev: 0.6531962982615899
+step #6/7	fMin: 217.38832337265083	fMax: 218.67510744560235	fMean: 217.83881614007802	stdev: 0.34244852819551813
+step #7/7	fMin: 218.63463262302596	fMax: 221.49319816678832	fMean: 219.84094918712142	stdev: 0.9562873565532312
+interval #436	label: ún	start: 133.33046701231515	end: 133.47214408712293
+step #1/5	fMin: 110.29716017900593	fMax: 111.22872579864503	fMean: 110.85556609778294	stdev: 0.3125501638783391
+step #2/5	fMin: 108.77829310106303	fMax: 110.29716017900593	fMean: 109.59695431507511	stdev: 0.5152802843154641
+step #3/5	fMin: 108.48573212575393	fMax: 108.77829310106303	fMean: 108.58191908938505	stdev: 0.080353771993356
+step #4/5	fMin: 108.43771110595961	fMax: 108.6850803047165	fMean: 108.53493270816132	stdev: 0.10563852805115674
+step #5/5	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #438	label: ā	start: 133.63241572793794	end: 133.75638316839476
+step #1/4	fMin: 91.15498868744078	fMax: 92.09097008107291	fMean: 91.77928878395568	stdev: 0.2341527025188858
+step #2/4	fMin: 88.94999208312444	fMax: 91.15498868744078	fMean: 90.00427067910044	stdev: 0.7119691449413564
+step #3/4	fMin: 87.41357819410189	fMax: 88.94999208312444	fMean: 88.17438089286219	stdev: 0.5817590647094159
+step #4/4	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #440	label: ā	start: 137.16197018931348	end: 137.31345290438512
+step #1/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #4/6	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #5/6	fMin: 206.97595746452498	fMax: 214.5237132154495	fMean: 211.15865417353447	stdev: 2.562803533013773
+step #6/6	fMin: 213.70508665890796	fMax: 215.05338496872315	fMean: 214.51203772464106	stdev: 0.5842616665377403
+interval #442	label: ā	start: 137.35524123957728	end: 137.42314728426456
+step #1/2	fMin: 209.60110126429302	fMax: 217.81842320138682	fMean: 215.1989666734455	stdev: 3.298487300129342
+step #2/2	fMin: 208.5644243383447	fMax: 217.12039093568623	fMean: 213.144582073415	stdev: 2.9501946068411278
+interval #444	label: í	start: 137.68693615016514	end: 137.8462541780853
+step #1/6	fMin: 229.13663457918707	fMax: 229.2202269588799	fMean: 229.1477364209808	stdev: --undefined--
+step #2/6	fMin: 229.2202269588799	fMax: 234.57078343161265	fMean: 231.69698917963913	stdev: 1.6112338775980073
+step #3/6	fMin: 234.57078343161265	fMax: 239.2732813211848	fMean: 237.09916900732873	stdev: 1.5494118205047016
+step #4/6	fMin: 239.27328132118475	fMax: 243.51507779766396	fMean: 241.1683002939003	stdev: 1.4044061710537477
+step #5/6	fMin: 243.51507779766396	fMax: 244.92816467468705	fMean: 244.37986226332163	stdev: 0.4274315602132248
+step #6/6	fMin: 241.18822139116247	fMax: 244.13058463625617	fMean: 242.51974238855647	stdev: 0.9447356242309778
+interval #446	label: ún	start: 138.04466941938333	end: 138.1830932797074
+step #1/5	fMin: 233.281948579508	fMax: 263.014834121549	fMean: 245.8035975815611	stdev: 9.414784695257454
+step #2/5	fMin: 223.87638827417445	fMax: 233.281948579508	fMean: 227.67659414437543	stdev: 3.0892180027314553
+step #3/5	fMin: 221.08857763864128	fMax: 223.87638827417445	fMean: 222.26025640258078	stdev: 0.8167738865114442
+step #4/5	fMin: 219.14474249448648	fMax: 221.0885776386437	fMean: 219.7096595465331	stdev: 0.6541742917224106
+step #5/5	fMin: 219.66792334181926	fMax: 220.40675562566668	fMean: 220.13497558646836	stdev: 0.2611195024581083
+interval #448	label: ā	start: 138.2562228662937	end: 138.40509381041582
+step #1/5	fMin: 204.324493575837	fMax: 205.34947648800792	fMean: 204.70525553712838	stdev: 0.4702804124835372
+step #2/5	fMin: 187.1219666023681	fMax: 204.32577338632746	fMean: 196.02350225838978	stdev: 5.731806367903098
+step #3/5	fMin: 171.34205495092544	fMax: 187.1219666023681	fMean: 178.36948138676456	stdev: 5.070223723973138
+step #4/5	fMin: 164.75478701017957	fMax: 171.3420549509356	fMean: 166.8493625950819	stdev: 1.9934608099136766
+step #5/5	fMin: 164.43545816298428	fMax: 164.75478701017957	fMean: 164.5289693418648	stdev: 0.17474602818168433
+interval #450	label: ī	start: 139.35819663152887	end: 139.70849528054703
+step #1/14	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/14	fMin: 182.83623986252616	fMax: 185.87764234911103	fMean: 184.4853738163017	stdev: 1.2622486975197789
+step #3/14	fMin: 180.3550040169968	fMax: 182.83623986252616	fMean: 181.21576180386043	stdev: 0.8916212514558928
+step #4/14	fMin: 179.42528345421988	fMax: 180.3715604158736	fMean: 180.10702126508968	stdev: 0.3429022884149435
+step #5/14	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #6/14	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #7/14	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #8/14	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #9/14	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #10/14	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #11/14	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #12/14	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #13/14	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #14/14	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #452	label: ī	start: 140.05134969897708	end: 140.12860536852054
+step #1/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #454	label: án'	start: 140.2467610984105	end: 140.3649168283005
+step #1/4	fMin: 232.41562995504762	fMax: 236.89312143344236	fMean: 235.1163223303558	stdev: 1.6161782516629386
+step #2/4	fMin: 229.456711908687	fMax: 233.17557535603098	fMean: 231.02960539992844	stdev: 1.345637097513065
+step #3/4	fMin: 230.96676537127075	fMax: 238.28150295050978	fMean: 234.8358190151869	stdev: 2.589615015579464
+step #4/4	fMin: 237.08444488680726	fMax: 239.77251744749756	fMean: 238.86135966115884	stdev: 0.7366873213408368
+interval #456	label: 'àn	start: 140.45580585129278	end: 140.75119517601775
+step #1/11	fMin: 108.13630779571368	fMax: 140.2927417252625	fMean: 122.19187482907952	stdev: 11.777879896674296
+step #2/11	fMin: 136.36374948785743	fMax: 154.86976896295235	fMean: 147.1957372935004	stdev: 5.93503951680688
+step #3/11	fMin: 154.67102295282606	fMax: 155.71916384570494	fMean: 155.1262035909095	stdev: 0.3590135645398038
+step #4/11	fMin: 155.05581620777912	fMax: 156.30609470970901	fMean: 155.75171073201074	stdev: 0.43221475353149913
+step #5/11	fMin: 153.84295262320822	fMax: 155.60394682726437	fMean: 154.93046735892565	stdev: 0.4269593648010303
+step #6/11	fMin: 150.81290536501294	fMax: 153.84295262320822	fMean: 152.62448148660047	stdev: 0.8935245965508263
+step #7/11	fMin: 147.92095938427568	fMax: 150.81290536501294	fMean: 148.89228192678473	stdev: 0.7796529789191982
+step #8/11	fMin: 147.90138584307928	fMax: 147.92095938427568	fMean: 147.9037386214968	stdev: --undefined--
+step #9/11	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #10/11	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #11/11	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #458	label: ī	start: 141.7489800924566	end: 141.92166923614195
+step #1/6	fMin: 215.06966450518863	fMax: 244.16315806529744	fMean: 233.48294232028374	stdev: 12.098363834943443
+step #2/6	fMin: 231.55376501434873	fMax: 244.19436204620803	fMean: 238.87846443614478	stdev: 4.847542316114878
+step #3/6	fMin: 221.46337326247343	fMax: 231.55376501434873	fMean: 225.34107287867954	stdev: 3.49944871821453
+step #4/6	fMin: 215.07500252957942	fMax: 221.46337326247732	fMean: 218.6991132322983	stdev: 2.1182541924682465
+step #5/6	fMin: 202.88209719532477	fMax: 215.07500252957942	fMean: 208.53754206128994	stdev: 4.126850399977627
+step #6/6	fMin: 185.60870476054782	fMax: 202.88209719532477	fMean: 193.87939927401095	stdev: 5.650514544056063
+interval #460	label: ō	start: 142.1761585005204	end: 142.28976977926075
+step #1/4	fMin: 153.74081154188895	fMax: 167.94506423835787	fMean: 161.15261439276458	stdev: 4.525226288884034
+step #2/4	fMin: 146.22880660684373	fMax: 153.74081154188895	fMean: 149.80169370319229	stdev: 2.148573049525863
+step #3/4	fMin: 139.75306842472293	fMax: 146.22880660684373	fMean: 142.7737907063068	stdev: 1.9974762510316666
+step #4/4	fMin: 138.78819186036725	fMax: 139.7530684247281	fMean: 139.04143215537235	stdev: 0.46224714180754833
+interval #462	label: â	start: 142.3365424017009	end: 142.5228648988351
+step #1/7	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/7	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/7	fMin: 166.52354706548172	fMax: 167.61100086758995	fMean: 167.062657992764	stdev: 0.39174989137743926
+step #4/7	fMin: 183.63611962538033	fMax: 191.95497799367197	fMean: 187.7592957529506	stdev: 3.226670070325846
+step #5/7	fMin: 191.95497799367197	fMax: 210.12898156382354	fMean: 200.64355813042198	stdev: 6.119407982898027
+step #6/7	fMin: 210.12898156382354	fMax: 216.20252656999762	fMean: 214.5892726134784	stdev: 2.0035297226040885
+step #7/7	fMin: 207.02103224297392	fMax: 214.82768409181782	fMean: 210.9800716520188	stdev: 2.660933756800322
+interval #464	label: ūn	start: 142.6046650195282	end: 142.7273652005678
+step #1/4	fMin: 233.79682161398054	fMax: 235.6365659893685	fMean: 234.36806635261976	stdev: --undefined--
+step #2/4	fMin: 235.6365659893685	fMax: 240.82035772284476	fMean: 239.08748238321215	stdev: 1.636972118364817
+step #3/4	fMin: 240.6356933031687	fMax: 241.20881034850535	fMean: 240.96586088614018	stdev: 0.1557606882487079
+step #4/4	fMin: 237.8553791997729	fMax: 240.81695961519327	fMean: 239.3163787565092	stdev: 0.9487258337497274
+interval #466	label: ū	start: 142.80916532126085	end: 142.89550989310354
+step #1/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #468	label: ūn'	start: 143.04652689193907	end: 143.37050474937854
+step #1/12	fMin: 235.5430829284359	fMax: 237.30283953656019	fMean: 236.20168262894404	stdev: 0.8378539213426058
+step #2/12	fMin: 237.30283953656019	fMax: 239.77343787561824	fMean: 238.87338844330333	stdev: 0.8333079294439032
+step #3/12	fMin: 229.57102574015832	fMax: 238.16766158431065	fMean: 233.94621487732778	stdev: 2.8639557649187086
+step #4/12	fMin: 224.7345197940971	fMax: 229.57102574016696	fMean: 226.96522766467677	stdev: 2.0785933259573883
+step #5/12	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #6/12	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #7/12	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #8/12	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #9/12	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #10/12	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #11/12	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #12/12	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #470	label: à	start: 143.447889037066	end: 143.66714677896948
+step #1/8	fMin: 144.4805815749671	fMax: 149.71725633665176	fMean: 146.22096857645542	stdev: 1.4655453123138789
+step #2/8	fMin: 142.09627446321494	fMax: 144.4805815749671	fMean: 142.98976335339998	stdev: 0.6770625598239338
+step #3/8	fMin: 143.4641491960091	fMax: 146.09973472069828	fMean: 145.0278255908559	stdev: 0.9256338544821299
+step #4/8	fMin: 146.0997347206981	fMax: 147.05535193532853	fMean: 146.64355828809326	stdev: 0.3087516281344023
+step #5/8	fMin: 145.504109948286	fMax: 146.34300294098745	fMean: 145.97747208827965	stdev: 0.25217643739931
+step #6/8	fMin: 142.3153462272918	fMax: 145.504109948286	fMean: 144.42355286843366	stdev: 0.9732493792750778
+step #7/8	fMin: 136.1435862679118	fMax: 142.3153462272918	fMean: 139.49948043189443	stdev: 2.042136239329817
+step #8/8	fMin: 133.40008959258714	fMax: 136.1435862679118	fMean: 134.2377752984695	stdev: 0.9531026312018388
+interval #472	label: à	start: 145.29416295179766	end: 145.4602151527976
+step #1/6	fMin: 201.27473851265347	fMax: 211.4563782873925	fMean: 205.70702040197932	stdev: 4.07250109859706
+step #2/6	fMin: 197.14740552791523	fMax: 201.27473851265347	fMean: 200.005081091842	stdev: 1.4207085829155177
+step #3/6	fMin: 192.695430319655	fMax: 197.14740552791523	fMean: 194.66749081180885	stdev: 1.4899849152105507
+step #4/6	fMin: 192.37926023585695	fMax: 193.2790725873772	fMean: 192.63630780205875	stdev: 0.22345270371876977
+step #5/6	fMin: 193.24202274592463	fMax: 194.16284498543106	fMean: 193.7729525157053	stdev: 0.385028642165673
+step #6/6	fMin: 192.09100225128444	fMax: 193.40165336308831	fMean: 192.4433353342728	stdev: 0.7032983087609831
+interval #474	label: àn	start: 145.59950363245693	end: 145.7246444216163
+step #1/5	fMin: 192.96460699041597	fMax: 205.25965118253202	fMean: 198.50387502724465	stdev: 4.734812800461775
+step #2/5	fMin: 190.85302541888967	fMax: 192.96460699041597	fMean: 191.69654626264636	stdev: 0.6798636747667569
+step #3/5	fMin: 191.00024299440858	fMax: 193.1524442293258	fMean: 192.03074366200065	stdev: 0.6807097593294505
+step #4/5	fMin: 192.20581427811155	fMax: 193.80158593492231	fMean: 193.226121694815	stdev: 0.49087800301216616
+step #5/5	fMin: 188.8005742994667	fMax: 192.20581427811155	fMean: 190.6096076219453	stdev: 1.2680200327014275
+interval #476	label: à	start: 145.8016541380221	end: 145.91476215899306
+step #1/4	fMin: 185.68452077918488	fMax: 191.35219817989332	fMean: 188.57709044276044	stdev: 2.011655348625463
+step #2/4	fMin: 181.93827573839798	fMax: 185.68452077918488	fMean: 183.62501515418373	stdev: 1.2223993988729556
+step #3/4	fMin: 180.87723736773316	fMax: 181.93827573839798	fMean: 181.20180172160437	stdev: 0.33686700551573956
+step #4/4	fMin: 178.8685343728384	fMax: 181.06710057973	fMean: 180.67383179940663	stdev: 0.632696791826014
+interval #478	label: ī	start: 146.0361837559486	end: 146.1348524550935
+step #1/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #3/3	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #480	label: āá	start: 146.2672129051659	end: 146.5511862344122
+step #1/11	fMin: 224.77350761071855	fMax: 226.64874271031977	fMean: 226.12599890321886	stdev: 0.547375216659995
+step #2/11	fMin: 213.1676076427375	fMax: 224.77350761071855	fMean: 218.23295123361396	stdev: 3.9974033932193436
+step #3/11	fMin: 213.0233449740264	fMax: 215.28203642406544	fMean: 214.17410733889616	stdev: 0.8506384053086757
+step #4/11	fMin: 215.28203642406427	fMax: 217.51516287465344	fMean: 216.32685527124767	stdev: 0.7839637941296557
+step #5/11	fMin: 217.51516287465344	fMax: 220.3675472068213	fMean: 218.8900657155502	stdev: 0.9443204171711148
+step #6/11	fMin: 219.8317480045073	fMax: 220.96837365340375	fMean: 220.5786286070065	stdev: 0.3561607564849798
+step #7/11	fMin: 218.7904767284464	fMax: 219.8317480045073	fMean: 219.1253178107207	stdev: 0.34939314614224776
+step #8/11	fMin: 219.13776627610326	fMax: 221.0219153687638	fMean: 219.97558980156737	stdev: 0.5758508724875089
+step #9/11	fMin: 221.02191536876168	fMax: 223.07255016055643	fMean: 221.8107437556307	stdev: 0.7267181430404535
+step #10/11	fMin: 222.62252437520087	fMax: 224.38793839546514	fMean: 223.18465162170796	stdev: 0.6291637578733115
+step #11/11	fMin: 224.17660915521262	fMax: 224.4204341186613	fMean: 224.2814259330947	stdev: 0.11373471718337115
+interval #482	label: ā	start: 146.74225207119744	end: 146.80000935850177
+step #1/2	fMin: 228.35003986822895	fMax: 242.6744767376384	fMean: 238.2328460726686	stdev: 6.538856381950602
+step #2/2	fMin: 233.68581501053495	fMax: 242.01099051269162	fMean: 238.7970862992586	stdev: 2.617840509760833
+interval #484	label: à	start: 146.93477636221186	end: 147.07194991955964
+step #1/5	fMin: 218.65142457878287	fMax: 228.23824855502738	fMean: 223.95855046812835	stdev: 3.4372625891149093
+step #2/5	fMin: 208.15078310016457	fMax: 218.65142457878287	fMean: 213.37852695378476	stdev: 3.0888063935093535
+step #3/5	fMin: 200.94591998414757	fMax: 208.15078310016457	fMean: 204.12271920305503	stdev: 2.154530598279891
+step #4/5	fMin: 196.20250547235221	fMax: 200.94591998415413	fMean: 198.28713917991317	stdev: 1.5930579573120405
+step #5/5	fMin: 194.5291117701666	fMax: 196.55257071148938	fMean: 195.90261838861136	stdev: 0.7528209141111364
+interval #486	label: àn	start: 147.17302517234222	end: 147.2837266396755
+step #1/4	fMin: 200.55396940569779	fMax: 207.77901693258644	fMean: 205.7566041643692	stdev: 2.541436329646082
+step #2/4	fMin: 189.9599280298858	fMax: 200.55396940569779	fMean: 192.59129090531957	stdev: 3.2283841280840524
+step #3/4	fMin: 190.50906523707235	fMax: 194.863912839898	fMean: 192.61909023018208	stdev: 1.409830803729966
+step #4/4	fMin: 194.863912839898	fMax: 194.863912839898	fMean: 194.863912839898	stdev: --undefined--
+interval #488	label: à	start: 147.32101616895378	end: 147.424497975374
+step #1/4	fMin: 189.69780340038548	fMax: 193.47117600354068	fMean: 191.89814651892624	stdev: 1.4545013260240838
+step #2/4	fMin: 190.51259632647947	fMax: 193.3601449241596	fMean: 191.75788627672145	stdev: 1.1184426695453704
+step #3/4	fMin: 188.91210765981	fMax: 190.51259632647947	fMean: 189.85620858963435	stdev: 0.461634174678323
+step #4/4	fMin: 186.87171705233587	fMax: 188.91210765982	fMean: 187.9271119364808	stdev: 0.5510062952878384
+interval #490	label: e᷄	start: 147.5135404599682	end: 147.60017639092467
+step #1/3	fMin: 190.64153830009232	fMax: 191.06880531088714	fMean: 190.8218755141083	stdev: 0.14301159874383426
+step #2/3	fMin: 189.1631467227281	fMax: 190.9874770710406	fMean: 190.23604130618978	stdev: 0.5428180709535855
+step #3/3	fMin: 184.72155360553202	fMax: 189.1631467227281	fMean: 186.93724811061762	stdev: 1.3469962966373554
+interval #492	label: ī	start: 147.657933678229	end: 147.73013028735943
+step #1/2	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #2/2	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+interval #494	label: á	start: 147.8552710765188	end: 147.99966429477962
+step #1/5	fMin: 212.48925278036947	fMax: 214.41853568071525	fMean: 213.8756048526167	stdev: 0.687822282606651
+step #2/5	fMin: 207.005871851907	fMax: 212.48925278036947	fMean: 208.73824510531463	stdev: 1.9055173228013658
+step #3/5	fMin: 203.80403632906086	fMax: 207.005871851907	fMean: 205.6471470078261	stdev: 1.0273693493384604
+step #4/5	fMin: 203.59174408109095	fMax: 221.45763649391176	fMean: 212.23772823423437	stdev: 6.639283271544973
+step #5/5	fMin: 221.45763649391176	fMax: 225.55397650980862	fMean: 223.5664627576847	stdev: 1.410339756630201
+interval #496	label: á	start: 148.0863002257361	end: 148.2090344612578
+step #1/4	fMin: 223.44832608497373	fMax: 234.11605612988146	fMean: 230.8429348312477	stdev: 3.9763269391242577
+step #2/4	fMin: 231.34139375173314	fMax: 233.91661419952146	fMean: 232.5615545586844	stdev: 0.8257622736706759
+step #3/4	fMin: 230.2001196554201	fMax: 231.46080830955657	fMean: 230.87771082170053	stdev: 0.438513577992848
+step #4/4	fMin: 229.4207765196993	fMax: 230.23650403056013	fMean: 229.93697826396271	stdev: 0.36438397055843685
+interval #498	label: ín'	start: 148.31594382855576	end: 148.41220597406297
+step #1/3	fMin: 239.18150254148787	fMax: 240.88716834486095	fMean: 240.18345388512714	stdev: 0.8678262244631005
+step #2/3	fMin: 238.27889637707796	fMax: 239.8895828502079	fMean: 239.38503439461348	stdev: 0.41286026500777245
+step #3/3	fMin: 237.76387818352953	fMax: 238.27889637707796	fMean: 237.90610377476187	stdev: --undefined--
+interval #500	label: ō	start: 148.4830170367957	end: 148.57205952138986
+step #1/3	fMin: 203.62767154984368	fMax: 215.2314023612203	fMean: 210.3576603281406	stdev: 3.4416117653601965
+step #2/3	fMin: 198.81572173559857	fMax: 203.62767154984368	fMean: 201.10546587937517	stdev: 1.3631565122785647
+step #3/3	fMin: 197.8234188808071	fMax: 198.81572173559857	fMean: 198.0409319947549	stdev: 0.32967938360849824
+interval #502	label: ín	start: 148.65869545234636	end: 148.887318047926
+step #1/9	fMin: 222.75608196556888	fMax: 238.80832665233098	fMean: 230.6413497821463	stdev: 5.265031249730812
+step #2/9	fMin: 238.80832665233098	fMax: 249.06938200850135	fMean: 244.68732556423598	stdev: 3.4028369930666527
+step #3/9	fMin: 248.5244571075423	fMax: 249.673759517538	fMean: 249.41653425044436	stdev: 0.3369122647920638
+step #4/9	fMin: 244.5302896050793	fMax: 248.5244571075466	fMean: 246.87069185096348	stdev: 1.2658792219929769
+step #5/9	fMin: 237.9467534944047	fMax: 244.5302896050793	fMean: 241.5990883648761	stdev: 2.283981468088249
+step #6/9	fMin: 236.55677093524014	fMax: 237.9467534944047	fMean: 237.09554760287838	stdev: --undefined--
+step #7/9	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #8/9	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+step #9/9	fMin: --undefined--	fMax: --undefined--	fMean: --undefined--	stdev: --undefined--
+done
