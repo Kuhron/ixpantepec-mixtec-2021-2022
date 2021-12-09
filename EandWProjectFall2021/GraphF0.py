@@ -471,6 +471,14 @@ def interpolate(ts, ys, interpolation_ts):
     return interpolated_ys
 
 
+def get_stationary_tone_targets_from_intervals(intervals, slope_tolerance):
+    res = []
+    for interval in intervals:
+        fmeans = get_stationary_tone_targets(interval, slope_tolerance, plot=False)
+        res += fmeans
+    return res
+
+
 def get_stationary_tone_targets(interval, slope_tolerance, plot=False):
     # get the min, mean, and max F0 (could also have a condition on the std? but min-max range should be fine as first pass)
     # keep the Nones so the arrays align if somehow one of them has some of these frequencies defined but others undefined (shouldn't be possible I hope, but who knows what Praat will output in weird cases)
@@ -545,17 +553,48 @@ if __name__ == "__main__":
     # plot_hist_fmeans(intervals_by_toneme)
     # plot_fmeans_color_coded(intervals)
 
-    for slope_tolerance in [0.1, 0.316, 1, 3.16, 10]:
-        print(f"slope tolerance is {slope_tolerance}")
-        stationary_targets_by_toneme = {}
-        for interval in intervals:
-            if interval.toneme not in stationary_targets_by_toneme:
-                stationary_targets_by_toneme[interval.toneme] = []
-            stationary_targets_by_toneme[interval.toneme] += get_stationary_tone_targets(interval, slope_tolerance)
-        tonemes_to_plot = ["wL", "wM", "wH"]
-        targets_lists = [stationary_targets_by_toneme[toneme] for toneme in tonemes_to_plot]
-        colors = None
-        hist_multiple_sets(targets_lists, tonemes_to_plot, colors, mean_and_std_lines=True, semitones=True, separate_axes=True)
+    # --- mean and std by slope tolerance and label --- #
+    # for slope_tolerance in [0.1, 0.316, 1, 3.16, 10]:
+    #     print(f"slope tolerance is {slope_tolerance}")
+    #     stationary_targets_by_toneme = {}
+    #     for interval in intervals:
+    #         if interval.toneme not in stationary_targets_by_toneme:
+    #             stationary_targets_by_toneme[interval.toneme] = []
+    #         stationary_targets_by_toneme[interval.toneme] += get_stationary_tone_targets(interval, slope_tolerance)
+    #     tonemes_to_plot = ["wL", "wM", "wH"]
+    #     targets_lists = [stationary_targets_by_toneme[toneme] for toneme in tonemes_to_plot]
+    #     colors = None
+    #     hist_multiple_sets(targets_lists, tonemes_to_plot, colors, mean_and_std_lines=True, semitones=True, separate_axes=True)
+    # /// mean and std by slope tolerance and label /// #
+
+    # --- distribution of stationary targets overall (regardless of label) ---
+    # intervals_spoken = [x for x in intervals if not x.whistled]
+    # intervals_whistled = [x for x in intervals if x.whistled]
+    # assert intervals_spoken != intervals_whistled, "probably mistake with hasattr returning False when it doesn't exist"
+    # for slope_tolerance in [0.1, 0.316, 1, 3.16, 10]:
+    #     print(f"slope tolerance is {slope_tolerance}")
+    #     targets_spoken = get_stationary_tone_targets_from_intervals(intervals_spoken, slope_tolerance)
+    #     hist_multiple_sets([targets_spoken], ["all spoken"], None)
+    #     targets_whistled = get_stationary_tone_targets_from_intervals(intervals_whistled, slope_tolerance)
+    #     hist_multiple_sets([targets_whistled], ["all whistled"])
+    # /// distribution of stationary targets overall (regardless of label) ///
+
+    # --- interval start and end times (to find gaps that can be proxy for intonation resets)
+    gaps = []
+    for fp in f0_fps:
+        intervals_this_file = get_intervals_from_file(fp)
+        gaps_this_file = []
+        for i in range(len(intervals_this_file)-1):
+            previous_end = intervals_this_file[i].end
+            next_start = intervals_this_file[i + 1].start
+            gap = next_start - previous_end
+            assert gap >= 0
+            gaps_this_file.append(gap)
+        gaps += gaps_this_file
+    print(sorted(gaps))
+    hist_multiple_sets([gaps], ["gaps"])
+    # /// interval start and end times (to find gaps that can be proxy for intonation resets)
+
 
 
     # ----
