@@ -9,11 +9,11 @@
 # https://www.fon.hum.uva.nl/praat/manual/Script_for_listing_F0_statistics.html
 
 # select the Sound and TextGrid objects
-selectObject: 4,7
+selectObject: 11,12
 
 # keep commonly changed params at the top
 timeStep = 0.01
-desiredTierName$ = "Vowel"
+desiredTierName$ = "vowel"
 
 # selected$ uses the string name of the object, just sound uses a unique identifier which is better
 soundId = selected ("Sound")
