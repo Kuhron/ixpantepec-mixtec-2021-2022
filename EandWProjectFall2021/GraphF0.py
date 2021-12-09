@@ -460,6 +460,10 @@ if __name__ == "__main__":
     else:
         print("running as Wesley")
         # wesley
+        timesteps_to_use = [10]  # ran Praat script with 10ms, 25ms, and 50ms
+        fnames_to_use = [
+            "MKS-20211004-Space_Time_Pronouns_1-M",
+            
         f0_fps = [
             "PitchStats/MKS-20211004-Space_Time_Pronouns_1-M-F0-10ms.txt",
             # "PitchStats/MKS-20211004-Space_Time_Pronouns_1-M-F0-25ms.txt",
@@ -475,7 +479,7 @@ if __name__ == "__main__":
     # plot_hist_fmeans(intervals_by_toneme)
     # plot_fmeans_color_coded(intervals)
 
-    while False:
+    while True:
         interval = random.choice(intervals)
         print(interval.label)
         stationary_targets = get_stationary_tone_targets(interval)
@@ -525,6 +529,6 @@ if __name__ == "__main__":
         "red", 
         "green", 
     ]
-    hist_multiple_fmean_sets(intervals_list, labels, colors, mean_and_std_lines=True, semitones=False)
+    # hist_multiple_fmean_sets(intervals_list, labels, colors, mean_and_std_lines=True, semitones=False)
 
 
