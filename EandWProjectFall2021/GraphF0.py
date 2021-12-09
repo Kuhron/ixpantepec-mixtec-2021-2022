@@ -86,6 +86,7 @@ def get_tonemes_from_str(s):
         "\u0304": "M",
         "\u0300": "L",
         "\u0302": "HL",
+        "\u1dc4": "MH",
     }
     alpha = string.ascii_uppercase + string.ascii_lowercase + "'"
     lst = [x for x in s if x not in alpha]  # try to isolate the tones
@@ -97,7 +98,8 @@ def get_tonemes_from_str(s):
             raise ValueError(f"unrecognized tone character: {x.encode('unicode_escape')}")
             # should raise for unknown symbol
     if len(tonemes) == 0:
-        raise ValueError(f"no tone symbols found in string: {s.encode('unicode_escape')}")
+        print(f"Warning: no tone symbols found in string: {s.encode('unicode_escape')}")
+        return []
     return tonemes
 
 
@@ -463,15 +465,12 @@ if __name__ == "__main__":
         timesteps_to_use = [10]  # ran Praat script with 10ms, 25ms, and 50ms
         fnames_to_use = [
             "MKS-20211004-Space_Time_Pronouns_1-M",
-            
-        f0_fps = [
-            "PitchStats/MKS-20211004-Space_Time_Pronouns_1-M-F0-10ms.txt",
-            # "PitchStats/MKS-20211004-Space_Time_Pronouns_1-M-F0-25ms.txt",
-            # "PitchStats/MKS-20211004-Space_Time_Pronouns_1-M-F0-50ms.txt",
-            "PitchStats/MKS-20211020-Plants_and_Animals_4-M-F0-10ms.txt",
-            # "PitchStats/MKS-20211020-Plants_and_Animals_4-M-F0-25ms.txt",
-            # "PitchStats/MKS-20211020-Plants_and_Animals_4-M-F0-50ms.txt",
+            "MKS-20211018-music_and_verbs-M",
+            "MKS-20211020-Plants_and_Animals_4-M",
+            "MKS-20211006-Memories_of_Tortilla_Making-M",
+            "MKS-20211011-Space_Time_Pronouns_2-M",
         ]
+        f0_fps = [f"PitchStats/{fname}-F0-{ms}ms.txt" for fname in fnames_to_use for ms in timesteps_to_use]
 
     intervals = get_intervals_from_files(f0_fps)
 
