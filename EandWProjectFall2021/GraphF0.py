@@ -533,7 +533,7 @@ def is_outlier(value, outlier_bounds):
     return value < outlier_bounds[0] or value > outlier_bounds[1]
 
 
-def plot_stationary_targets_over_time(intervals, slope_tolerance, outlier_bounds):
+def get_times_and_targets_over_cumulative_time(intervals, slope_tolerance, outlier_bounds):
     # sort them into files and place those along a timeline with vertical bars showing the file boundaries
     intervals_by_fp = {}
     for x in intervals:
@@ -560,8 +560,8 @@ def plot_stationary_targets_over_time(intervals, slope_tolerance, outlier_bounds
         cumulative_start_times_by_fp[fps[i]] = current_start
         cumulative_end_times_by_fp[fps[i]] = current_end
 
-    times_to_plot = []
-    targets_to_plot = []
+    times_cumulative = []
+    targets_cumulative = []
     times_seen = set()
     for fp in fps:
         t0 = cumulative_start_times_by_fp[fp]
@@ -572,13 +572,23 @@ def plot_stationary_targets_over_time(intervals, slope_tolerance, outlier_bounds
             set_times_i = set(times_i)
             assert set_times_i & times_seen == set(), "duplicate times"
             times_seen |= set_times_i
-            times_to_plot += times_i
-            targets_to_plot += targets_i
+            times_cumulative += times_i
+            targets_cumulative += targets_i
+    return times_cumulative, targets_cumulative, cumulative_start_times_by_fp, cumulative_end_times_by_fp
+
+
+def plot_stationary_targets_over_time(intervals, slope_tolerance, outlier_bounds):
+    times_cumulative, targets_cumulative, cumulative_start_times_by_fp, cumulative_end_times_by_fp = get_times_and_targets_over_cumulative_time(intervals, slope_tolerance, outlier_bounds)
     file_time_boundaries = set(cumulative_start_times_by_fp.values()) | set(cumulative_end_times_by_fp.values())
     for t in file_time_boundaries:
         plt.axvline(t, c="k")
-    plt.scatter(times_to_plot, targets_to_plot)
+    plt.scatter(times_cumulative, targets_cumulative)
     plt.show()
+
+
+def get_times_since_last_pause(intervals, slope_tolerance, outlier_bounds):
+    
+    times_cumulative, targets_cumulative, cumulative_start_times_by_fp, cumulative_end_times_by_fp = get_times_and_targets_over_cumulative_time(intervals, slope_tolerance, outlier_bounds)
 
 
 
@@ -623,10 +633,10 @@ if __name__ == "__main__":
     outlier_bounds_spoken = (44.082, 65.244)
     outlier_bounds_whistled = (82.742, 93.562)
 
-    while True:
-        interval = random.choice(intervals)
-        outlier_bounds = outlier_bounds_whistled if interval.whistled else outlier_bounds_spoken
-        times, targets = get_stationary_tone_targets(interval, slope_tolerance, outlier_bounds, plot=True)
+    # while True:
+    #     interval = random.choice(intervals)
+    #     outlier_bounds = outlier_bounds_whistled if interval.whistled else outlier_bounds_spoken
+    #     times, targets = get_stationary_tone_targets(interval, slope_tolerance, outlier_bounds, plot=True)
 
     # --- mean and std by slope tolerance and label --- #
     # for slope_tolerance in [0.1, 0.316, 1, 3.16, 10]:
@@ -675,6 +685,8 @@ if __name__ == "__main__":
     plot_stationary_targets_over_time(intervals_spoken, slope_tolerance, outlier_bounds_spoken)
     plot_stationary_targets_over_time(intervals_whistled, slope_tolerance, outlier_bounds_whistled)
 
+    restart_iu_gap_length = 10
+    
 
 
     # ----
