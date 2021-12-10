@@ -7,6 +7,7 @@ import re
 import statistics
 import string
 import sys
+from sklearn.linear_model import LinearRegression
 
 
 
@@ -63,7 +64,7 @@ class Interval:
     def add_f0_statistic(self, f0_statistic):
         assert type(f0_statistic) is F0Statistic, type(f0_statistic)
         self.f0_statistics.append(f0_statistic)
-        self.sanity_check()
+        # self.sanity_check()
 
     def sanity_check(self):
         # make sure we don't have whistled labeled as spoken or vice versa
@@ -489,11 +490,14 @@ def get_stationary_tone_targets(interval, slope_tolerance, outlier_bounds, plot=
     # slope tolerance is max absolute value of first derivative of F0 wrt time (in semitones/second)
 
     f0s = [f0 for f0 in interval.f0_statistics if not is_outlier(f0.fmean_st, outlier_bounds)]
+    f0s = sorted(f0s, key=lambda x: x.start)  # I don't have time to deal with this
     fmeans_st = [f0.fmean_st for f0 in f0s]
     fmins_st = [f0.fmin_st for f0 in f0s]
     fmaxs_st = [f0.fmax_st for f0 in f0s]
     ranges_st = [fmax - fmin for fmax, fmin in zip(fmaxs_st, fmins_st)]
-    ts = np.array([f0.midpoint for f0 in f0s])  # return times in absolute position in the recording
+    ts = [f0.midpoint for f0 in f0s]  # return times in absolute position in the recording
+    assert ts == sorted(ts), f"times out of order: {ts}"
+    ts = np.array(ts)
 
     dts = np.diff(ts)
     dfmeans = np.diff(fmeans_st)
@@ -533,8 +537,9 @@ def is_outlier(value, outlier_bounds):
     return value < outlier_bounds[0] or value > outlier_bounds[1]
 
 
-def get_times_and_targets_over_cumulative_time(intervals, slope_tolerance, outlier_bounds):
+def get_times_and_targets_over_cumulative_time(intervals, all_intervals, slope_tolerance, outlier_bounds):
     # sort them into files and place those along a timeline with vertical bars showing the file boundaries
+    all_fps = set(interval.source_fp for interval in all_intervals)
     intervals_by_fp = {}
     for x in intervals:
         assert type(x) is Interval
@@ -547,7 +552,7 @@ def get_times_and_targets_over_cumulative_time(intervals, slope_tolerance, outli
         end = max(x.end for x in intervals_by_fp[fp])
         assert type(end) is float
         durations_by_fp[fp] = end
-    fps = sorted(intervals_by_fp.keys())  # just make some well-defined order so we can stack the times into one big timeline
+    fps = sorted(all_fps)  # just make some well-defined order so we can stack the times into one big timeline
 
     cumulative_start_times_by_fp = {fps[0]: 0}
     cumulative_end_times_by_fp = {fps[0]: durations_by_fp[fps[0]]}
@@ -565,20 +570,26 @@ def get_times_and_targets_over_cumulative_time(intervals, slope_tolerance, outli
     times_seen = set()
     for fp in fps:
         t0 = cumulative_start_times_by_fp[fp]
+        # print(f"fp {fp} has t0 {t0}")
         intervals_in_fp = intervals_by_fp[fp]
+        intervals_in_fp = sorted(intervals_in_fp, key=lambda x: x.start)
         for interval in intervals_in_fp:
             times_i, targets_i = get_stationary_tone_targets(interval, slope_tolerance, outlier_bounds)
             times_i = [t0 + t for t in times_i]  # align it to where this file starts
             set_times_i = set(times_i)
             assert set_times_i & times_seen == set(), "duplicate times"
             times_seen |= set_times_i
+            # print(f"interval starting at {interval.start + t0} (shifted) has target times {times_i}")
+            if len(times_cumulative) > 0 and len(times_i) > 0:
+                assert times_i[0] > times_cumulative[-1], f"bad timestep from {times_cumulative[-1]} to {times_i[0]}"
+            assert times_i == sorted(times_i), f"times out of order: {times_i}"
             times_cumulative += times_i
             targets_cumulative += targets_i
     return times_cumulative, targets_cumulative, cumulative_start_times_by_fp, cumulative_end_times_by_fp
 
 
-def plot_stationary_targets_over_time(intervals, slope_tolerance, outlier_bounds):
-    times_cumulative, targets_cumulative, cumulative_start_times_by_fp, cumulative_end_times_by_fp = get_times_and_targets_over_cumulative_time(intervals, slope_tolerance, outlier_bounds)
+def plot_stationary_targets_over_time(intervals, all_intervals, slope_tolerance, outlier_bounds):
+    times_cumulative, targets_cumulative, cumulative_start_times_by_fp, cumulative_end_times_by_fp = get_times_and_targets_over_cumulative_time(intervals, all_intervals, slope_tolerance, outlier_bounds)
     file_time_boundaries = set(cumulative_start_times_by_fp.values()) | set(cumulative_end_times_by_fp.values())
     for t in file_time_boundaries:
         plt.axvline(t, c="k")
@@ -586,10 +597,65 @@ def plot_stationary_targets_over_time(intervals, slope_tolerance, outlier_bounds
     plt.show()
 
 
-def get_times_since_last_pause(intervals, slope_tolerance, outlier_bounds):
+def get_times_since_last_pause(intervals, all_intervals, slope_tolerance, outlier_bounds, min_pause_length):
+    times_cumulative, targets_cumulative, cumulative_start_times_by_fp, cumulative_end_times_by_fp = get_times_and_targets_over_cumulative_time(intervals, all_intervals, slope_tolerance, outlier_bounds)
+    all_times_cumulative, all_targets_cumulative, all_cumulative_start_times_by_fp, all_cumulative_end_times_by_fp = get_times_and_targets_over_cumulative_time(all_intervals, all_intervals, slope_tolerance=np.inf, outlier_bounds=(-np.inf, np.inf))
+    assert cumulative_start_times_by_fp == all_cumulative_start_times_by_fp, (cumulative_start_times_by_fp, all_cumulative_start_times_by_fp)
+    assert cumulative_end_times_by_fp == all_cumulative_end_times_by_fp, (cumulative_end_times_by_fp, all_cumulative_end_times_by_fp)
     
-    times_cumulative, targets_cumulative, cumulative_start_times_by_fp, cumulative_end_times_by_fp = get_times_and_targets_over_cumulative_time(intervals, slope_tolerance, outlier_bounds)
+    # measure pauses based on where any interval is, not just the ones you've filtered for
+    # so we have all times of F0 statistics, and the times of the ones we want
+    last_gap_start_time = 0
+    last_gap_end_time = 0
+    time_since_gap_by_t = {}
+    
+    for i in range(len(all_times_cumulative)):
+        t = all_times_cumulative[i]
+        previous_t = all_times_cumulative[i-1] if i > 0 else 0  # stupid bug with wrapping around the list at i=0
+        gap = t - previous_t
+        assert gap > 0, f"non-positive gap {gap} from time {previous_t} to {t} at i={i}"
+        if gap >= min_pause_length:
+            last_gap_start_time = previous_t
+            last_gap_end_time = t
+        time_since_gap = t - last_gap_end_time
+        time_since_gap_by_t[t] = time_since_gap
 
+    times_since_gap = interpolate(all_times_cumulative, [time_since_gap_by_t[t] for t in all_times_cumulative], interpolation_ts=times_cumulative)
+    # for t in times_cumulative:
+    #     try:
+    #         times_since_gap.append(time_since_gap_by_t[t])
+    #     except KeyError:
+    #         # interpolate it
+    #         nearest_keys = sorted(sorted(time_since_gap_by_t.keys(), key=lambda t2: abs(t2-t))[:4])
+    #         ts = [t]
+    #         ys = 
+    #         time_since_gap, = interpolate(ts, ys, interpolation_ts)
+    #         print("nearest keys:", nearest_keys)
+    #         raise
+    return times_since_gap, targets_cumulative
+
+
+def regress_pitch_level_on_time_since_pause(intervals, all_intervals, slope_tolerance, outlier_bounds, min_pause_length, include_level_as_regressor=False):
+    times_since_pause, targets = get_times_since_last_pause(intervals, all_intervals, slope_tolerance, outlier_bounds, min_pause_length)
+
+    if include_level_as_regressor:
+        toneme_levels = [interval.toneme_level for interval in intervals]
+        assert set(toneme_levels) == {"L", "M", "H"}, f"can't regress on toneme level with non-level tones, got {set(toneme_levels)}"
+        toneme_levels = [{"L":0, "M":1, "H":2}[toneme] for toneme in toneme_levels]
+        assert len(times_since_pause) == len(toneme_levels)
+        X = [times_since_pause, toneme_levels]
+        X = np.array(X).reshape(-1, 2)
+    else:
+        X = times_since_pause
+        X = np.array(X).reshape(-1, 1)  # sklearn says: Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+
+    y = np.array(targets)
+    reg = LinearRegression(fit_intercept=True).fit(X, y)
+    print(reg.coef_)
+    print(reg.intercept_)
+    r_squared = reg.score(X, y)
+    print(r_squared)
+    return (reg.coef_, reg.intercept_, r_squared)
 
 
 if __name__ == "__main__":
@@ -616,13 +682,14 @@ if __name__ == "__main__":
         f0_fps = [f"PitchStats/{fname}-F0-{ms}ms.txt" for fname in fnames_to_use for ms in timesteps_to_use]
 
     intervals = get_intervals_from_files(f0_fps)
+    all_intervals = intervals
 
     # --- for Zoe ---
-    durations = [interval.duration for interval in intervals]
-    plt.hist(durations, bins=100)
-    plt.title("durations")
-    plt.show()
-    sys.exit()
+    # durations = [interval.duration for interval in intervals]
+    # plt.hist(durations, bins=100)
+    # plt.title("durations")
+    # plt.show()
+    # sys.exit()
     # /// for Zoe ///
 
     # intervals_by_toneme = get_intervals_by_toneme_dict(intervals)
@@ -656,6 +723,8 @@ if __name__ == "__main__":
     # --- distribution of stationary targets overall (regardless of label) ---
     intervals_spoken = [x for x in intervals if not x.whistled]
     intervals_whistled = [x for x in intervals if x.whistled]
+    intervals_spoken_level = get_intervals_by_condition(intervals, tonemes=["L", "M", "H"], whistled=False)
+    intervals_whistled_level = get_intervals_by_condition(intervals, tonemes=["L", "M", "H"], whistled=True)
     assert intervals_spoken != intervals_whistled, "probably mistake with hasattr returning False when it doesn't exist"
     # for slope_tolerance in [0.1, 0.316, 1, 3.16, 10]:
     #     print(f"slope tolerance is {slope_tolerance}")
@@ -677,17 +746,39 @@ if __name__ == "__main__":
             assert gap >= 0
             gaps_this_file.append(gap)
         gaps += gaps_this_file
-    print(sorted(gaps))
+    # print(sorted(gaps))
     # hist_multiple_sets([gaps], ["gaps"])
     # /// interval start and end times (to find gaps that can be proxy for intonation resets)
 
-    slope_tolerance = 5
-    plot_stationary_targets_over_time(intervals_spoken, slope_tolerance, outlier_bounds_spoken)
-    plot_stationary_targets_over_time(intervals_whistled, slope_tolerance, outlier_bounds_whistled)
+    slope_tolerance = 3.16
+    # plot_stationary_targets_over_time(intervals_spoken, all_intervals, slope_tolerance, outlier_bounds_spoken)
+    # plot_stationary_targets_over_time(intervals_whistled, all_intervals, slope_tolerance, outlier_bounds_whistled)
 
-    restart_iu_gap_length = 10
-    
-
+    slopes = []
+    intercepts = []
+    r2s = []
+    pause_lengths = np.arange(0.1, 2.1, 0.1)
+    for min_pause_length in pause_lengths:
+        print("min pause length is", min_pause_length)
+        print("spoken, not by level")
+        slope, intercept, r2 = regress_pitch_level_on_time_since_pause(intervals_spoken, all_intervals, slope_tolerance, outlier_bounds_spoken, min_pause_length)
+        slopes.append(slope)
+        intercepts.append(intercept)
+        r2s.append(r2)
+        # print("spoken, by level")
+        # regress_pitch_level_on_time_since_pause(intervals_spoken_level, all_intervals, slope_tolerance, outlier_bounds_spoken, min_pause_length, include_level_as_regressor=True)
+        # print("whistled, not by level")
+        # regress_pitch_level_on_time_since_pause(intervals_whistled, all_intervals, slope_tolerance, outlier_bounds_whistled, min_pause_length)
+        # print("whistled, by level")
+        # regress_pitch_level_on_time_since_pause(intervals_whistled_level, all_intervals, slope_tolerance, outlier_bounds_whistled, min_pause_length, include_level_as_regressor=True)
+    plt.subplot(2,1,1)
+    plt.plot(pause_lengths, slopes, label="slope")
+    plt.xlabel("pause length (s)")
+    plt.legend()
+    plt.subplot(2,1,2)
+    plt.plot(pause_lengths, r2s, label="R-squared")
+    plt.xlabel("pause_length (s)")
+    plt.show()
 
     # ----
 
