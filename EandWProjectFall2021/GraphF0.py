@@ -44,6 +44,7 @@ class Interval:
         self.start = start
         self.midpoint = (start + end) / 2
         self.end = end
+        self.duration = end - start
         self.f0_statistics = []
         self.whistled = "w" in self.label
         self.nasalized = "n" in self.label
@@ -429,6 +430,8 @@ def plot_f0_trajectory(ts, fmeans_st, fmins_st, fmaxs_st, ranges_st, midpoints_b
     plt.plot(midpoints_between_ts, df_dts, label="df/dt")
     plt.plot(second_order_midpoints, d2f_dt2s, label="d2f/dt2")
     plt.axhline(0, c="k")
+    plt.axhline(3.16, c="gray")
+    plt.axhline(-3.16, c="gray")
     plt.gca().set_xlim(xlim)
     plt.legend()
     plt.ylabel("semitones / s^n")
@@ -604,9 +607,26 @@ if __name__ == "__main__":
 
     intervals = get_intervals_from_files(f0_fps)
 
+    # --- for Zoe ---
+    durations = [interval.duration for interval in intervals]
+    plt.hist(durations, bins=100)
+    plt.title("durations")
+    plt.show()
+    sys.exit()
+    # /// for Zoe ///
+
     # intervals_by_toneme = get_intervals_by_toneme_dict(intervals)
     # plot_hist_fmeans(intervals_by_toneme)
     # plot_fmeans_color_coded(intervals)
+
+    slope_tolerance = 3.16
+    outlier_bounds_spoken = (44.082, 65.244)
+    outlier_bounds_whistled = (82.742, 93.562)
+
+    while True:
+        interval = random.choice(intervals)
+        outlier_bounds = outlier_bounds_whistled if interval.whistled else outlier_bounds_spoken
+        times, targets = get_stationary_tone_targets(interval, slope_tolerance, outlier_bounds, plot=True)
 
     # --- mean and std by slope tolerance and label --- #
     # for slope_tolerance in [0.1, 0.316, 1, 3.16, 10]:
@@ -650,9 +670,6 @@ if __name__ == "__main__":
     print(sorted(gaps))
     # hist_multiple_sets([gaps], ["gaps"])
     # /// interval start and end times (to find gaps that can be proxy for intonation resets)
-
-    outlier_bounds_spoken = (44.082, 65.244)
-    outlier_bounds_whistled = (82.742, 93.562)
 
     slope_tolerance = 5
     plot_stationary_targets_over_time(intervals_spoken, slope_tolerance, outlier_bounds_spoken)
