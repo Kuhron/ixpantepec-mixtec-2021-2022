@@ -11,7 +11,7 @@ import sys
 
 
 class F0Statistic:
-    def __init__(self, source_fp, raw_line, fmin_hz, fmax_hz, fmean_hz, fstd_hz, start, end, parent_interval):
+    def __init__(self, raw_line, source_fp, fmin_hz, fmax_hz, fmean_hz, fstd_hz, start, end, parent_interval):
         self.raw_line = raw_line
         self.source_fp = source_fp
         assert np.isnan(fmin_hz) or fmin_hz > 0, fmin_hz
@@ -37,7 +37,7 @@ class F0Statistic:
 
 
 class Interval:
-    def __init__(self, source_fp, raw_line, label, start, end):
+    def __init__(self, raw_line, source_fp, label, start, end):
         self.raw_line = raw_line
         self.source_fp = source_fp
         self.label = label
@@ -471,24 +471,26 @@ def interpolate(ts, ys, interpolation_ts):
     return interpolated_ys
 
 
-def get_stationary_tone_targets_from_intervals(intervals, slope_tolerance):
-    res = []
+def get_stationary_tone_targets_from_intervals(intervals, slope_tolerance, outlier_bounds):
+    # this one should NOT return times because that would be treating times in different intervals as though they are the same
+    targets = []
     for interval in intervals:
-        fmeans = get_stationary_tone_targets(interval, slope_tolerance, plot=False)
-        res += fmeans
-    return res
+        times_i, targets_i = get_stationary_tone_targets(interval, slope_tolerance, outlier_bounds, plot=False)
+        targets += targets_i
+    return targets
 
 
-def get_stationary_tone_targets(interval, slope_tolerance, plot=False):
+def get_stationary_tone_targets(interval, slope_tolerance, outlier_bounds, plot=False):
     # get the min, mean, and max F0 (could also have a condition on the std? but min-max range should be fine as first pass)
     # keep the Nones so the arrays align if somehow one of them has some of these frequencies defined but others undefined (shouldn't be possible I hope, but who knows what Praat will output in weird cases)
     # slope tolerance is max absolute value of first derivative of F0 wrt time (in semitones/second)
-    fmeans_st = [f0.fmean_st for f0 in interval.f0_statistics]
-    fmins_st = [f0.fmin_st for f0 in interval.f0_statistics]
-    fmaxs_st = [f0.fmax_st for f0 in interval.f0_statistics]
+
+    f0s = [f0 for f0 in interval.f0_statistics if not is_outlier(f0.fmean_st, outlier_bounds)]
+    fmeans_st = [f0.fmean_st for f0 in f0s]
+    fmins_st = [f0.fmin_st for f0 in f0s]
+    fmaxs_st = [f0.fmax_st for f0 in f0s]
     ranges_st = [fmax - fmin for fmax, fmin in zip(fmaxs_st, fmins_st)]
-    ts = [f0.midpoint for f0 in interval.f0_statistics]
-    ts = np.array([t - ts[0] for t in ts])
+    ts = np.array([f0.midpoint for f0 in f0s])  # return times in absolute position in the recording
 
     dts = np.diff(ts)
     dfmeans = np.diff(fmeans_st)
@@ -521,7 +523,60 @@ def get_stationary_tone_targets(interval, slope_tolerance, plot=False):
     if plot:
         plot_f0_trajectory(ts, fmeans_st, fmins_st, fmaxs_st, ranges_st, midpoints_between_ts, df_dts, second_order_midpoints, d2f_dt2s)
 
-    return fmeans_at_small_slope
+    return times_satisfying_slope, fmeans_at_small_slope
+
+
+def is_outlier(value, outlier_bounds):
+    return value < outlier_bounds[0] or value > outlier_bounds[1]
+
+
+def plot_stationary_targets_over_time(intervals, slope_tolerance, outlier_bounds):
+    # sort them into files and place those along a timeline with vertical bars showing the file boundaries
+    intervals_by_fp = {}
+    for x in intervals:
+        assert type(x) is Interval
+        fp = x.source_fp
+        if fp not in intervals_by_fp:
+            intervals_by_fp[fp] = []
+        intervals_by_fp[fp].append(x)
+    durations_by_fp = {}
+    for fp in intervals_by_fp:
+        end = max(x.end for x in intervals_by_fp[fp])
+        assert type(end) is float
+        durations_by_fp[fp] = end
+    fps = sorted(intervals_by_fp.keys())  # just make some well-defined order so we can stack the times into one big timeline
+
+    cumulative_start_times_by_fp = {fps[0]: 0}
+    cumulative_end_times_by_fp = {fps[0]: durations_by_fp[fps[0]]}
+    artificial_gap_between_files = 10  # make sure it's long enough to definitely count as a "pause"
+    for i in range(1, len(fps)):
+        previous_end = cumulative_end_times_by_fp[fps[i-1]]
+        current_length = durations_by_fp[fps[i]]
+        current_start = previous_end + artificial_gap_between_files
+        current_end = current_start + current_length
+        cumulative_start_times_by_fp[fps[i]] = current_start
+        cumulative_end_times_by_fp[fps[i]] = current_end
+
+    times_to_plot = []
+    targets_to_plot = []
+    times_seen = set()
+    for fp in fps:
+        t0 = cumulative_start_times_by_fp[fp]
+        intervals_in_fp = intervals_by_fp[fp]
+        for interval in intervals_in_fp:
+            times_i, targets_i = get_stationary_tone_targets(interval, slope_tolerance, outlier_bounds)
+            times_i = [t0 + t for t in times_i]  # align it to where this file starts
+            set_times_i = set(times_i)
+            assert set_times_i & times_seen == set(), "duplicate times"
+            times_seen |= set_times_i
+            times_to_plot += times_i
+            targets_to_plot += targets_i
+    file_time_boundaries = set(cumulative_start_times_by_fp.values()) | set(cumulative_end_times_by_fp.values())
+    for t in file_time_boundaries:
+        plt.axvline(t, c="k")
+    plt.scatter(times_to_plot, targets_to_plot)
+    plt.show()
+
 
 
 if __name__ == "__main__":
@@ -560,7 +615,8 @@ if __name__ == "__main__":
     #     for interval in intervals:
     #         if interval.toneme not in stationary_targets_by_toneme:
     #             stationary_targets_by_toneme[interval.toneme] = []
-    #         stationary_targets_by_toneme[interval.toneme] += get_stationary_tone_targets(interval, slope_tolerance)
+    #         times, targets = get_stationary_tone_targets(interval, slope_tolerance)
+    #         stationary_targets_by_toneme[interval.toneme] += targets
     #     tonemes_to_plot = ["wL", "wM", "wH"]
     #     targets_lists = [stationary_targets_by_toneme[toneme] for toneme in tonemes_to_plot]
     #     colors = None
@@ -568,9 +624,9 @@ if __name__ == "__main__":
     # /// mean and std by slope tolerance and label /// #
 
     # --- distribution of stationary targets overall (regardless of label) ---
-    # intervals_spoken = [x for x in intervals if not x.whistled]
-    # intervals_whistled = [x for x in intervals if x.whistled]
-    # assert intervals_spoken != intervals_whistled, "probably mistake with hasattr returning False when it doesn't exist"
+    intervals_spoken = [x for x in intervals if not x.whistled]
+    intervals_whistled = [x for x in intervals if x.whistled]
+    assert intervals_spoken != intervals_whistled, "probably mistake with hasattr returning False when it doesn't exist"
     # for slope_tolerance in [0.1, 0.316, 1, 3.16, 10]:
     #     print(f"slope tolerance is {slope_tolerance}")
     #     targets_spoken = get_stationary_tone_targets_from_intervals(intervals_spoken, slope_tolerance)
@@ -592,8 +648,15 @@ if __name__ == "__main__":
             gaps_this_file.append(gap)
         gaps += gaps_this_file
     print(sorted(gaps))
-    hist_multiple_sets([gaps], ["gaps"])
+    # hist_multiple_sets([gaps], ["gaps"])
     # /// interval start and end times (to find gaps that can be proxy for intonation resets)
+
+    outlier_bounds_spoken = (44.082, 65.244)
+    outlier_bounds_whistled = (82.742, 93.562)
+
+    slope_tolerance = 5
+    plot_stationary_targets_over_time(intervals_spoken, slope_tolerance, outlier_bounds_spoken)
+    plot_stationary_targets_over_time(intervals_whistled, slope_tolerance, outlier_bounds_whistled)
 
 
 
